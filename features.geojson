@@ -2240,6 +2240,23 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "teste",
+        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!edificio-villares/cii7\">Edifício Track</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!salvador-candia/c1pg0\">Salvador Candia</a> </center>",
+        "marker-size": "small",
+        "marker-color": "#ff2121"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.613984,
+          -23.563402
+        ],
+        "type": "Point"
+      },
+      "id": "546fafd2689c693f14c417d20080bfbb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "marker-ia4s0sqr0",
         "title": "<span style=\"display: none\"> Planetário do Ibirapuera </span> ",
         "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!planetario-do-ibirapuera/crp7\">Planetário do Ibirapuera</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!eduardo-corona/c9t1\">Eduardo Corona</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!roberto-tibau/c13ga\">Roberto Tibau</a> </center>",
