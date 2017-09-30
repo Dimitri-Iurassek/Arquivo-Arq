@@ -4506,8 +4506,8 @@
       },
       "geometry": {
         "coordinates": [
-          -46.642863,
-          -23.548192
+          -46.642944,
+          -23.548429
         ],
         "type": "Point"
       },
@@ -5024,6 +5024,23 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "<span style=\"display: none\"> Edifício Ouro Preto </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/edificio-ouro-preto\">Edifício Ouro Preto</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/franz-heep\">Franz Heep</a> </center>",
+        "marker-size": "small",
+        "marker-color": "#ff2121"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.64278,
+          -23.545772
+        ],
+        "type": "Point"
+      },
+      "id": "c06338d2a7544e65c661975cb5cb52a5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "ci2xjasou02vpcdqwe8kwpo8w",
         "title": "<span style=\"display: none\"> Residência Antônio Cunha Lima </span> ",
         "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!residencia-antonio-cunha-lima/c1hu9\">Residência Antônio Cunha Lima</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!joaquim-guedes/cssc\">Joaquim Guedes</a> </center>",
@@ -5335,8 +5352,8 @@
       },
       "geometry": {
         "coordinates": [
-          -46.642045,
-          -23.547531
+          -46.6421,
+          -23.547447
         ],
         "type": "Point"
       },
@@ -5455,6 +5472,23 @@
         "type": "Point"
       },
       "id": "d045d4a573d8e7cb06ee4845ad1f18f8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "<span style=\"display: none\"> Edifício Roosevelt </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/edificio-roosevelt\">Edifício Roosevelt</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/sylvio-ekman\">Sylvio Ekman</a> </center>",
+        "marker-size": "small",
+        "marker-color": "#ff2121"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.642809,
+          -23.545608
+        ],
+        "type": "Point"
+      },
+      "id": "d0709f3953107cb367a9f49620dbc06c"
     },
     {
       "type": "Feature",
@@ -5605,6 +5639,23 @@
         "type": "Point"
       },
       "id": "d7b24a19054ec0f2a58bb6bc49b296eb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "<span style=\"display: none\"> Edifício Princesa Isabel </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/edificio-princesa-isabel\">Edifício Princesa Isabel</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/alfredo-mathias\">Alfredo Mathias</a> </center>",
+        "marker-size": "small",
+        "marker-color": "#ff2121"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.64273,
+          -23.546113
+        ],
+        "type": "Point"
+      },
+      "id": "d86c564c0b6a1c8b45ce4b196b66ee12"
     },
     {
       "type": "Feature",
