@@ -126,8 +126,8 @@
       },
       "geometry": {
         "coordinates": [
-          -46.648845,
-          -23.545458
+          -46.648799,
+          -23.545518
         ],
         "type": "Point"
       },
@@ -373,8 +373,8 @@
       },
       "geometry": {
         "coordinates": [
-          -46.671928,
-          -23.58912
+          -46.67191,
+          -23.589148
         ],
         "type": "Point"
       },
@@ -1045,7 +1045,7 @@
       "type": "Feature",
       "properties": {
         "id": "marker-itds68mv0",
-        "title": "<span style=\"display: none\"> Agência do Banco Nacional </span> ",
+        "title": "<span style=\"display: none\"> Residência Chiyo Hama </span> ",
         "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/agencia-do-banco-nacional\">Agência do Banco Nacional</a> </center>  <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!sidonio-porto/c16ua\">Sidonio Porto</a> </center>",
         "marker-size": "small",
         "marker-color": "#ff2121",
@@ -2258,23 +2258,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "teste",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!edificio-villares/cii7\">Edifício Track</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!salvador-candia/c1pg0\">Salvador Candia</a> </center>",
-        "marker-size": "small",
-        "marker-color": "#ff2121"
-      },
-      "geometry": {
-        "coordinates": [
-          -46.613984,
-          -23.563402
-        ],
-        "type": "Point"
-      },
-      "id": "546fafd2689c693f14c417d20080bfbb"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "marker-ia4s0sqr0",
         "title": "<span style=\"display: none\"> Planetário do Ibirapuera </span> ",
         "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!planetario-do-ibirapuera/crp7\">Planetário do Ibirapuera</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!eduardo-corona/c9t1\">Eduardo Corona</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!roberto-tibau/c13ga\">Roberto Tibau</a> </center>",
@@ -2632,6 +2615,23 @@
         "type": "Point"
       },
       "id": "60a2cce099454bb9573ccb6af28a2a2d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "<span style=\"display: none\"> Cine Art-Palácio (Cine UFA Palácio) </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/cine-art-palacio\">Cine Art-Palácio (Cine UFA Palácio)</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/rino-levi\">Rino Levi</a> </center>",
+        "marker-size": "small",
+        "marker-color": "#ff2121"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.638423,
+          -23.543654
+        ],
+        "type": "Point"
+      },
+      "id": "62554c4c058f096037d643560253c22a"
     },
     {
       "type": "Feature",
@@ -4131,6 +4131,23 @@
         "type": "Point"
       },
       "id": "9b887f19e18e219dcc9a038b5204e9c3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "<span style=\"display: none\"> Residência Chaim Goldenstein </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/residencia-chaim-goldenstein\">Residência Chaim Goldenstein</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/abelardo-de-souza\">Abelardo de Souza</a> </center>",
+        "marker-size": "small",
+        "marker-color": "#ff2121"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.670173,
+          -23.54469
+        ],
+        "type": "Point"
+      },
+      "id": "9ca594c09aa1183ca227162251bf3b66"
     },
     {
       "type": "Feature",
@@ -6129,8 +6146,8 @@
       },
       "geometry": {
         "coordinates": [
-          -46.637284,
-          -23.55218
+          -46.637307,
+          -23.551973
         ],
         "type": "Point"
       },
@@ -6646,6 +6663,23 @@
         "type": "Point"
       },
       "id": "fb2df3eacd5e490aaa49b2a8c0bc7df7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "<span style=\"display: none\"> Residência Castor Delgado Perez (Cine UFA Palácio) </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/residencia-castor-delgado-perez\">Residência Castor Delgado Perez</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/rino-levi\">Rino Levi</a> </center>",
+        "marker-size": "small",
+        "marker-color": "#ff2121"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.675309,
+          -23.577855
+        ],
+        "type": "Point"
+      },
+      "id": "fbf11e4539c95b3c1723121be8419890"
     },
     {
       "type": "Feature",
