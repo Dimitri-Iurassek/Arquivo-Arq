@@ -421,20 +421,6 @@
     {
       "type": "Feature",
       "properties": {
-        "Projeto": "Residência Chaim Goldenstein"
-      },
-      "geometry": {
-        "coordinates": [
-          -46.670141,
-          -23.544774
-        ],
-        "type": "Point"
-      },
-      "id": "141caabee3c2f4dcba2a6b67ef37e3d6"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "ci2wo9riv02foa5qwtqmzawcp",
         "title": "<span style=\"display: none\"> Edifício Viadutos </span>",
         "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!edificio-viadutos/cf37\">Edifício Viadutos</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!artacho-jurado/c1p2g\">Artacho Jurado</a> </center>",
@@ -771,6 +757,23 @@
         "type": "Point"
       },
       "id": "22a40609ee0e4857d3a2e64c954d4ee2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "<span style=\"display: none\"> Edifício Mirante do Vale </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/edificio-mirante-do-vale\">Edifício Mirante do Vale</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/aron-kogan\">Aron Kogan</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/waldomiro-zarzur\">Waldomiro Zarzur</a> </center>",
+        "marker-size": "small",
+        "marker-color": "#ff2121"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.635427,
+          -23.542161
+        ],
+        "type": "Point"
+      },
+      "id": "22d63ef8bd1bbdde2d2eaa1ab7f75522"
     },
     {
       "type": "Feature",
@@ -2011,7 +2014,7 @@
       "type": "Feature",
       "properties": {
         "title": "<span style=\"display: none\"> Edifício Cinderela </span> ",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/edificio-alcatrazes\">Edifício Alcatrazes</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/fabio-penteado\">Fábio Penteado</a> </center>",
+        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/edificio-cinderela\">Edifício Cinderela</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/aron-kogan\">Aron Kogan</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/waldomiro-zarzur\">Waldomiro Zarzur</a> </center>",
         "marker-size": "small",
         "marker-color": "#ff2121"
       },
@@ -4717,20 +4720,6 @@
         "type": "Point"
       },
       "id": "b3124e965aad7b0e503613050af357d1"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Projeto": "Residência Chaim Goldenstein"
-      },
-      "geometry": {
-        "coordinates": [
-          -46.670141,
-          -23.544774
-        ],
-        "type": "Point"
-      },
-      "id": "b43269df3b94cfc2418b1fb5143e7bee"
     },
     {
       "type": "Feature",
