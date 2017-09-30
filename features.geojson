@@ -5499,6 +5499,23 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "<span style=\"display: none\"> Edifício Matarazzo </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/edificio-matarazzo\">Edifício Matarazzo</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!marcello-fragelli/c7c7\">Marcello Piacentini</a> </center>",
+        "marker-size": "small",
+        "marker-color": "#ff2121"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.637426,
+          -23.547612
+        ],
+        "type": "Point"
+      },
+      "id": "d106c32d0728dfee77f506f895b9f490"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "ci5oo6upd003tjvnsy2exk0lp",
         "title": "<span style=\"display: none\"> Edifício Duque de Caxias </span> ",
         "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!edificio-duque-de-caxias/cqyo\">Edifício Duque de Caxias</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!artacho-jurado/c1p2g\">Artacho Jurado</a> </center>",
