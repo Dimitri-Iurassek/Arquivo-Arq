@@ -531,6 +531,23 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "<span style=\"display: none\"> Banco da Lavoura de Minas Gerais </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/edificio-nestle\">Edifício Nestlé</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/alvaro-vital-brazil\">Álvaro Vital Brazil</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/salvador-candia\">Salvador Candia</a> </center>",
+        "marker-size": "small",
+        "marker-color": "#ff2121"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.633441,
+          -23.545379
+        ],
+        "type": "Point"
+      },
+      "id": "1c55b6e58fbd0b536849b054f199a436"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "marker-io3uu1em4",
         "title": "<span style=\"display: none\"> Residência Cincinato Cajado Braga </span> ",
         "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!residencia-cincinato-cajado-braga/co8r\">Residência Cincinato Cajado Braga</a> </center>  <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!sergio-bernardes/c19eu\">Sergio Bernardes</a> </center>",
@@ -1080,6 +1097,23 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "<span style=\"display: none\"> Sede do IAPC </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/sede-do-iapc\">Sede do IAPC</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/jayme-fonseca-rodrigues\">Jayme Fonseca Rodrigues</a> </center>",
+        "marker-size": "small",
+        "marker-color": "#ff2121"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.636136,
+          -23.541852
+        ],
+        "type": "Point"
+      },
+      "id": "2db794a7eddb784e1c64fb89e85211ed"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "marker-i9sw48361",
         "title": "<span style=\"display: none\"> Edifício Normandie </span> ",
         "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!edificio-normandie/c1lcd\">Edifício Normandie</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!franz-heep/cb90\">Franz Heep</a> </center>",
@@ -1612,6 +1646,23 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "<span style=\"display: none\"> Residência Jayme Arcoverde de Albuquerque Cavalcanti </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/residencia-jayme-a-de-albuquerque-caval\">Residência Jayme Arcoverde de Albuquerque Cavalcanti</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/jayme-fonseca-rodrigues\">Jayme Fonseca Rodrigues</a> </center>",
+        "marker-size": "small",
+        "marker-color": "#ff2121"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.6617,
+          -23.546826
+        ],
+        "type": "Point"
+      },
+      "id": "442c32c4df8751a22ae01f5c9205bb08"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "ci2wo9rig02fea5qwwpkxon9z",
         "title": "<span style=\"display: none\" Edifício Nações Unidas </span> ",
         "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!edificio-nacoes-unidas/c1u51\">Edifício Nações Unidas</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!abelardo-de-souza/cq3m\">Abelardo de Souza</a> </center>",
@@ -1760,6 +1811,23 @@
         "type": "Point"
       },
       "id": "491c352f374f020941ac3f26f352c870"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "<span style=\"display: none\"> Residência Jayme Fonseca Rodrigues </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/residencia-jayme-fonseca-rodrigues\">Residência Jayme Fonseca Rodrigues</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/jayme-fonseca-rodrigues\">Jayme Fonseca Rodrigues</a> </center>",
+        "marker-size": "small",
+        "marker-color": "#ff2121"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.661743,
+          -23.546982
+        ],
+        "type": "Point"
+      },
+      "id": "4996e3edd26493c50860463d9b738816"
     },
     {
       "type": "Feature",
@@ -1944,8 +2012,8 @@
       },
       "geometry": {
         "coordinates": [
-          -46.659273,
-          -23.533514
+          -46.659304,
+          -23.533539
         ],
         "type": "Point"
       },
@@ -2839,6 +2907,23 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "<span style=\"display: none\"> Othon Palace Hotel </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/othon-palace-hotel\">Othon Palace Hotel</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/philipp-lohbauer\">Philipp Lohbauer</a> </center>",
+        "marker-size": "small",
+        "marker-color": "#ff2121"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.636809,
+          -23.547827
+        ],
+        "type": "Point"
+      },
+      "id": "680c3f5200baaf8d26baf90fc1c253d7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "marker-is6zwpal1",
         "title": "<span style=\"display: none\"> Residência Gertrudes Elisabeth Wagner </span> ",
         "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!residencia-gertrudes-elisabeth-wagner/c2so\">Residência Gertrudes Elisabeth Wagner</a> </center>  <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!carlo-barjas-millan/c1yfy\">Carlos Barjas Millan</a> </center>",
@@ -3314,6 +3399,23 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "<span style=\"display: none\"> Vila Adelaide </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/vila-adelaide\">Vila Adelaide</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/maximilian-hehl\">Maximilian Hehl</a> </center>",
+        "marker-size": "small",
+        "marker-color": "#ff2121"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.654382,
+          -23.544735
+        ],
+        "type": "Point"
+      },
+      "id": "7c29cbb63a7dc4aef2ef840fe8473df4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "marker-iv0fqjxg0",
         "title": "<span style=\"display: none\"> Edifício Cmte. Linneu Gomes </span> ",
         "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!edificio-cmte-linneu-gomes/c17lt\">Edifício Cmte. Linneu Gomes</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!oswaldo-bratke/crg7\">Oswaldo Bratke</a> </center>",
@@ -3595,6 +3697,23 @@
         "type": "Point"
       },
       "id": "8492468f6ea2cc42a2794c7dfa26317c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "<span style=\"display: none\"> Secretaria da Fazenda </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/secretaria-da-fazenda\">Secretaria da Fazenda</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/ferrucio-julio-pinotti\">Ferrucio Julio Pinotti</a> </center>",
+        "marker-size": "small",
+        "marker-color": "#ff2121"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.630371,
+          -23.550184
+        ],
+        "type": "Point"
+      },
+      "id": "86203a3f6a64f87c50a512320d7b2d86"
     },
     {
       "type": "Feature",
@@ -5075,6 +5194,23 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "<span style=\"display: none\"> Catedral da Sé </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/catedral-da-se\">Catedral da Sé</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/maximilian-hehl\">Maximilian Hehl</a> </center>",
+        "marker-size": "small",
+        "marker-color": "#ff2121"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.634156,
+          -23.55098
+        ],
+        "type": "Point"
+      },
+      "id": "c1f71e0711eb40855968c592a2a0eac6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "marker-iuug3eq21",
         "title": "<span style=\"display: none\"> Banco Safra </span>",
         "description": " <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/banco-safra\">Banco Safra</a> </center> <center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/roberto-loeb\">Roberto Loeb</a> </center>",
@@ -5601,25 +5737,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "marker-iffewpre0",
-        "title": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/igreja-da-consolacao\">Igreja da Consolação</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/maximilian-hehl\">Maximilian Hehl</a> </center>",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!edificio-nestle/c1cem\">Edifício Nestlé</a> </center> \n<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!alberto-botti/c208j\">Alberto Botti</a> </center>",
-        "marker-size": "small",
-        "marker-color": "#ff2121",
-        "marker-symbol": ""
-      },
-      "geometry": {
-        "coordinates": [
-          -46.650243,
-          -23.547928
-        ],
-        "type": "Point"
-      },
-      "id": "d63ac22b31f0d491bac5319e445791bb"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "marker-ifewoiy40",
         "title": "<span style=\"display: none\"> Edifício para consultórios </span> ",
         "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!edificio-para-consultorios/c1l9q\">Edifício para consultórios</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!eduardo-kneese-de-mello/c118p\">Eduardo Knesse de Mello</a> </center>",
@@ -5969,8 +6086,8 @@
       },
       "geometry": {
         "coordinates": [
-          -46.666561,
-          -23.566981
+          -46.666703,
+          -23.566974
         ],
         "type": "Point"
       },
@@ -6093,25 +6210,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "marker-if4tsbib1",
-        "title": "<span style=\"display: none\"> Edifício Albina </span> ",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!edificio-albina/c47n\">Edifício Albina</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!alberto-botti/c208j\">Alberto Botti</a> </center>",
-        "marker-size": "small",
-        "marker-color": "#ff2121",
-        "marker-symbol": ""
-      },
-      "geometry": {
-        "coordinates": [
-          -46.659273,
-          -23.533514
-        ],
-        "type": "Point"
-      },
-      "id": "ea7a3d8fcae7819de1610b81ae56c875"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "marker-iuufde7c0",
         "title": "<span style=\"display: none\"> Centro da Cultura Judaica </span> ",
         "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/centro-da-cultura-judaica\">Centro da Cultura Judaica</a> </center> <center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/roberto-loeb\">Roberto Loeb</a> </center>",
@@ -6146,6 +6244,23 @@
         "type": "Point"
       },
       "id": "eb86d0c1f80d9eef96b7b66925631d5a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "<span style=\"display: none\"> Edifício Nestlé </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/edificio-nestle\">Edifício Nestlé</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/alberto-botti\">Alberto Botti</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/marc-rubin\">Marc Rubin</a> </center>",
+        "marker-size": "small",
+        "marker-color": "#ff2121"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.650253,
+          -23.547925
+        ],
+        "type": "Point"
+      },
+      "id": "ebfbbf024a35e7cf490d0c22ffe6e884"
     },
     {
       "type": "Feature",
