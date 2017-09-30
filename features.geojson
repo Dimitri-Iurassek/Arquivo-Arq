@@ -69,8 +69,8 @@
       },
       "geometry": {
         "coordinates": [
-          -46.654799,
-          -23.546382
+          -46.654853,
+          -23.54637
         ],
         "type": "Point"
       },
@@ -202,8 +202,8 @@
       },
       "geometry": {
         "coordinates": [
-          -46.66015,
-          -23.531746
+          -46.660155,
+          -23.531738
         ],
         "type": "Point"
       },
@@ -303,6 +303,23 @@
         "type": "Point"
       },
       "id": "0e9a52f3ecfaad221a50cd9f39814723"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "<span style=\"display: none\"> Banco Paulista de Comércio </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/banco-paulista-do-comercio\">Banco Paulista de Comércio</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/rino-levi\">Rino Levi</a> </center>",
+        "marker-size": "small",
+        "marker-color": "#ff2121"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.633595,
+          -23.544911
+        ],
+        "type": "Point"
+      },
+      "id": "0eb103cd662c90f22ca636b3be8b21ae"
     },
     {
       "type": "Feature",
@@ -417,44 +434,6 @@
         "type": "Point"
       },
       "id": "11cb6800ec64ae0ffeda4266733ea189"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "ci2wo9riv02foa5qwtqmzawcp",
-        "title": "<span style=\"display: none\"> Edifício Viadutos </span>",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!edificio-viadutos/cf37\">Edifício Viadutos</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!artacho-jurado/c1p2g\">Artacho Jurado</a> </center>",
-        "marker-size": "small",
-        "marker-color": "#ff2121",
-        "marker-symbol": ""
-      },
-      "geometry": {
-        "coordinates": [
-          -46.641979,
-          -23.550987
-        ],
-        "type": "Point"
-      },
-      "id": "1508889c281314ce85c3909ee295a409"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "marker-iup4flgv0",
-        "title": "<span style=\"display: none\"> Teatro Cultura Artística </span> ",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/teatro-cultura-artistica\">Teatro Cultura Artística</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!rino-levi/cryc\">Rino Levi</a> </center>  <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!roberto-cerqueira-cesar/cqw5\">Roberto Cerqueira César</a> </center>",
-        "marker-size": "small",
-        "marker-color": "#ff2121",
-        "marker-symbol": ""
-      },
-      "geometry": {
-        "coordinates": [
-          -46.6459,
-          -23.549195
-        ],
-        "type": "Point"
-      },
-      "id": "160b79026ee74ae80e0e49aac463a8c8"
     },
     {
       "type": "Feature",
@@ -704,25 +683,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "ci5oo6upd003tjvnsy2exk0lp",
-        "title": "<span style=\"display: none\"> Edifício Duque de Caxias </span> ",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!edificio-duque-de-caxias/cqyo\">Edifício Duque de Caxias</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!artacho-jurado/c1p2g\">Artacho Jurado</a> </center>",
-        "marker-size": "small",
-        "marker-color": "#ff2121",
-        "marker-symbol": ""
-      },
-      "geometry": {
-        "coordinates": [
-          -46.645744,
-          -23.538494
-        ],
-        "type": "Point"
-      },
-      "id": "220d694b55564f996262ad9f3de162c7"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "marker-ihup05pz2",
         "title": "<span style=\"display: none\"> Edifício Wilton Paes de Almeida </span> ",
         "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!edifcio-wilton-paes-de-almeida/c8if\">Edifício Wilton Paes de Almeida</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!roger-zmekhol/c1kqc\">Roger Zmekhol</a> </center>",
@@ -793,25 +753,6 @@
         "type": "Point"
       },
       "id": "231720552a52debc81f819f186667a9e"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "ci39lg5n706hsblqt1ptb85e6",
-        "title": "<span style=\"display: none\"> Edifício Nicolau Schisser </span> ",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!edificio-nicolau-schisser/c11aj\">Edifício Nicolau Schisser</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!rino-levi/cryc\">Rino Levi</a> </center>",
-        "marker-size": "small",
-        "marker-color": "#ff2121",
-        "marker-symbol": ""
-      },
-      "geometry": {
-        "coordinates": [
-          -46.654686,
-          -23.553247
-        ],
-        "type": "Point"
-      },
-      "id": "2338634dff3be7d30646974952dc0898"
     },
     {
       "type": "Feature",
@@ -1851,8 +1792,8 @@
       },
       "geometry": {
         "coordinates": [
-          -46.654686,
-          -23.553247
+          -46.654497,
+          -23.553159
         ],
         "type": "Point"
       },
@@ -2539,6 +2480,23 @@
         "type": "Point"
       },
       "id": "5db32c294a30f7da48ec0e6299544647"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "<span style=\"display: none\"> Edifício Parque das Hortênsias </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/edificio-parque-das-hortensias\">Edifício Parque das Hortênsias</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/artacho-jurado\">Artacho Jurado</a> </center>",
+        "marker-size": "small",
+        "marker-color": "#ff2121"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.656316,
+          -23.542399
+        ],
+        "type": "Point"
+      },
+      "id": "5e5d544970bd48ef519ccfc77a432558"
     },
     {
       "type": "Feature",
@@ -3403,8 +3361,8 @@
       },
       "geometry": {
         "coordinates": [
-          -46.658817,
-          -23.559121
+          -46.658587,
+          -23.55903
         ],
         "type": "Point"
       },
@@ -3555,8 +3513,8 @@
       },
       "geometry": {
         "coordinates": [
-          -46.6459,
-          -23.549195
+          -46.645876,
+          -23.549246
         ],
         "type": "Point"
       },
@@ -3770,6 +3728,23 @@
         "type": "Point"
       },
       "id": "8aa239c7358a68f61f4da8013f5fd8f4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "<span style=\"display: none\"> Edifício Saint Honoré </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/edificio-saint-honore\">Edifício Saint Honoré</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/artacho-jurado\">Artacho Jurado</a> </center>",
+        "marker-size": "small",
+        "marker-color": "#ff2121"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.653614,
+          -23.564234
+        ],
+        "type": "Point"
+      },
+      "id": "8bd5177c88715703d3ee58dcee47beae"
     },
     {
       "type": "Feature",
@@ -4400,7 +4375,7 @@
       "type": "Feature",
       "properties": {
         "id": "ci2wo9rhw02eva5qwjn2c9kk2",
-        "title": "<span style=\"display: none\"> Edifício Bretagne </span> ",
+        "title": "<span style=\"display: none\"> Edifício Pacaembu </span> ",
         "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!edificio-bretagne/c21l6\">Edifício Bretagne</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!artacho-jurado/c1p2g\">Artacho Jurado</a> </center>",
         "marker-size": "small",
         "marker-color": "#ff2121",
@@ -4408,8 +4383,8 @@
       },
       "geometry": {
         "coordinates": [
-          -46.660013,
-          -23.541415
+          -46.660015,
+          -23.541257
         ],
         "type": "Point"
       },
@@ -5559,8 +5534,8 @@
       },
       "geometry": {
         "coordinates": [
-          -46.645744,
-          -23.538494
+          -46.645723,
+          -23.538513
         ],
         "type": "Point"
       },
@@ -5700,8 +5675,8 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "ci2wo9rhu02eta5qwkbye4kec",
-        "title": "<span style=\"display: none\"> Edifício Arper </span> ",
+        "id": "ci2wo9rii02fga5qw79lull1i",
+        "title": "<span style=\"display: none\"> Edifício Planalto </span> ",
         "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!edificio-arper/csrt\">Edifício Arper</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!david-libeskind/c1k84\">David Libeskind</a> </center>",
         "marker-size": "small",
         "marker-color": "#ff2121",
@@ -5747,8 +5722,8 @@
       },
       "geometry": {
         "coordinates": [
-          -46.640101,
-          -23.551622
+          -46.640144,
+          -23.551706
         ],
         "type": "Point"
       },
@@ -5804,31 +5779,12 @@
       },
       "geometry": {
         "coordinates": [
-          -46.654585,
-          -23.544543
+          -46.654598,
+          -23.544673
         ],
         "type": "Point"
       },
       "id": "dd9f5a2570d7f24719f5db8cbc9e2607"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "ci6wwj40l01o9jnkltcsegstv",
-        "title": "<span style=\"display: none\"> Edifício Lugano e Locarno </span> ",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!edificio-lugano-e-locarno/c1hzt\">Edifício Lugano e Locarno</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!franz-heep/cb90\">Franz Heep</a> </center>",
-        "marker-size": "small",
-        "marker-color": "#ff2121",
-        "marker-symbol": ""
-      },
-      "geometry": {
-        "coordinates": [
-          -46.655142,
-          -23.543933
-        ],
-        "type": "Point"
-      },
-      "id": "deb1a723d86fa332b8a978cfd3f32e0e"
     },
     {
       "type": "Feature",
@@ -6057,25 +6013,6 @@
         "type": "Point"
       },
       "id": "e6e63a756989ef4a6ee334afc18aa2be"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "marker-iv8z5ljr0",
-        "title": "<span style=\"display: none\"> Edifício Pacaembu </span> ",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/edificio-pacaembu\">Edifício Pacaembu</a> </center> <center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!artacho-jurado/c1p2g\">Artacho Jurado</a> </center>",
-        "marker-size": "small",
-        "marker-color": "#ff2121",
-        "marker-symbol": ""
-      },
-      "geometry": {
-        "coordinates": [
-          -46.66015,
-          -23.531746
-        ],
-        "type": "Point"
-      },
-      "id": "e905a2dfafd3dfa8e71e779be25d3bfa"
     },
     {
       "type": "Feature",
@@ -6372,8 +6309,8 @@
       },
       "geometry": {
         "coordinates": [
-          -46.655142,
-          -23.543933
+          -46.655126,
+          -23.544024
         ],
         "type": "Point"
       },
@@ -6458,25 +6395,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "ci5oo6upf003ujvnspldjzlai",
-        "title": "<span style=\"display: none\"> Edifício Piauí </span> ",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!edificio-piaui/c20lg\">Edifício Piauí</a> </center> \n<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!artacho-jurado/c1p2g\">Artacho Jurado</a> </center>",
-        "marker-size": "small",
-        "marker-color": "#ff2121",
-        "marker-symbol": ""
-      },
-      "geometry": {
-        "coordinates": [
-          -46.654799,
-          -23.546382
-        ],
-        "type": "Point"
-      },
-      "id": "f35c443c08b1dc0fd343a1babd178a32"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "marker-itwaj20o0",
         "title": "<span style=\"display: none\"> Edificio Andraus </span> ",
         "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/edificio-andraus\">Edificio Andraus</a> </center>  <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/majer-botkowski\">Majer Botkowski</a> </center>",
@@ -6524,8 +6442,8 @@
       },
       "geometry": {
         "coordinates": [
-          -45.885407,
-          -23.169835
+          -45.885472,
+          -23.169724
         ],
         "type": "Point"
       },
@@ -6667,7 +6585,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "<span style=\"display: none\"> Residência Castor Delgado Perez (Cine UFA Palácio) </span> ",
+        "title": "<span style=\"display: none\"> Residência Castor Delgado Perez </span> ",
         "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/residencia-castor-delgado-perez\">Residência Castor Delgado Perez</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/rino-levi\">Rino Levi</a> </center>",
         "marker-size": "small",
         "marker-color": "#ff2121"
