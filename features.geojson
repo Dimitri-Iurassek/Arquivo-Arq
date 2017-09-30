@@ -3398,7 +3398,7 @@
       "type": "Feature",
       "properties": {
         "id": "ci2wo9ri002eza5qwf50u8d76",
-        "title": "<span style=\"display: none\"> Edifício Viadutos </span>",
+        "title": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!edificio-villares/cii7\">Edifício Track</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!salvador-candia/c1pg0\">Salvador Candia</a> </center>",
         "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!edificio-conde-de-prates/cal6\">Edifício Conde de Prates</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!giancarlo-palanti/cjv9\">Giancarlo Palanti</a> </center>",
         "marker-size": "small",
         "marker-color": "#ff2121",
@@ -4366,22 +4366,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "marker-it3soz7m0",
-        "Projeto": "Edifício Conde Luiz Eduardo Matarazzo",
-        "Arquiteto": "Marcelo Piacentini"
-      },
-      "geometry": {
-        "coordinates": [
-          -46.637456,
-          -23.547614
-        ],
-        "type": "Point"
-      },
-      "id": "a83a3a3d88c8fa80a16f94b2642f42a1"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "ci2wo9rhw02eva5qwjn2c9kk2",
         "title": "<span style=\"display: none\"> Edifício Bretagne </span> ",
         "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!edificio-bretagne/c21l6\">Edifício Bretagne</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!artacho-jurado/c1p2g\">Artacho Jurado</a> </center>",
@@ -4834,7 +4818,7 @@
       "type": "Feature",
       "properties": {
         "id": "ci3i4qsgi0005f0qtlkd5v51q",
-        "title": "<span style=\"display: none\"> Edifício Barão de Iguape </span> ",
+        "title": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/edificio-matarazzo\">Edifício Matarazzo</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!marcello-fragelli/c7c7\">Marcello Piacentini</a> </center>",
         "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!edificio-baro-de-iguape/cm2v\">Edifício Barão de Iguape</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!gian-carlo-gasperini/cgtz\">Gian Carlo Gasperini</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!jacques-pilon/c8h2\">Jacques Pilon</a> </center>",
         "marker-size": "small",
         "marker-color": "#ff2121",
@@ -4948,7 +4932,7 @@
       "type": "Feature",
       "properties": {
         "id": "marker-ii5dynjo0",
-        "title": "<span style=\"display: none\"> Edifício Rodhia </span> ",
+        "title": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/edificio-matarazzo\">Edifício Matarazzo</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!marcello-fragelli/c7c7\">Marcello Piacentini</a> </center>",
         "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!edificio-rhodia/cstg\">Edifício Rodhia</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!henri-sajous/cym\">Henri Sajous</a> </center>",
         "marker-size": "small",
         "marker-color": "#ff2121",
@@ -5076,22 +5060,6 @@
         "type": "Point"
       },
       "id": "c0f6029b6886e21633bd6efee7213f96"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "marker-it3soz7m0",
-        "Projeto": "Edifício Conde Luiz Eduardo Matarazzo",
-        "Arquiteto": "Marcelo Piacentini"
-      },
-      "geometry": {
-        "coordinates": [
-          -46.637456,
-          -23.547614
-        ],
-        "type": "Point"
-      },
-      "id": "c1054971e31bffc89a99e04eee04b60b"
     },
     {
       "type": "Feature",
@@ -5320,6 +5288,23 @@
         "type": "Point"
       },
       "id": "c9e1a7598d0c21c79c18585f6b57bc24"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "<span style=\"display: none\">Rocha Mendes</span>",
+        "description": "<center><a target=\"_parent\" href=\"http://www.arquivo.arq.br/#!edificio-villares/cii7\">Rocha Mendes</a></center> <center><a target=\"_parent\" href=\"http://www.arquivo.arq.br/#!salvador-candia/c1pg0\">Salvador Candia</a></center>",
+        "marker-size": "small",
+        "marker-color": "#ff2121"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.578178,
+          -23.583563
+        ],
+        "type": "Point"
+      },
+      "id": "ca1405a5d0feafa8a9269a1b28a581a9"
     },
     {
       "type": "Feature",
