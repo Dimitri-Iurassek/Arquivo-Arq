@@ -492,6 +492,23 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "<span style=\"display: none\"> Igreja da Consolação </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/igreja-da-consolacao\">Igreja da Consolação</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/maximilian-hehl\">Maximilian Hehl</a> </center>",
+        "marker-size": "small",
+        "marker-color": "#ff2121"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.646696,
+          -23.547673
+        ],
+        "type": "Point"
+      },
+      "id": "19d2e0b2b9418caa7d2dc2e55bc7de9e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "ci33zszbv02rdbqsaxlyfxda8",
         "title": "<span style=\"display: none\"> Residência Mario Masetti </span> ",
         "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!residncia-mario-masetti/cvvr\">Residência Mario Masetti</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!paulo-mendes-da-rocha/c109j\">Paulo Mendes da Rocha</a> </center>",
@@ -646,15 +663,15 @@
       "properties": {
         "id": "ci2xjasol02vgcdqwfrl2wjyz",
         "title": "<span style=\"display: none\"> Galeria Metrópole </center>",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!galeria-metropole/c1k0s\">Galeria Metrópole</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!gian-carlo-gasperini/cgtz\">Gian Carlo Gasperini</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!salvador-candia/c1pg0\">Salvador Candia</a> </center>",
+        "description": "small",
         "marker-size": "small",
         "marker-color": "#ff2121",
         "marker-symbol": ""
       },
       "geometry": {
         "coordinates": [
-          -46.642639,
-          -23.546407
+          -46.642644,
+          -23.546419
         ],
         "type": "Point"
       },
@@ -672,8 +689,8 @@
       },
       "geometry": {
         "coordinates": [
-          -46.660794,
-          -23.554199
+          -46.660779,
+          -23.554222
         ],
         "type": "Point"
       },
@@ -1993,6 +2010,23 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "<span style=\"display: none\"> Edifício Cinderela </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/edificio-alcatrazes\">Edifício Alcatrazes</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/fabio-penteado\">Fábio Penteado</a> </center>",
+        "marker-size": "small",
+        "marker-color": "#ff2121"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.652581,
+          -23.540202
+        ],
+        "type": "Point"
+      },
+      "id": "4da50b46d7cd10ac5548f6219f24808b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "ci2xjasou02vpcdqwe8kwpo8w",
         "title": "<span style=\"display: none\"> Residência Antônio Cunha Lima </span> ",
         "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!residencia-antonio-cunha-lima/c1hu9\">Residência Antônio Cunha Lima</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!joaquim-guedes/cssc\">Joaquim Guedes</a> </center>",
@@ -2882,25 +2916,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "marker-iaq6qiab0",
-        "title": "<span style=\"display: none\"> Edifício Anchieta </span> ",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!edificio-anchieta/cj6u\">Edifício Anchieta</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!marcelo-roberto/c9kx\">Marcelo Roberto</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!milton-roberto/cc3f\">Milton Roberto</a> </center>\n",
-        "marker-size": "small",
-        "marker-color": "#ff2121",
-        "marker-symbol": ""
-      },
-      "geometry": {
-        "coordinates": [
-          -46.662915,
-          -23.555332
-        ],
-        "type": "Point"
-      },
-      "id": "692e3eba68dd1da4d05ff755e2477e40"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "marker-iophuwgm0",
         "Projeto": "Edifício Wilson Mendes Caldeira",
         "marker-size": "small",
@@ -3358,7 +3373,7 @@
       "type": "Feature",
       "properties": {
         "id": "marker-iaq6qiab0",
-        "title": "<span style=\"display: none\"> Edifício Anchieta </span> ",
+        "title": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/igreja-da-consolacao\">Igreja da Consolação</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/maximilian-hehl\">Maximilian Hehl</a> </center>",
         "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!edificio-anchieta/cj6u\">Edifício Anchieta</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!marcelo-roberto/c9kx\">Marcelo Roberto</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!milton-roberto/cc3f\">Milton Roberto</a> </center>\n",
         "marker-size": "small",
         "marker-color": "#ff2121",
@@ -3366,8 +3381,8 @@
       },
       "geometry": {
         "coordinates": [
-          -46.662915,
-          -23.555332
+          -46.662949,
+          -23.555344
         ],
         "type": "Point"
       },
@@ -5483,8 +5498,8 @@
       },
       "geometry": {
         "coordinates": [
-          -46.642809,
-          -23.545608
+          -46.642816,
+          -23.545612
         ],
         "type": "Point"
       },
@@ -5606,7 +5621,7 @@
       "type": "Feature",
       "properties": {
         "id": "marker-iffewpre0",
-        "title": "<span style=\"display: none\"> Edifício Nestlé </span> ",
+        "title": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/igreja-da-consolacao\">Igreja da Consolação</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/maximilian-hehl\">Maximilian Hehl</a> </center>",
         "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!edificio-nestle/c1cem\">Edifício Nestlé</a> </center> \n<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!alberto-botti/c208j\">Alberto Botti</a> </center>",
         "marker-size": "small",
         "marker-color": "#ff2121",
@@ -5614,8 +5629,8 @@
       },
       "geometry": {
         "coordinates": [
-          -46.650813,
-          -23.548044
+          -46.650243,
+          -23.547928
         ],
         "type": "Point"
       },
@@ -5650,8 +5665,8 @@
       },
       "geometry": {
         "coordinates": [
-          -46.64273,
-          -23.546113
+          -46.642708,
+          -23.546105
         ],
         "type": "Point"
       },
@@ -5808,25 +5823,6 @@
         "type": "Point"
       },
       "id": "deb1a723d86fa332b8a978cfd3f32e0e"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "marker-iffewpre0",
-        "title": "<span style=\"display: none\"> Edifício Nestlé </span> ",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!edificio-nestle/c1cem\">Edifício Nestlé</a> </center> \n<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!alberto-botti/c208j\">Alberto Botti</a> </center>",
-        "marker-size": "small",
-        "marker-color": "#ff2121",
-        "marker-symbol": ""
-      },
-      "geometry": {
-        "coordinates": [
-          -46.650813,
-          -23.548044
-        ],
-        "type": "Point"
-      },
-      "id": "dfbf0cb28015e3c2f4acf86c914926fb"
     },
     {
       "type": "Feature",
@@ -6245,6 +6241,23 @@
         "type": "Point"
       },
       "id": "ed03447187ad09d85457474cde8cb63d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "<span style=\"display: none\"> Edifício Alcatrazes </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/edificio-alcatrazes\">Edifício Alcatrazes</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/fabio-penteado\">Fábio Penteado</a> </center>",
+        "marker-size": "small",
+        "marker-color": "#ff2121"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.651998,
+          -23.541524
+        ],
+        "type": "Point"
+      },
+      "id": "ed2278cadf3a6d54c7ba76309dcbbfd8"
     },
     {
       "type": "Feature",
