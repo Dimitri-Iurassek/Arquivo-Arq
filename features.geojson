@@ -653,8 +653,8 @@
       },
       "geometry": {
         "coordinates": [
-          -46.642673,
-          -23.54639
+          -46.642639,
+          -23.546407
         ],
         "type": "Point"
       },
@@ -767,8 +767,8 @@
       },
       "geometry": {
         "coordinates": [
-          -46.643528,
-          -23.545288
+          -46.643536,
+          -23.545357
         ],
         "type": "Point"
       },
@@ -1020,25 +1020,6 @@
         "type": "Point"
       },
       "id": "29e1f64cf2033cfd2c4f8575def51b73"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "ci5oo6upg003vjvnsyh60zy6e",
-        "title": "<span style=\"display: none\"> Edifício Louvre </span> ",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!edificio-louvre/cg5y\">Edifício Louvre</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!artacho-jurado/c1p2g\">Artacho Jurado</a> </center>",
-        "marker-size": "small",
-        "marker-color": "#ff2121",
-        "marker-symbol": ""
-      },
-      "geometry": {
-        "coordinates": [
-          -46.643249,
-          -23.546719
-        ],
-        "type": "Point"
-      },
-      "id": "2ae1e7744d37abb922ac48f778f399d0"
     },
     {
       "type": "Feature",
@@ -2078,8 +2059,8 @@
       },
       "geometry": {
         "coordinates": [
-          -46.645478,
-          -23.544767
+          -46.645451,
+          -23.544908
         ],
         "type": "Point"
       },
@@ -2285,8 +2266,8 @@
       },
       "geometry": {
         "coordinates": [
-          -46.645642,
-          -23.544614
+          -46.645721,
+          -23.544611
         ],
         "type": "Point"
       },
@@ -2722,8 +2703,8 @@
       },
       "geometry": {
         "coordinates": [
-          -46.644513,
-          -23.543963
+          -46.644751,
+          -23.544231
         ],
         "type": "Point"
       },
@@ -2823,6 +2804,23 @@
         "type": "Point"
       },
       "id": "6733d5ca5ab726a8341c44df5f55238e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "<span style=\"display: none\"> Edifício Lorenzo Sarti </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/edificio-lorenzo-sarti\">Edifício Lorenzo Sarti</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/rino-levi\">Rino Levi</a> </center>",
+        "marker-size": "small",
+        "marker-color": "#ff2121"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.643005,
+          -23.542363
+        ],
+        "type": "Point"
+      },
+      "id": "67b2fe01e155bfadd1946c3eb5da6d08"
     },
     {
       "type": "Feature",
@@ -3007,8 +3005,8 @@
       },
       "geometry": {
         "coordinates": [
-          -46.643687,
-          -23.544882
+          -46.643901,
+          -23.544895
         ],
         "type": "Point"
       },
@@ -3349,8 +3347,8 @@
       },
       "geometry": {
         "coordinates": [
-          -46.643325,
-          -23.545817
+          -46.643456,
+          -23.545874
         ],
         "type": "Point"
       },
@@ -3729,8 +3727,8 @@
       },
       "geometry": {
         "coordinates": [
-          -46.643249,
-          -23.546719
+          -46.643186,
+          -23.546757
         ],
         "type": "Point"
       },
@@ -3824,7 +3822,7 @@
       },
       "geometry": {
         "coordinates": [
-          -46.644628,
+          -46.644544,
           -23.545352
         ],
         "type": "Point"
@@ -4959,8 +4957,8 @@
       },
       "geometry": {
         "coordinates": [
-          -46.641509,
-          -23.546407
+          -46.641745,
+          -23.546352
         ],
         "type": "Point"
       },
@@ -5060,25 +5058,6 @@
         "type": "Point"
       },
       "id": "c0f6029b6886e21633bd6efee7213f96"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "ci2xjasol02vgcdqwfrl2wjyz",
-        "title": "<span style=\"display: none\"> Galeria Metrópole </center>",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!galeria-metropole/c1k0s\">Galeria Metrópole</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!gian-carlo-gasperini/cgtz\">Gian Carlo Gasperini</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!salvador-candia/c1pg0\">Salvador Candia</a> </center>",
-        "marker-size": "small",
-        "marker-color": "#ff2121",
-        "marker-symbol": ""
-      },
-      "geometry": {
-        "coordinates": [
-          -46.642673,
-          -23.54639
-        ],
-        "type": "Point"
-      },
-      "id": "c13d72158e45e8bba31f7c787d121023"
     },
     {
       "type": "Feature",
@@ -5263,8 +5242,8 @@
       },
       "geometry": {
         "coordinates": [
-          -46.642844,
-          -23.544422
+          -46.642676,
+          -23.544632
         ],
         "type": "Point"
       },
@@ -5462,16 +5441,16 @@
       "type": "Feature",
       "properties": {
         "id": "ci2w75ng702foc3pael07xv71",
-        "title": "<span style=\"display: none\"> Copan </span> ",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!copan/c1oh0\">Copan</a> </center> \n<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!oscar-niemeyer/cjkp\">Oscar Niemeyer</a> </center>",
+        "title": "<span style=\"display: none\"> Edifício Copan </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!copan/c1oh0\">Edifício Copan</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!oscar-niemeyer/cjkp\">Oscar Niemeyer</a> </center>",
         "marker-size": "small",
         "marker-color": "#ff2121",
         "marker-symbol": ""
       },
       "geometry": {
         "coordinates": [
-          -46.644515,
-          -23.5465
+          -46.644609,
+          -23.54655
         ],
         "type": "Point"
       },
@@ -6247,8 +6226,8 @@
       },
       "geometry": {
         "coordinates": [
-          -46.644824,
-          -23.545347
+          -46.644949,
+          -23.545369
         ],
         "type": "Point"
       },
