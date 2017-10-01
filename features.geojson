@@ -221,8 +221,8 @@
       },
       "geometry": {
         "coordinates": [
-          -46.660898,
-          -23.584504
+          -46.660881,
+          -23.584494
         ],
         "type": "Point"
       },
@@ -434,6 +434,23 @@
         "type": "Point"
       },
       "id": "11cb6800ec64ae0ffeda4266733ea189"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "<span style=\"display: none\"> Quartel General </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/quartel-general\">Quartel General</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/paulo-de-mello-bastos\">Paulo de Mello Bastos</a> </center>",
+        "marker-size": "small",
+        "marker-color": "#ff2121"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.657146,
+          -23.57865
+        ],
+        "type": "Point"
+      },
+      "id": "16bb7278c6a3f8a4cf21bf9c4b3050cf"
     },
     {
       "type": "Feature",
@@ -1237,8 +1254,8 @@
       },
       "geometry": {
         "coordinates": [
-          -46.659638,
-          -23.587036
+          -46.659604,
+          -23.587029
         ],
         "type": "Point"
       },
@@ -1338,25 +1355,6 @@
         "type": "Point"
       },
       "id": "37d2fe3f6d7d8ee7259aceef002f56e7"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "ci2wo9riw02fpa5qwmwwabs8r",
-        "title": "<span style=\"display: none\"> Edifício Villares </span> ",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!edificio-villares/cii7\">Edifício Villares</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!salvador-candia/c1pg0\">Salvador Candia</a> </center>",
-        "marker-size": "small",
-        "marker-color": "#ff2121",
-        "marker-symbol": ""
-      },
-      "geometry": {
-        "coordinates": [
-          -46.61279,
-          -23.562364
-        ],
-        "type": "Point"
-      },
-      "id": "38adaf7a348cec6f39029dcef56ed53f"
     },
     {
       "type": "Feature",
@@ -1475,6 +1473,23 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "<span style=\"display: none\"> Residência Telésforo Cristófani </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/residencia-telesforo-cristofani\">Residência Telésforo Cristófani</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/telesforo-cristofani\">Telésforo Cristófani</a> </center>",
+        "marker-size": "small",
+        "marker-color": "#ff2121"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.681858,
+          -23.56804
+        ],
+        "type": "Point"
+      },
+      "id": "3d94db3bd5c1cff84a216820195a0fe9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "ci2xqjzgj02uxa5qwc2j770e2",
         "title": "<span style=\"display: none\"> Sede do Bank of London and South America </span> ",
         "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!sede-do-bank-of-london-and-south-america/cs3t\">Sede do Bank of London and South America</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!giancarlo-palanti/cjv9\">Giancarlo Palanti</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!henrique-mindlin/c12eu\">Henrique Mindlin</a> </center>",
@@ -1566,6 +1581,23 @@
         "type": "Point"
       },
       "id": "412aaeda2be2eaa4ee5a43ec1470bc10"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "<span style=\"display: none\"> Edifício Barão de Iguatemi </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/edificio-barao-de-iguatemi\">Edifício Barão de Iguatemi</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/salvador-candia\">Salvador Candia</a> </center>",
+        "marker-size": "small",
+        "marker-color": "#ff2121"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.686464,
+          -23.577414
+        ],
+        "type": "Point"
+      },
+      "id": "419aa46284ef7cca2ebcf2cc5fbdb6c1"
     },
     {
       "type": "Feature",
@@ -2191,25 +2223,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "marker-ia30xwa00",
-        "title": "<span style=\"display: none\"> Sede da TELESP </span> ",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!sede-da-telesp/cz0q\">Sede da TELESP</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!telesforo-cristofani/c1dw6\">Telésforo Cristófani</a> </center>",
-        "marker-size": "small",
-        "marker-color": "#ff2121",
-        "marker-symbol": ""
-      },
-      "geometry": {
-        "coordinates": [
-          -46.642885,
-          -23.566322
-        ],
-        "type": "Point"
-      },
-      "id": "52e6731cddd11bb1df8f5218a7d745c7"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "ci3erwge704nkecpbq8j1umza",
         "title": "<span style=\"display: none\"> Edifício e Galeria Califórnia </span> ",
         "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!edificio-e-galeria-california/cerx\">Edifício e Galeria Califórnia</a> </center> \n<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!oscar-niemeyer/cjkp\">Oscar Niemeyer</a> </center>",
@@ -2263,25 +2276,6 @@
         "type": "Point"
       },
       "id": "5463ce1a555a207c8afcf33a13b4dfb5"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "marker-ia4s0sqr0",
-        "title": "<span style=\"display: none\"> Planetário do Ibirapuera </span> ",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!planetario-do-ibirapuera/crp7\">Planetário do Ibirapuera</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!eduardo-corona/c9t1\">Eduardo Corona</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!roberto-tibau/c13ga\">Roberto Tibau</a> </center>",
-        "marker-size": "small",
-        "marker-color": "#ff2121",
-        "marker-symbol": ""
-      },
-      "geometry": {
-        "coordinates": [
-          -46.660898,
-          -23.584504
-        ],
-        "type": "Point"
-      },
-      "id": "54b1f70ca3add435d5bd4754b3663cb0"
     },
     {
       "type": "Feature",
@@ -2371,8 +2365,8 @@
       },
       "geometry": {
         "coordinates": [
-          -46.661392,
-          -23.584917
+          -46.661365,
+          -23.584914
         ],
         "type": "Point"
       },
@@ -2396,25 +2390,6 @@
         "type": "Point"
       },
       "id": "5b13c743d013b17dc895f95eeb81f946"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "marker-ii5h8hy50",
-        "title": "<span style=\"display: none\"> Pavilhão de Volta Redonda </span> ",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!pavilhao-de-volta-redonda/c1llo\">Pavilhão de Volta Redonda</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!sergio-bernardes/c19eu\">Sergio Bernardes</a> </center>\n ",
-        "marker-size": "small",
-        "marker-color": "#ff2121",
-        "marker-symbol": ""
-      },
-      "geometry": {
-        "coordinates": [
-          -46.659638,
-          -23.587036
-        ],
-        "type": "Point"
-      },
-      "id": "5b46b191517cb3d3196ee01625f95ce1"
     },
     {
       "type": "Feature",
@@ -2897,8 +2872,8 @@
       },
       "geometry": {
         "coordinates": [
-          -46.642885,
-          -23.566322
+          -46.642642,
+          -23.566291
         ],
         "type": "Point"
       },
@@ -2981,25 +2956,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "marker-ivbjoz1w0",
-        "title": "<span style=\"display: none\"> Edifício João Ramalho </span> ",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/edificio-joao-ramalho\">Edifício João Ramalho</a> <center> <a target=\"_parent\"  href=\"http://http://www.arquivo.arq.br/plinio-croce\">Plínio Croce</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!salvador-candia/c1pg0\">Salvador Candia</a> </center>",
-        "marker-size": "small",
-        "marker-color": "#ff2121",
-        "marker-symbol": ""
-      },
-      "geometry": {
-        "coordinates": [
-          -46.671359,
-          -23.536635
-        ],
-        "type": "Point"
-      },
-      "id": "6aa4f077754424f94e8ed5d2eed34b49"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "marker-iopmgoja0",
         "title": "<span style=\"display: none\"> Residência Eduardo Longo </span> ",
         "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!residencia-eduardo-longo/c1lku\">Residência Eduardo Longo</a> </center>  <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!eduardo-longo/ci8y\">Eduardo Longo</a> </center>",
@@ -3047,8 +3003,8 @@
       },
       "geometry": {
         "coordinates": [
-          -46.640648,
-          -23.549441
+          -46.640761,
+          -23.549493
         ],
         "type": "Point"
       },
@@ -3110,6 +3066,23 @@
         "type": "Point"
       },
       "id": "75008e356520928ad83d04805a4bb1d4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "<span style=\"display: none\"> Edifício Baviera </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/edificio-baviera\">Edifício Baviera</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/telesforo-cristofani\">Telésforo Cristófani</a> </center>",
+        "marker-size": "small",
+        "marker-color": "#ff2121"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.679443,
+          -23.580189
+        ],
+        "type": "Point"
+      },
+      "id": "7615c97f80ee1d5cdbb8ddc7eb667ed3"
     },
     {
       "type": "Feature",
@@ -3520,8 +3493,8 @@
       },
       "geometry": {
         "coordinates": [
-          -46.61279,
-          -23.562364
+          -46.612892,
+          -23.562182
         ],
         "type": "Point"
       },
@@ -4426,7 +4399,7 @@
       },
       "geometry": {
         "coordinates": [
-          -46.679588,
+          -46.679572,
           -23.580763
         ],
         "type": "Point"
@@ -5026,7 +4999,7 @@
       "type": "Feature",
       "properties": {
         "id": "marker-ivad8a9y0",
-        "title": "<span style=\"display: none\"> Edifício Jaraguá </span> ",
+        "title": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/residencia-arthur-affonso-de-souza\">Residência Arthur Affonso de Souza</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/paulo-de-mello-bastos\">Paulo de Mello Bastos</a> </center>",
         "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/edificio-jaragua\">Edifício Jaraguá</a> </center> <center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/paulo-mendes-da-rocha\">Paulo Mendes da Rocha</a> </center>",
         "marker-size": "small",
         "marker-color": "#ff2121",
@@ -6225,6 +6198,23 @@
         "type": "Point"
       },
       "id": "eab1ce6eabb8fecfb53fb5fa83c02584"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "<span style=\"display: none\"> Residência Arthur Affonso de Souza </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/residencia-arthur-affonso-de-souza\">Residência Arthur Affonso de Souza</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/paulo-de-mello-bastos\">Paulo de Mello Bastos</a> </center>",
+        "marker-size": "small",
+        "marker-color": "#ff2121"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.682692,
+          -23.594269
+        ],
+        "type": "Point"
+      },
+      "id": "eb194814995bb6e860d66f068c67e3a6"
     },
     {
       "type": "Feature",
