@@ -962,25 +962,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "marker-i9jad8hg0",
-        "title": "<span style=\"display: none\"> Edifício Diana </span> ",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!edifcio-diana/c2t7\">Edifício Diana</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!victor-reif/cqx3\">Victor Reif</a> </center>",
-        "marker-size": "small",
-        "marker-color": "#ff2121",
-        "marker-symbol": ""
-      },
-      "geometry": {
-        "coordinates": [
-          -46.655523,
-          -23.544944
-        ],
-        "type": "Point"
-      },
-      "id": "28e37d63f4ea402a13efc3457bcdf578"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "marker-iaq82wjq0",
         "title": "<span style=\"display: none\"> Central do Banco do Brasil </span> ",
         "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!central-do-banco-do-brasil/c1uc6\">Central do Banco do Brasil</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!mauricio-roberto/c1aj\">Maurício Roberto</a> </center>\n",
@@ -2544,25 +2525,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "marker-i9jc15o41",
-        "title": "<span style=\"display: none\"> Edifício Itacolomi </span> ",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!edifcio-itacolomi/c24xt\">Edifício Itacolomi</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!victor-reif/cqx3\">Victor Reif</a> </center>\n",
-        "marker-size": "small",
-        "marker-color": "#ff2121",
-        "marker-symbol": ""
-      },
-      "geometry": {
-        "coordinates": [
-          -46.656966,
-          -23.548049
-        ],
-        "type": "Point"
-      },
-      "id": "5ea4247e0860adeb753864a3092253b6"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "ci2xqjzg602uqa5qwnukaisqm",
         "title": "<span style=\"display: none\"> Residência Romeu del Negro </span> ",
         "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!residencia-romeu-del-negro/c1mre\">Residência Romeu del Negro</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!decio-tozzi/c1h6c\">Decio Tozzi</a> </center>",
@@ -2684,8 +2646,8 @@
       },
       "geometry": {
         "coordinates": [
-          -46.636227,
-          -23.546778
+          -46.636149,
+          -23.546722
         ],
         "type": "Point"
       },
@@ -2779,8 +2741,8 @@
       },
       "geometry": {
         "coordinates": [
-          -46.658458,
-          -23.540461
+          -46.657429,
+          -23.540883
         ],
         "type": "Point"
       },
@@ -3446,17 +3408,15 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "ci2wo9ri002eza5qwf50u8d76",
-        "title": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!edificio-villares/cii7\">Edifício Track</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!salvador-candia/c1pg0\">Salvador Candia</a> </center>",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!edificio-conde-de-prates/cal6\">Edifício Conde de Prates</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!giancarlo-palanti/cjv9\">Giancarlo Palanti</a> </center>",
+        "title": "<span style=\"display: none\"> Edifício Conde de Prates </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/edificio-conde-de-prates\">Edifício Conde de Prates</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/giancarlo-palanti\">Giancarlo Palantil</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/alfredo-mathias\">Alfredo Mathias</a> </center>",
         "marker-size": "small",
-        "marker-color": "#ff2121",
-        "marker-symbol": ""
+        "marker-color": "#ff2121"
       },
       "geometry": {
         "coordinates": [
-          -46.636834,
-          -23.547076
+          -46.636785,
+          -23.546881
         ],
         "type": "Point"
       },
@@ -3700,8 +3660,8 @@
       },
       "geometry": {
         "coordinates": [
-          -46.655523,
-          -23.544944
+          -46.655312,
+          -23.545005
         ],
         "type": "Point"
       },
@@ -3856,25 +3816,6 @@
         "type": "Point"
       },
       "id": "8cd2c95022a67d76c1a9307a0e63a54e"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "ci3i4qsgi0005f0qtlkd5v51q",
-        "title": "<span style=\"display: none\"> Edifício Barão de Iguape </span> ",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!edificio-baro-de-iguape/cm2v\">Edifício Barão de Iguape</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!gian-carlo-gasperini/cgtz\">Gian Carlo Gasperini</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!jacques-pilon/c8h2\">Jacques Pilon</a> </center>",
-        "marker-size": "small",
-        "marker-color": "#ff2121",
-        "marker-symbol": ""
-      },
-      "geometry": {
-        "coordinates": [
-          -46.636013,
-          -23.547781
-        ],
-        "type": "Point"
-      },
-      "id": "8ce44275f8401ed0ff6490a9b7a9d951"
     },
     {
       "type": "Feature",
@@ -4646,8 +4587,8 @@
       },
       "geometry": {
         "coordinates": [
-          -46.656966,
-          -23.548049
+          -46.6569,
+          -23.548089
         ],
         "type": "Point"
       },
@@ -4912,8 +4853,8 @@
       },
       "geometry": {
         "coordinates": [
-          -46.636013,
-          -23.547781
+          -46.635991,
+          -23.547847
         ],
         "type": "Point"
       },
@@ -5017,17 +4958,15 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "marker-ii5dynjo0",
-        "title": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/edificio-matarazzo\">Edifício Matarazzo</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!marcello-fragelli/c7c7\">Marcello Piacentini</a> </center>",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!edificio-rhodia/cstg\">Edifício Rodhia</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!henri-sajous/cym\">Henri Sajous</a> </center>",
+        "title": "<span style=\"display: none\"> Edifício Rodhia (Edifício São Joaquim) </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/edificio-rhodia\">Edifício Rodhia (Edifício São Joaquim)</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/henri-sajous\">Henri Sajous</a> </center>",
         "marker-size": "small",
-        "marker-color": "#ff2121",
-        "marker-symbol": ""
+        "marker-color": "#ff2121"
       },
       "geometry": {
         "coordinates": [
-          -46.637335,
-          -23.548064
+          -46.637592,
+          -23.548271
         ],
         "type": "Point"
       },
@@ -5203,25 +5142,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "marker-i9jd2nsb2",
-        "title": "<span style=\"display: none\"> Edifício Manon </span> ",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!edificio-manon/c23pd\">Edifício Manon</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!victor-reif/cqx3\">Victor Reif</a> </center>",
-        "marker-size": "small",
-        "marker-color": "#ff2121",
-        "marker-symbol": ""
-      },
-      "geometry": {
-        "coordinates": [
-          -46.656757,
-          -23.548106
-        ],
-        "type": "Point"
-      },
-      "id": "c2618b0fd9db9e2fd2657d36808a3a89"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "marker-i9kqel5l0",
         "title": "<span style=\"display: none\"> Edifício Abaeté </span> ",
         "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!edificio-abaete/c17f1\">Edifício Abaeté</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!abrahao-sanovicz/c1bws\">Abrahão Sanovicz</a> </center>",
@@ -5256,25 +5176,6 @@
         "type": "Point"
       },
       "id": "c34a5c3b50bc5e69cceced624c309e53"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "marker-iv0fqjxg0",
-        "title": "<span style=\"display: none\"> Residência Cis José Salmi </span> ",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/residencia-cis-jose-salmi\">Residência Cis José Salmi</a> </center> <center>  <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!victor-reif/cqx3\">Victor Reif</a> </center>",
-        "marker-size": "small",
-        "marker-color": "#ff2121",
-        "marker-symbol": ""
-      },
-      "geometry": {
-        "coordinates": [
-          -46.668671,
-          -23.590192
-        ],
-        "type": "Point"
-      },
-      "id": "c384c38e549ed085c4c5c13aad0df56d"
     },
     {
       "type": "Feature",
@@ -6642,8 +6543,8 @@
       },
       "geometry": {
         "coordinates": [
-          -46.656757,
-          -23.548106
+          -46.656683,
+          -23.548151
         ],
         "type": "Point"
       },
