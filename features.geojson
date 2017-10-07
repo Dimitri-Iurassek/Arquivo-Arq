@@ -3409,7 +3409,7 @@
       "type": "Feature",
       "properties": {
         "title": "<span style=\"display: none\"> Edifício Conde de Prates </span> ",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/edificio-conde-de-prates\">Edifício Conde de Prates</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/giancarlo-palanti\">Giancarlo Palantil</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/alfredo-mathias\">Alfredo Mathias</a> </center>",
+        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/edificio-conde-de-prates\">Edifício Conde de Prates</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/giancarlo-palanti\">Giancarlo Palanti</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/alfredo-mathias\">Alfredo Mathias</a> </center>",
         "marker-size": "small",
         "marker-color": "#ff2121"
       },
@@ -4844,12 +4844,10 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "ci3i4qsgi0005f0qtlkd5v51q",
-        "title": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/edificio-matarazzo\">Edifício Matarazzo</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!marcello-fragelli/c7c7\">Marcello Piacentini</a> </center>",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!edificio-baro-de-iguape/cm2v\">Edifício Barão de Iguape</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!gian-carlo-gasperini/cgtz\">Gian Carlo Gasperini</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!jacques-pilon/c8h2\">Jacques Pilon</a> </center>",
+        "title": "<span style=\"display: none\"> Edifício Barão de Iguape </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/edificio-barao-de-iguape\">Edifício Barão de Iguape</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/gian-carlo-gasperini\">Gian Carlo Gasperini</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/jacques-pilon\">Jacques Pilon</a> </center>",
         "marker-size": "small",
-        "marker-color": "#ff2121",
-        "marker-symbol": ""
+        "marker-color": "#ff2121"
       },
       "geometry": {
         "coordinates": [
