@@ -145,8 +145,8 @@
       },
       "geometry": {
         "coordinates": [
-          -46.637424,
-          -23.544095
+          -46.637479,
+          -23.544197
         ],
         "type": "Point"
       },
@@ -618,25 +618,6 @@
         "type": "Point"
       },
       "id": "1f039c38798121f8c2e295a20dfe52d6"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "ci3eohltm05slfcs2pb476vzb",
-        "title": "<span style=\"display: none\"> Edifício Seguradoras </span> ",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!edificio-seguradoras/clwz\">Edifício Seguradoras</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!oscar-niemeyer/cjkp\">Oscar Niemeyer</a> </center>",
-        "marker-size": "small",
-        "marker-color": "#ff2121",
-        "marker-symbol": ""
-      },
-      "geometry": {
-        "coordinates": [
-          -46.637424,
-          -23.544095
-        ],
-        "type": "Point"
-      },
-      "id": "1f2bfe143e35aacdb340e9b897532655"
     },
     {
       "type": "Feature",
@@ -1902,25 +1883,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "ci310rei2023oalqkqwgpz0w8",
-        "title": "<span style=\"display: none\"> Edifício Guarany </span> ",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!edifcio-guarany/c1v09\">Edifício Guarany</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!rino-levi/cryc\">Rino Levi</a> </center>",
-        "marker-size": "small",
-        "marker-color": "#ff2121",
-        "marker-symbol": ""
-      },
-      "geometry": {
-        "coordinates": [
-          -46.62835,
-          -23.549495
-        ],
-        "type": "Point"
-      },
-      "id": "4aa5fb298813d02991629b9ac05d1eb4"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "ci2xqjzfy02uja5qwl3geigy4",
         "title": "<span style=\"display: none\"> Residência Max Define </span> ",
         "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!residencia-max-define/chr4\">Residência Max Define</a> </center>  <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!eduardo-de-almeida/c1g31\">Eduardo de Almeida</a> </center>",
@@ -2899,25 +2861,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "marker-iophuwgm0",
-        "Projeto": "Edifício Wilson Mendes Caldeira",
-        "marker-size": "small",
-        "marker-color": "#ff2121",
-        "marker-symbol": "",
-        "Arquiteto": "Lucjan Korngold"
-      },
-      "geometry": {
-        "coordinates": [
-          -46.633197,
-          -23.55008
-        ],
-        "type": "Point"
-      },
-      "id": "698ce4ad65b3150ca950843af7c3a742"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "marker-iopmgoja0",
         "title": "<span style=\"display: none\"> Residência Eduardo Longo </span> ",
         "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!residencia-eduardo-longo/c1lku\">Residência Eduardo Longo</a> </center>  <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!eduardo-longo/ci8y\">Eduardo Longo</a> </center>",
@@ -3178,25 +3121,6 @@
         "type": "Point"
       },
       "id": "77a140afc0006c80dacf1049947356aa"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "marker-it3i11170",
-        "title": "<span style=\"display: none\"> Edifício Martinelli </span>",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/edificio-martinelli\">Edifício Martinelli</a> </center>  <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/william-fillinger\">William Fillinger</a> </center>",
-        "marker-size": "small",
-        "marker-color": "#ff2121",
-        "marker-symbol": ""
-      },
-      "geometry": {
-        "coordinates": [
-          -46.635155,
-          -23.545345
-        ],
-        "type": "Point"
-      },
-      "id": "789d745d0e76ffeabe4b3c64b9c44fe1"
     },
     {
       "type": "Feature",
@@ -4124,6 +4048,23 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "<span style=\"display: none\"> Edifício Wilson Mendes Caldeira </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/edificio-wilson-mendes-caldeira\">Edifício Wilson Mendes Caldeira</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/jorge-zalszupin\">Jorge Zalszupin</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/lucjan-korngold\">Lucjan Korngold</a> </center>",
+        "marker-size": "small",
+        "marker-color": "#ff2121"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.633178,
+          -23.550118
+        ],
+        "type": "Point"
+      },
+      "id": "99ad1dd6769cc7e4f72978d916d05ef4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "marker-ia3aabdt0",
         "title": "<span style=\"display: none\"> Edifício Avenida Paulista </span> ",
         "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!edificio-avenida-paulista/czd4\">Edifício Avenida Paulista</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!lucjan-korngold/cvgb\">Lucjan Korngold</a> </center>",
@@ -5011,25 +4952,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "marker-iophuwgm0",
-        "Projeto": "Edifício Wilson Mendes Caldeira",
-        "marker-size": "small",
-        "marker-color": "#ff2121",
-        "marker-symbol": "",
-        "Arquiteto": "Lucjan Korngold"
-      },
-      "geometry": {
-        "coordinates": [
-          -46.633197,
-          -23.55008
-        ],
-        "type": "Point"
-      },
-      "id": "bfb59c21abded0052e2f9078f7b65ca9"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "ci2xqjzge02uta5qwn3r1n26r",
         "title": "<span style=\"display: none\"> Residência Rua Itápolis </span> ",
         "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!residencia-rua-itapolis/ce2j\">Residência Rua Itápolis</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!gregori-warchavchik/c1u5o\">Gregori Warchavchik</a> </center>",
@@ -5749,8 +5671,8 @@
       },
       "geometry": {
         "coordinates": [
-          -46.62835,
-          -23.549495
+          -46.629264,
+          -23.549651
         ],
         "type": "Point"
       },
@@ -5893,16 +5815,16 @@
       "type": "Feature",
       "properties": {
         "id": "marker-it3i11170",
-        "title": "<span style=\"display: none\"> Edifício Martinelli </span>",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/edificio-martinelli\">Edifício Martinelli</a> </center>  <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/william-fillinger\">William Fillinger</a> </center>",
+        "title": "<span style=\"display: none\"> Edifício Seguradoras </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!edificio-seguradoras/clwz\">Edifício Seguradoras</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!oscar-niemeyer/cjkp\">Oscar Niemeyer</a> </center>",
         "marker-size": "small",
         "marker-color": "#ff2121",
         "marker-symbol": ""
       },
       "geometry": {
         "coordinates": [
-          -46.635155,
-          -23.545345
+          -46.635224,
+          -23.545512
         ],
         "type": "Point"
       },
