@@ -2053,7 +2053,7 @@
       "type": "Feature",
       "properties": {
         "id": "ci2wo9ri502f3a5qwb40obn4p",
-        "title": "<span style=\"display: none\"> Edifício Guaimbê </span> ",
+        "title": "<span style=\"display: none\"> Edifício Pedra Azul </span> ",
         "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!edificio-guaimbe/c8dk\">Edifício Guaimbê</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!paulo-mendes-da-rocha/c109j\">Paulo Mendes da Rocha</a> </center>",
         "marker-size": "small",
         "marker-color": "#ff2121",
@@ -2061,8 +2061,8 @@
       },
       "geometry": {
         "coordinates": [
-          -46.667486,
-          -23.563662
+          -46.667357,
+          -23.56366
         ],
         "type": "Point"
       },
@@ -4156,6 +4156,23 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "<span style=\"display: none\"> Residência Elphy Rosenthal </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/residencia-elphy-rosenthal\">Residência Elphy Rosenthal</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/vilanova-artigas\">Vilanova Artigas</a> </center>",
+        "marker-color": "#ff2121",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.669131,
+          -23.544727
+        ],
+        "type": "Point"
+      },
+      "id": "a03f7cb5b61daaf6973c414811c94ab3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "marker-if4y82s50",
         "title": "<span style=\"display: none\"> Residência J. M. Domingues Perez </span> ",
         "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!residencia-j-m-domingues-perez/cqr8\">Residência J. M. Domingues Perez</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!david-libeskind/c1k84\">David Libeskind</a> </center>",
@@ -4796,25 +4813,6 @@
         "type": "Point"
       },
       "id": "bac0b9ff0345a575bb9198571355c7b6"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "ci2wo9ri502f3a5qwb40obn4p",
-        "title": "<span style=\"display: none\"> Edifício Guaimbê </span> ",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!edificio-guaimbe/c8dk\">Edifício Guaimbê</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!paulo-mendes-da-rocha/c109j\">Paulo Mendes da Rocha</a> </center>",
-        "marker-size": "small",
-        "marker-color": "#ff2121",
-        "marker-symbol": ""
-      },
-      "geometry": {
-        "coordinates": [
-          -46.667486,
-          -23.563662
-        ],
-        "type": "Point"
-      },
-      "id": "bb5bdbf59177986b8617229124674d00"
     },
     {
       "type": "Feature",
