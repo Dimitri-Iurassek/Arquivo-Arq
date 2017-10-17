@@ -1169,6 +1169,23 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "<span style=\"display: none\"> Residência Juljan Dieter Czapski </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/residencia-juljan-dieter-czapski\">Residência Juljan Dieter Czapski</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/vilanova-artigas\">Vilanova Artigas</a> </center>",
+        "marker-size": "small",
+        "marker-color": "#ff2121"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.678752,
+          -23.542253
+        ],
+        "type": "Point"
+      },
+      "id": "3121f831e38e17c9aadaffa814eed31c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "marker-iam8ar180",
         "title": "<span style=\"display: none\"> Garagem Alfredo Issa </span> ",
         "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!garagem-alfredo-issa/c3fl\">Garagem Alfredo Issa</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!benno-perelmutter/c1i9p\">Benno Perelmutter</a> </center>",
