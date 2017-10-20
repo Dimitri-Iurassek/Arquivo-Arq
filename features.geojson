@@ -79,6 +79,23 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "<span style=\"display: none\"> Residência Elza Berquó </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/residencia-elza-berquo\">Residência Elza Berquó</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/vilanova-artigas\">Vilanova Artigas</a> </center>",
+        "marker-size": "small",
+        "marker-color": "#ff2121"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.680456,
+          -23.647631
+        ],
+        "type": "Point"
+      },
+      "id": "0267a8155410c8a0de8cecfbbf85a04a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "ci2xjasoo02vjcdqwgbqxsc0t",
         "title": "<span style=\"display: none\"> Igreja da Vila Madalena </span> ",
         "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!igreja-da-vila-madalena/c1e4m\">Igreja da Vila Madalena</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!joaquim-guedes/cssc\">Joaquim Guedes</a> </center>",
@@ -170,25 +187,6 @@
         "type": "Point"
       },
       "id": "06c1fc69fa8f15b502e09cd27e572500"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "marker-iam9lczm0",
-        "title": "<span style=\"display: none\"> Residência Dr. Marcos Schwartsman </span> ",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!residencia-dr-marcos-schwartsman/ckqu\">Residência Dr. Marcos Schwartsman</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!benno-perelmutter/c1i9p\">Benno Perelmutter</a> </center>",
-        "marker-size": "small",
-        "marker-color": "#ff2121",
-        "marker-symbol": ""
-      },
-      "geometry": {
-        "coordinates": [
-          -46.70244,
-          -23.547385
-        ],
-        "type": "Point"
-      },
-      "id": "07e6897d71db9719fbcb207546403770"
     },
     {
       "type": "Feature",
@@ -3656,7 +3654,7 @@
       },
       "geometry": {
         "coordinates": [
-          -46.70244,
+          -46.7025,
           -23.547385
         ],
         "type": "Point"
@@ -4955,8 +4953,8 @@
       },
       "geometry": {
         "coordinates": [
-          -46.703626,
-          -23.547575
+          -46.703638,
+          -23.547597
         ],
         "type": "Point"
       },
@@ -5846,25 +5844,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "marker-ihytm2fy0",
-        "title": "<span style=\"display: none\"> Residência Carlos Siqueira Neto </span> ",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!residencia-carlos-siqueira-neto/cllg\">Residência Carlos Siqueira Neto</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!ruy-ohtake/cjl7\">Ruy Ohtake</a> </center>\n",
-        "marker-size": "small",
-        "marker-color": "#ff2121",
-        "marker-symbol": ""
-      },
-      "geometry": {
-        "coordinates": [
-          -46.703626,
-          -23.547575
-        ],
-        "type": "Point"
-      },
-      "id": "e3fd20cd02b007c1559cff5dc2621830"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "marker-ig72zqk10",
         "title": "<span style=\"display: none\"> Edifício Baía Mar </span>",
         "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!edificio-baia-mar/c23h6\">Edifício Baía Mar</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!francisco-beck/c1uk6\">Francisco Beck</a> </center>",
@@ -6607,8 +6586,8 @@
       },
       "geometry": {
         "coordinates": [
-          -46.684668,
-          -23.644897
+          -46.684761,
+          -23.644862
         ],
         "type": "Point"
       },
