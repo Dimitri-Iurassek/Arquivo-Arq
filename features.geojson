@@ -379,6 +379,23 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "<span style=\"display: none\"> Edifício São Vito </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/edificio-sao-vito\">Edifício São Vito</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/aron-kogan\">Aron Kogan</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/waldomiro-zarzur\">Waldomiro Zarzur</a> </center>",
+        "marker-color": "#ff2121",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.628489,
+          -23.542664
+        ],
+        "type": "Point"
+      },
+      "id": "1082832e20b2e9c6f06bd5385376701a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "ci2wo9rhv02eua5qwz31zezjo",
         "title": "<span style=\"display: none\"> Edifício Bienal </span>",
         "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!edificio-bienal/cgrr\">Edifício Bienal</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!abelardo-de-souza/cq3m\">Abelardo de Souza</a> </center>",
@@ -449,6 +466,23 @@
         "type": "Point"
       },
       "id": "16bb7278c6a3f8a4cf21bf9c4b3050cf"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "<span style=\"display: none\"> Edifício Mercúrio </span> ",
+        "description": " <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/edificio-mercurio\">Edifício Mercúrio</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/aron-kogan\">Aron Kogan</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/waldomiro-zarzur\">Waldomiro Zarzur</a> </center>",
+        "marker-color": "#ff2121",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.62836,
+          -23.542315
+        ],
+        "type": "Point"
+      },
+      "id": "176b37abbe23d7b9351e512b539435cc"
     },
     {
       "type": "Feature",
@@ -6064,6 +6098,23 @@
         "type": "Point"
       },
       "id": "ebfbbf024a35e7cf490d0c22ffe6e884"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "<span style=\"display: none\"> Edifício Racy </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/edificio-racy\">Edifício Racy</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/aron-kogan\">Aron Kogan</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/waldomiro-zarzur\">Waldomiro Zarzur</a> </center>",
+        "marker-color": "#ff2121",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.64799,
+          -23.537722
+        ],
+        "type": "Point"
+      },
+      "id": "ec7539dde89b353db7a9096b1c5d69a8"
     },
     {
       "type": "Feature",
