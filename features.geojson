@@ -5183,6 +5183,23 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "<span style=\"display: none\"> Cine Jupiter (Cine Yara) </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/cine-jupiter\">Cine Jupiter (Cine Yara)</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/aron-kogan\">Aron Kogan</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/waldomiro-zarzur\">Waldomiro Zarzur</a> </center>",
+        "marker-color": "#ff2121",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.54637,
+          -23.523797
+        ],
+        "type": "Point"
+      },
+      "id": "c55164b7589c81bed49f7987f92252e6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "ci39lg5na06hublqtzlkptha6",
         "title": "<span style=\"display: none\"> Residência Marietta e Ruth Vampré </span> ",
         "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!residencia-marietta-e-ruth-vampre/c1gp6\">Residência Marietta e Ruth Vampré</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!rodrigo-lefevre/c1fiz\">Rodrigo Lefèvre</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!sergio-ferro/c226b\">Sérgio Ferro</a> </center>",
