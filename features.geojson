@@ -5644,6 +5644,23 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "<span style=\"display: none\"> Edifício Hildebrando de Almeida Prado </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/edificio-hildebrando-de-almeida-prado\">Edifício Hildebrando de Almeida Prado</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/alberto-botti\">Alberto Botti</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/marc-rubin\">Marc Rubin</a> </center>",
+        "marker-color": "#ff2121",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.65584,
+          -23.545857
+        ],
+        "type": "Point"
+      },
+      "id": "d8c40d886d5ec0d9768f5c352d7b1013"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "ci7h16c0e0050hmkgmkdv421g",
         "title": "<span style=\"display: none\"> Pinacoteca de São Paulo </span> ",
         "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!pinacoteca-do-estado/c7t9\">Pinacoteca de São Paulo</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!ramos-de-azevedo/c1sor\">Ramos de Azevedo</a> </center>",
