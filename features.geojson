@@ -654,6 +654,23 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "<span style=\"display: none\"> Mercado Municipal de Sorocaba </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/mercado-municipal-de-sorocaba\">Mercado Municipal de Sorocaba</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/zenon-lotufo\">Zenon Lotufo</a> </center>",
+        "marker-color": "#ff2121",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          -47.460349,
+          -23.498328
+        ],
+        "type": "Point"
+      },
+      "id": "1fc5ddf8572212ac628c9b4943386625"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "ci39lg5na06hublqtzlkptha6",
         "title": "<span style=\"display: none\"> Residência Marietta e Ruth Vampré </span> ",
         "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!residencia-marietta-e-ruth-vampre/c1gp6\">Residência Marietta e Ruth Vampré</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!rodrigo-lefevre/c1fiz\">Rodrigo Lefèvre</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!sergio-ferro/c226b\">Sérgio Ferro</a> </center>",
@@ -819,6 +836,23 @@
         "type": "Point"
       },
       "id": "23cebe9b1431a34f0ca0700e7ca471b3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "<span style=\"display: none\"> Edifício Cláudia </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/edificio-claudia\">Edifício Cláudia</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/miguel-juliano\">Miguel Juliano</a> </center>",
+        "marker-color": "#ff2121",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.642722,
+          -23.578606
+        ],
+        "type": "Point"
+      },
+      "id": "23f508552050772fa90c344ede100158"
     },
     {
       "type": "Feature",
@@ -1586,8 +1620,8 @@
       },
       "geometry": {
         "coordinates": [
-          -46.709696,
-          -23.567011
+          -46.70976,
+          -23.567167
         ],
         "type": "Point"
       },
@@ -1922,8 +1956,8 @@
       },
       "geometry": {
         "coordinates": [
-          -46.706115,
-          -23.564695
+          -46.706108,
+          -23.564641
         ],
         "type": "Point"
       },
@@ -2196,25 +2230,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "marker-ift6iel80",
-        "title": "<span style=\"display: none\"> Edifício para consultórios </span> ",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!edificio-palmela/clk6\">Edifício Palmela</a> </center>  <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!francisco-beck/c1uk6\">Francisco Beck</a> </center>",
-        "marker-size": "small",
-        "marker-color": "#ff2121",
-        "marker-symbol": ""
-      },
-      "geometry": {
-        "coordinates": [
-          -46.644526,
-          -23.541241
-        ],
-        "type": "Point"
-      },
-      "id": "51f85d986ff6e3a8521db1bab675df96"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "ci3erwge704nkecpbq8j1umza",
         "title": "<span style=\"display: none\"> Edifício e Galeria Califórnia </span> ",
         "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!edificio-e-galeria-california/cerx\">Edifício e Galeria Califórnia</a> </center> \n<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!oscar-niemeyer/cjkp\">Oscar Niemeyer</a> </center>",
@@ -2452,8 +2467,8 @@
       },
       "geometry": {
         "coordinates": [
-          -46.711034,
-          -23.561739
+          -46.711061,
+          -23.561805
         ],
         "type": "Point"
       },
@@ -2638,8 +2653,8 @@
       },
       "geometry": {
         "coordinates": [
-          -46.651511,
-          -23.54276
+          -46.651566,
+          -23.542828
         ],
         "type": "Point"
       },
@@ -3048,8 +3063,8 @@
       },
       "geometry": {
         "coordinates": [
-          -46.644526,
-          -23.541241
+          -46.644483,
+          -23.541325
         ],
         "type": "Point"
       },
@@ -3857,8 +3872,8 @@
       },
       "geometry": {
         "coordinates": [
-          -46.7102,
-          -23.56333
+          -46.710189,
+          -23.563194
         ],
         "type": "Point"
       },
@@ -4535,8 +4550,8 @@
       },
       "geometry": {
         "coordinates": [
-          -46.652975,
-          -23.545099
+          -46.65322,
+          -23.545181
         ],
         "type": "Point"
       },
@@ -4706,8 +4721,8 @@
       },
       "geometry": {
         "coordinates": [
-          -46.657841,
-          -23.539015
+          -46.657757,
+          -23.539019
         ],
         "type": "Point"
       },
@@ -4750,6 +4765,23 @@
         "type": "Point"
       },
       "id": "b3124e965aad7b0e503613050af357d1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "<span style=\"display: none\"> Edifício Juliana </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/edificio-juliana\">Edifício Juliana</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/miguel-juliano\">Miguel Juliano</a> </center>",
+        "marker-color": "#ff2121",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.65735,
+          -23.603499
+        ],
+        "type": "Point"
+      },
+      "id": "b403089c5d3be303435e45bb01704a44"
     },
     {
       "type": "Feature",
@@ -5116,8 +5148,8 @@
       },
       "geometry": {
         "coordinates": [
-          -46.659885,
-          -23.548394
+          -46.659803,
+          -23.548396
         ],
         "type": "Point"
       },
@@ -5272,23 +5304,6 @@
         "type": "Point"
       },
       "id": "c9e1a7598d0c21c79c18585f6b57bc24"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "<span style=\"display: none\">Rocha Mendes</span>",
-        "description": "<center><a target=\"_parent\" href=\"http://www.arquivo.arq.br/#!edificio-villares/cii7\">Rocha Mendes</a></center> <center><a target=\"_parent\" href=\"http://www.arquivo.arq.br/#!salvador-candia/c1pg0\">Salvador Candia</a></center>",
-        "marker-size": "small",
-        "marker-color": "#ff2121"
-      },
-      "geometry": {
-        "coordinates": [
-          -46.578178,
-          -23.583563
-        ],
-        "type": "Point"
-      },
-      "id": "ca1405a5d0feafa8a9269a1b28a581a9"
     },
     {
       "type": "Feature",
@@ -6119,6 +6134,23 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "<span style=\"display: none\"> Edifício Fernando </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/edificio-fernando\">Edifício Fernando</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/giancarlo-palanti\">Giancarlo Palanti</a> </center>",
+        "marker-color": "#ff2121",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.632819,
+          -23.538371
+        ],
+        "type": "Point"
+      },
+      "id": "ec6f54f54c3f1af9ae66cb374a622f59"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "<span style=\"display: none\"> Edifício Racy </span> ",
         "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/edificio-racy\">Edifício Racy</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/aron-kogan\">Aron Kogan</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/waldomiro-zarzur\">Waldomiro Zarzur</a> </center>",
         "marker-color": "#ff2121",
@@ -6409,8 +6441,8 @@
       },
       "geometry": {
         "coordinates": [
-          -46.629989,
-          -23.539832
+          -46.630173,
+          -23.539744
         ],
         "type": "Point"
       },
