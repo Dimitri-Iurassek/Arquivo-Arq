@@ -257,8 +257,8 @@
       },
       "geometry": {
         "coordinates": [
-          -46.660933,
-          -23.544157
+          -46.660935,
+          -23.54408
         ],
         "type": "Point"
       },
@@ -1159,6 +1159,23 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "<span style=\"display: none\"> Edifício Maria Borba </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/edificio-maria-borba\">Edifício Maria Borba</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/alberto-botti\">Alberto Botti</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/marc-rubin\">Marc Rubin</a> </center>",
+        "marker-color": "#ff2121",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.648738,
+          -23.547291
+        ],
+        "type": "Point"
+      },
+      "id": "2e27e7ab2936aa3124ac342d3fa09342"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "marker-i9sw48361",
         "title": "<span style=\"display: none\"> Edifício Normandie </span> ",
         "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!edificio-normandie/c1lcd\">Edifício Normandie</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!franz-heep/cb90\">Franz Heep</a> </center>",
@@ -2038,6 +2055,23 @@
         "type": "Point"
       },
       "id": "4b9d3f9eebacb6272ce29441ada97c60"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "<span style=\"display: none\"> Loja de Veículos </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/loja-de-veiculos\">Loja de Veículos</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/alfredo-paesani\">Alfredo Paesani</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/fabio-penteado\">Fábio Penteado</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/teru-tamaki\">Teru Tamaki</a> </center>",
+        "marker-color": "#ff2121",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.671809,
+          -23.587749
+        ],
+        "type": "Point"
+      },
+      "id": "4bf30ec9b66ac1558b7fa6e930f11df3"
     },
     {
       "type": "Feature",
@@ -3018,25 +3052,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "ci2wo9rid02fba5qwgg2o6s2o",
-        "title": "<span style=\"display: none\"> Edifício Louveira </span> ",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!edificio-louveira/c9l4\">Edifício Louveira</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!vilanova-artigas/cr6g\">Vilanova Artigas</a> </center>",
-        "marker-size": "small",
-        "marker-color": "#ff2121",
-        "marker-symbol": ""
-      },
-      "geometry": {
-        "coordinates": [
-          -46.660933,
-          -23.544157
-        ],
-        "type": "Point"
-      },
-      "id": "75008e356520928ad83d04805a4bb1d4"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "<span style=\"display: none\"> Edifício Baviera </span> ",
         "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/edificio-baviera\">Edifício Baviera</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/telesforo-cristofani\">Telésforo Cristófani</a> </center>",
         "marker-size": "small",
@@ -3420,8 +3435,8 @@
       },
       "geometry": {
         "coordinates": [
-          -46.656403,
-          -23.558833
+          -46.656599,
+          -23.559026
         ],
         "type": "Point"
       },
@@ -3996,6 +4011,23 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "<span style=\"display: none\"> Edifício Carol </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/edificio-carol\">Edifício Carol</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/alberto-botti\">Alberto Botti</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/marc-rubin\">Marc Rubin</a> </center>",
+        "marker-color": "#ff2121",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.652435,
+          -23.561801
+        ],
+        "type": "Point"
+      },
+      "id": "94a968c746a6c51dfe8248a036493b8c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "ci2xqjzgh02uwa5qw8ih07eei",
         "title": "<span style=\"display: none\"> Sede das Indústrias Romi </span> ",
         "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!sede-das-industrias-romi/c8qr\">Sede das Indústrias Romi</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!helio-duarte/c1yty\">Hélio Duarte</a> </center>",
@@ -4423,6 +4455,23 @@
         "type": "Point"
       },
       "id": "a5a7c3e94af17e7915d07ac40787e8b8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "<span style=\"display: none\"> Edifício Pacaembu </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/edificio-pacaembu-botti-rubin\">Edifício Pacaembu</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/alberto-botti\">Alberto Botti</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/marc-rubin\">Marc Rubin</a> </center>",
+        "marker-color": "#ff2121",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.661991,
+          -23.543166
+        ],
+        "type": "Point"
+      },
+      "id": "a8653fe448b547e37c2bb1f74ef78021"
     },
     {
       "type": "Feature",
@@ -4970,6 +5019,23 @@
         "type": "Point"
       },
       "id": "bdf9fd0d66be88b80461ae34710545b7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "<span style=\"display: none\"> Edifício Antônio Augusto Correia Galvão </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/edificio-antonio-augusto-correia-galvao\">Edifício Antônio Augusto Correia Galvão</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/alberto-botti\">Alberto Botti</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/marc-rubin\">Marc Rubin</a> </center>",
+        "marker-color": "#ff2121",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.656813,
+          -23.559319
+        ],
+        "type": "Point"
+      },
+      "id": "be1c76fb100b92383ff7c85389dd2d88"
     },
     {
       "type": "Feature",
@@ -5689,8 +5755,8 @@
       },
       "geometry": {
         "coordinates": [
-          -46.660574,
-          -23.543591
+          -46.660618,
+          -23.543603
         ],
         "type": "Point"
       },
