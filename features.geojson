@@ -496,8 +496,8 @@
       },
       "geometry": {
         "coordinates": [
-          -46.640173,
-          -23.545359
+          -46.640324,
+          -23.545442
         ],
         "type": "Point"
       },
@@ -1983,6 +1983,23 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "<span style=\"display: none\"> Edifício Acádia </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/edificio-acadia\">Edifício Acádia</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/jacques-pilon\">Jacques Pilon</a> </center>",
+        "marker-color": "#ff2121",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.645724,
+          -23.540791
+        ],
+        "type": "Point"
+      },
+      "id": "4af86e1c0e6a00a08e0d540e434fd4ad"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "ci2zknz6t00sqazqk7ana7qdj",
         "title": "<span style=\"display: none\"> Residência Taques Bittencourt II </span> ",
         "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!residencia-taques-bittencourt-ii/c1ddx\">Residência Taques Bittencourt II</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!vilanova-artigas/cr6g\">Vilanova Artigas</a> </center>",
@@ -2425,8 +2442,8 @@
       },
       "geometry": {
         "coordinates": [
-          -46.63899,
-          -23.544843
+          -46.639156,
+          -23.5449
         ],
         "type": "Point"
       },
@@ -2507,25 +2524,6 @@
         "type": "Point"
       },
       "id": "5cb862503bcc32d08f6e2949711ece87"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "marker-i9stqqop0",
-        "title": "<span style=\"display: none\"> Edifício Anhumas </span> ",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!edificio-anhumas/ccp2\">Edifício Anhumas</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!jacques-pilon/c8h2\">Jacques Pilon</a> </center>",
-        "marker-size": "small",
-        "marker-color": "#ff2121",
-        "marker-symbol": ""
-      },
-      "geometry": {
-        "coordinates": [
-          -46.640173,
-          -23.545359
-        ],
-        "type": "Point"
-      },
-      "id": "5d84893bdf092e00625d6a09e3fc60b0"
     },
     {
       "type": "Feature",
@@ -4415,6 +4413,23 @@
         "type": "Point"
       },
       "id": "a49e1df2afc58c2ce57d02addcd660ae"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "<span style=\"display: none\"> Edifício Jaraguá </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/edificio-jaragua-jacques-pilon\">Edifício Jaraguá</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/jacques-pilon\">Jacques Pilon</a> </center>",
+        "marker-color": "#ff2121",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.64027,
+          -23.545182
+        ],
+        "type": "Point"
+      },
+      "id": "a51cffb08859eb48e794becb9e93b332"
     },
     {
       "type": "Feature",
@@ -6351,8 +6366,8 @@
       },
       "geometry": {
         "coordinates": [
-          -46.637322,
-          -23.545418
+          -46.637377,
+          -23.545288
         ],
         "type": "Point"
       },
