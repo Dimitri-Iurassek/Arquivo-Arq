@@ -379,6 +379,23 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "<span style=\"display: none\"> Ginásio Anglo Latino </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/ginasio-anglo-latino\">Ginásio Anglo Latino</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/francisco-beck\">Francisco Beck</a> </center>",
+        "marker-color": "#ff2121",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.633376,
+          -23.560464
+        ],
+        "type": "Point"
+      },
+      "id": "1021e1302dbfe7b963c68e90a72fa0aa"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "<span style=\"display: none\"> Edifício São Vito </span> ",
         "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/edificio-sao-vito\">Edifício São Vito</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/aron-kogan\">Aron Kogan</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/waldomiro-zarzur\">Waldomiro Zarzur</a> </center>",
         "marker-color": "#ff2121",
@@ -5649,6 +5666,23 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "<span style=\"display: none\"> Residência Antonio de Andrade Costa </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"www.arquivo.arq.br/residencia-antonio-de-andrade-costa\">Residência Antonio de Andrade Costa</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/victor-reif\">Victor Reif</a> </center>",
+        "marker-color": "#ff2121",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.674416,
+          -23.567596
+        ],
+        "type": "Point"
+      },
+      "id": "d34f272879f9b3ea285fb2dd138f50ec"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "marker-iopmoru51",
         "title": "<span style=\"display: none\"> Residência FA </span> ",
         "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!residencia-fa/ct6g\">Residência FA</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!eduardo-longo/ci8y\">Eduardo Longo</a> </center>",
@@ -6638,6 +6672,23 @@
         "type": "Point"
       },
       "id": "f8590cde386c33c31ee4b4860c724c2c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "<span style=\"display: none\"> Cine Roxy </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/cine-roxy\">Cine Roxy</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/francisco-beck\">Francisco Beck</a> </center>",
+        "marker-color": "#ff2121",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.60782,
+          -23.538709
+        ],
+        "type": "Point"
+      },
+      "id": "faa891eb5696ab7515e471437279fb41"
     },
     {
       "type": "Feature",
