@@ -5273,6 +5273,23 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "<span style=\"display: none\"> Residência Marcos Lindenberg </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/residencia-marcos-lindenberg\">Residência Marcos Lindenberg</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/eduardo-kneese-de-mello\">Eduardo Knesse de Mello</a> </center>",
+        "marker-color": "#ff2121",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.666354,
+          -23.578099
+        ],
+        "type": "Point"
+      },
+      "id": "c405bcb6410c434e48eb8780d9551f3f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "ci2w75ng502fmc3pav638bvmq",
         "title": "<span style=\"display: none\"> Casa Modernista </span> ",
         "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!casa-modernista/c9y5\">Casa Modernista</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!gregori-warchavchik/c1u5o\">Gregori Warchavchik</a> </center>",
@@ -6074,6 +6091,23 @@
         "type": "Point"
       },
       "id": "e5490517674efec991f47ed401b04dcc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "<span style=\"display: none\"> Edifício Leonidas Moreira </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/edificio-leonidas-moreira\">Edifício Leonidas Moreira</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/eduardo-kneese-de-mello\">Eduardo Knesse de Mello</a> </center>",
+        "marker-color": "#ff2121",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.63009,
+          -23.551712
+        ],
+        "type": "Point"
+      },
+      "id": "e608a0a342edfe9bcdfcf132f18d1ac0"
     },
     {
       "type": "Feature",
