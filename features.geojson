@@ -4191,6 +4191,23 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "<span style=\"display: none\"> Conjunto Residencial da USP </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/conjunto-residencial-da-usp\">Conjunto Residencial da USP</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/eduardo-kneese-de-mello\">Eduardo Knesse de Mello</a> </center>",
+        "marker-color": "#ff2121",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.721077,
+          -23.558978
+        ],
+        "type": "Point"
+      },
+      "id": "9c5e5eb8b93e4a17bdd1bbe61136b097"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "<span style=\"display: none\"> Residência Chaim Goldenstein </span> ",
         "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/residencia-chaim-goldenstein\">Residência Chaim Goldenstein</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/abelardo-de-souza\">Abelardo de Souza</a> </center>",
         "marker-size": "small",
