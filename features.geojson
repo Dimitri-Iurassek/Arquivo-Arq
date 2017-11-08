@@ -3722,6 +3722,23 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "<span style=\"display: none\"> Edifício Imperator </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/edificio-imperator\">Edifício Imperator</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/henrique-verona-cristofani\">Henrique Verona Cristofani</a> </center>",
+        "marker-color": "#ff2121",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.659187,
+          -23.549202
+        ],
+        "type": "Point"
+      },
+      "id": "8897c52a7d4611793cf15f8dd718ba39"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "marker-iam9lczm0",
         "title": "<span style=\"display: none\"> Residência Dr. Marcos Schwartsman </span> ",
         "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!residencia-dr-marcos-schwartsman/ckqu\">Residência Dr. Marcos Schwartsman</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!benno-perelmutter/c1i9p\">Benno Perelmutter</a> </center>",
@@ -4428,6 +4445,23 @@
         "type": "Point"
       },
       "id": "a426f86a562042c4eb84926fe01f8718"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "<span style=\"display: none\"> Residência Antonio Roberto Alves Braga </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/residencia-antonio-roberto-alves-braga\">Residência Antonio Roberto Alves Braga</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/henrique-verona-cristofani\">Henrique Verona Cristofani</a> </center>",
+        "marker-size": "small",
+        "marker-color": "#ff2121"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.266221,
+          -24.003912
+        ],
+        "type": "Point"
+      },
+      "id": "a4439c3418d3783ad7173acb4603773f"
     },
     {
       "type": "Feature",
