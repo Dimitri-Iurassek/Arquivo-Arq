@@ -707,17 +707,15 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "ci2xjasol02vgcdqwfrl2wjyz",
-        "title": "<span style=\"display: none\"> Galeria Metrópole </center>",
-        "description": "small",
-        "marker-size": "small",
         "marker-color": "#ff2121",
-        "marker-symbol": ""
+        "marker-size": "small",
+        "title": "<span style=\"display: none\"> Galeria Metrópole </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/galeria-metropole\">Galeria Metrópole</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/gian-carlo-gasperini\">Gian Carlo Gasperini</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/salvador-candia\">Salvador Candia</a> </center>"
       },
       "geometry": {
         "coordinates": [
-          -46.642644,
-          -23.546419
+          -46.642655,
+          -23.546421
         ],
         "type": "Point"
       },
@@ -6089,12 +6087,10 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "marker-it3i11170",
-        "title": "<span style=\"display: none\"> Edifício Seguradoras </span> ",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!edificio-seguradoras/clwz\">Edifício Seguradoras</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!oscar-niemeyer/cjkp\">Oscar Niemeyer</a> </center>",
         "marker-size": "small",
         "marker-color": "#ff2121",
-        "marker-symbol": ""
+        "title": "<span style=\"display: none\"> Edifício Martinelli </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/edificio-martinelli\">Edifício Martinelli</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/william-fillinger\">William Fillinger</a> </center>"
       },
       "geometry": {
         "coordinates": [
