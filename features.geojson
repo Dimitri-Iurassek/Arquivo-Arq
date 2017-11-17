@@ -1660,6 +1660,23 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/edificio-cicero-prado\">Edifício Cícero Prado</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/gregori-warchavchik\">Gregori Warchavchik</a> </center>",
+        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/edificio-cicero-prado\">Edifício Cícero Prado</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/gregori-warchavchik\">Gregori Warchavchik</a> </center>",
+        "marker-size": "small",
+        "marker-color": "#ff2121"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.64751,
+          -23.530133
+        ],
+        "type": "Point"
+      },
+      "id": "413343516cec38ce5900afef598b0693"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "<span style=\"display: none\"> Edifício Barão de Iguatemi </span> ",
         "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/edificio-barao-de-iguatemi\">Edifício Barão de Iguatemi</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/salvador-candia\">Salvador Candia</a> </center>",
         "marker-size": "small",
@@ -3357,6 +3374,23 @@
         "type": "Point"
       },
       "id": "7aca054725b2d4f3944fe68da1b8a543"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "<span style=\"display: none\"> Edifício Rodrigues Alves </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/edificio-rodrigues-alves\">Edifício Rodrigues Alves</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/israel-sancovski\">Israel Sancovski</a> </center>",
+        "marker-color": "#ff2121",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.646743,
+          -23.585977
+        ],
+        "type": "Point"
+      },
+      "id": "7baa0145e887f7c18e36af8b96b168a9"
     },
     {
       "type": "Feature",
@@ -5598,7 +5632,7 @@
       "type": "Feature",
       "properties": {
         "id": "marker-ivlrc9kb0",
-        "title": "<span style=\"display: none\"> Fórum de Socorro </span> ",
+        "title": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/edificio-cicero-prado\">Edifício Cícero Prado</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/gregori-warchavchik\">Gregori Warchavchik</a> </center>",
         "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/forum-de-socorro\">Fórum de Socorro</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!david-libeskind/c1k84\">David Libeskind</a> </center>",
         "marker-size": "small",
         "marker-color": "#ff2121",
