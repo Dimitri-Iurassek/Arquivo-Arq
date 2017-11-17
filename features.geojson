@@ -1770,6 +1770,23 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "<span style=\"display: none\"> Capela da Colônia Francesa </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/capela-da-colonia-francesa\">Capela da Colônia Francesa</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/israel-sancovski\">Israel Sancovski</a> </center>",
+        "marker-size": "small",
+        "marker-color": "#ff2121"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.638431,
+          -23.596029
+        ],
+        "type": "Point"
+      },
+      "id": "43ce3140e695be060b72026740a65ebe"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "<span style=\"display: none\"> Residência Jayme Arcoverde de Albuquerque Cavalcanti </span> ",
         "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/residencia-jayme-a-de-albuquerque-caval\">Residência Jayme Arcoverde de Albuquerque Cavalcanti</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/jayme-fonseca-rodrigues\">Jayme Fonseca Rodrigues</a> </center>",
         "marker-size": "small",
