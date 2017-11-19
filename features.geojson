@@ -2478,6 +2478,23 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "<span style=\"display: none\"> Edifício Teodoro Sampaio </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/edificio-teodoro-sampaio\">Edifício Teodoro Sampaio</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/alfred-duntuch\">Alfred Düntuch</a> </center>",
+        "marker-color": "#ff2121",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.67789,
+          -23.557908
+        ],
+        "type": "Point"
+      },
+      "id": "59de1f6c33dd019f83fe202b96df4678"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "ci3fafwet05g4dzpbuoyyuqgj",
         "title": "<span style=\"display: none\"> Escola Municipal de Astrofísica </span> ",
         "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!escola-municipal-de-astrofisica/czjz\">Escola Municipal de Astrofísica</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!roberto-tibau/c13ga\">Roberto Tibau</a> </center>",
@@ -4061,6 +4078,23 @@
         "type": "Point"
       },
       "id": "90f19cb3925aae061afe4033ff97f91d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "<span style=\"display: none\"> Edifício Jandyra </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/edificio-jandyra\">Edifício Jandyra</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/alfred-duntuch\">Alfred Düntuch</a> </center>",
+        "marker-color": "#ff2121",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.662055,
+          -23.553101
+        ],
+        "type": "Point"
+      },
+      "id": "916e735bc020f28f9fbb3e8d5b472f0c"
     },
     {
       "type": "Feature",
