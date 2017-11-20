@@ -1145,8 +1145,8 @@
       },
       "geometry": {
         "coordinates": [
-          -46.647638,
-          -23.551932
+          -46.647712,
+          -23.551902
         ],
         "type": "Point"
       },
@@ -1217,8 +1217,8 @@
       },
       "geometry": {
         "coordinates": [
-          -46.64466,
-          -23.550592
+          -46.644796,
+          -23.550548
         ],
         "type": "Point"
       },
@@ -3015,25 +3015,6 @@
         "type": "Point"
       },
       "id": "68bab2995bebbd971f88b8d3ce3fdb4e"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "ci5righ4102t1jpm54geiokb3",
-        "title": "<span style=\"display: none\"> Edifício Helena Maria </span> ",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!edificio-helena-maria/cvff\">Edifício Helena Maria</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!oswaldo-bratke/crg7\">Oswaldo Bratke</a> </center>",
-        "marker-size": "small",
-        "marker-color": "#ff2121",
-        "marker-symbol": ""
-      },
-      "geometry": {
-        "coordinates": [
-          -46.647638,
-          -23.551932
-        ],
-        "type": "Point"
-      },
-      "id": "690957340a78c01ef209f00fac5ef36e"
     },
     {
       "type": "Feature",
@@ -5904,6 +5885,23 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "<span style=\"display: none\"> Edifício Olinda </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/edificio-olinda\">Edifício Olinda</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/alfred-duntuch\">Alfred Düntuch</a> </center>",
+        "marker-color": "#ff2121",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.647381,
+          -23.548884
+        ],
+        "type": "Point"
+      },
+      "id": "d52c27ad97b9328be5d1690d5694817b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "ci39lg5n906htblqty38h58lj",
         "title": "<span style=\"display: none\"> Palácio Anchieta </span> ",
         "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!palacio-anchieta/c1lol\">Palácio Anchieta</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!alfredo-mathias/cexr\">Alfredo Mathias</a> </center>",
@@ -6295,6 +6293,23 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "<span style=\"display: none\"> Edifício Paquita </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/edificio-paquita\">Edifício Paquita</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/alfred-duntuch\">Alfred Düntuch</a> </center>",
+        "marker-color": "#ff2121",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.658822,
+          -23.546513
+        ],
+        "type": "Point"
+      },
+      "id": "e5fd48d0e55f93bc885345a989a08bc1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "<span style=\"display: none\"> Edifício Leonidas Moreira </span> ",
         "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/edificio-leonidas-moreira\">Edifício Leonidas Moreira</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/eduardo-kneese-de-mello\">Eduardo Knesse de Mello</a> </center>",
         "marker-color": "#ff2121",
@@ -6596,8 +6611,8 @@
       },
       "geometry": {
         "coordinates": [
-          -46.645326,
-          -23.550715
+          -46.645341,
+          -23.550767
         ],
         "type": "Point"
       },
