@@ -2309,6 +2309,23 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "<span style=\"display: none\"> Residência Abram Jagle </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/residencia-abram-jagle\">Residência Abram Jagle</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/joao-walter-toscano\">João Walter Toscano</a> </center>",
+        "marker-color": "#ff2121",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.665152,
+          -23.613323
+        ],
+        "type": "Point"
+      },
+      "id": "50426f77c11cf19bdd7b302cba0f233b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "marker-ihuoxn0i1",
         "title": "<span style=\"display: none\"> Residência Salomão Charach </span> ",
         "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!residencia-salomao-charach/cqyv\">Residência Salomão Charach</a> </center>  <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!roger-zmekhol/c1kqc\">Roger Zmekhol</a> </center>",
