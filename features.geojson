@@ -1641,6 +1641,23 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "<span style=\"display: none\"> Residência Hamilcar Carramenha </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/residencia-hamilcar-carramenha\">Residência Hamilcar Carramenha</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/joao-walter-toscano\">João Walter Toscano</a> </center>",
+        "marker-color": "#ff2121",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.698362,
+          -23.544141
+        ],
+        "type": "Point"
+      },
+      "id": "40f13ac537854ed251288f9345eb9a99"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "ci2xjasox02vscdqwshk7490v",
         "title": "<span style=\"display: none\"> Residência Boris Fausto </span>",
         "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!residencia-boris-fausto/c1fpj\">Residência Boris Fausto</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!sergio-ferro/c226b\">Sérgio Ferro</a> </center>",
