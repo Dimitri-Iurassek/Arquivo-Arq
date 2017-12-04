@@ -2436,6 +2436,23 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "<span style=\"display: none\"> Edifício Portofino </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/edificio-portofino\">Edifício Portofino</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/pedro-paulo-de-melo-saraiva\">Pedro Paulo de Melo Saraiva</a> </center>",
+        "marker-color": "#ff2121",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.345409,
+          -23.967623
+        ],
+        "type": "Point"
+      },
+      "id": "55d40ff73ea264fb8c2978bc3b804a77"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "ci310rei3023palqkkixkgt30",
         "title": "<span style=\"display: none\"> Sede do IAB-SP </span> ",
         "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!sede-do-iab-sp/c13h8\">Sede do IAB-SP</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!abelardo-de-souza/cq3m\">Abelardo de Souza</a> </center> \n<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!galiano-ciampaglia/c255g\">Galiano Ciampaglia</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!helio-duarte/c1yty\">Hélio Duarte</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!jacob-ruchti/cozl\">Jacob Ruchti</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!miguel-forte/c107k\">Miguel Forte</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!rino-levi/cryc\">Rino Levi</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!roberto-cerqueira-cesar/cqw5\">Roberto Cerqueira César</a> </center> \n<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!zenon-lotufo/ctp3\">Zenon Lotufo</a> </center>",
