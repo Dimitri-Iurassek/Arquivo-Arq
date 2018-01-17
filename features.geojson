@@ -2343,6 +2343,23 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "<span style=\"display: none\"> Fórum de Porto Feliz </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/forum-de-porto-feliz\">Fórum de Porto Feliz</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/alberto-botti\">Alberto Botti</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/marc-rubin\">Marc Rubin</a> </center>",
+        "marker-color": "#ff2121",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          -47.524816,
+          -23.215608
+        ],
+        "type": "Point"
+      },
+      "id": "504517ad9d6f834c68c52b176aed7c53"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "marker-ihuoxn0i1",
         "title": "<span style=\"display: none\"> Residência Salomão Charach </span> ",
         "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!residencia-salomao-charach/cqyv\">Residência Salomão Charach</a> </center>  <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!roger-zmekhol/c1kqc\">Roger Zmekhol</a> </center>",
@@ -6896,6 +6913,23 @@
         "type": "Point"
       },
       "id": "f57500764de629a107d512f846ed8b2b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "<span style=\"display: none\"> Edifício Jorge Bey Maluf </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/edificio-jorge-bey-maluf\">Edifício Jorge Bey Maluf</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/eduardo-corona\">Eduardo Corona</a> </center>",
+        "marker-size": "small",
+        "marker-color": "#ff2121"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.654482,
+          -23.559033
+        ],
+        "type": "Point"
+      },
+      "id": "f5848edbd9bdc3934e6f19e7e81497d4"
     },
     {
       "type": "Feature",
