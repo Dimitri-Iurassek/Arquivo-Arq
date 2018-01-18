@@ -5154,25 +5154,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "marker-teste",
-        "title": "teste ",
-        "description": "teste",
-        "marker-size": "small",
-        "marker-color": "#ff2121",
-        "marker-symbol": ""
-      },
-      "geometry": {
-        "coordinates": [
-          -45.581941,
-          -24.58393
-        ],
-        "type": "Point"
-      },
-      "id": "b93263812e9ed3473579d218d7635d2d"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "marker-itdp7u8x0",
         "title": "<span style=\"display: none\"> Edifício Salim Lutfalla </span> ",
         "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/edificio-salim-lutfalla\">Edifício Salim Lutfalla</a> </center>  <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!miguel-badra-jr/cm78\">Miguel Badra Jr</a> </center>",
