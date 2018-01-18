@@ -5099,6 +5099,23 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "<span style=\"display: none\"> Ginásio de Itanhaém </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/ginasio-de-itanhem\">Ginásio de Itanhaém</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/vilanova-artigas\">Vilanova Artigas</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/carlos-cascaldi\">Carlos Cascaldi</a> </center>",
+        "marker-color": "#ff2121",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.788227,
+          -24.181626
+        ],
+        "type": "Point"
+      },
+      "id": "b5c1bbbd0cd453a92033fc6eda43f7ba"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "marker-ii3uyxar0",
         "title": "<span style=\"display: none\"> Agência Banco Safra </span> ",
         "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!agencia-do-banco-safra/cg7w\">Agência Banco Safra</a> </center>  <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!sidonio-porto/c16ua\">Sidonio Porto</a> </center>",
