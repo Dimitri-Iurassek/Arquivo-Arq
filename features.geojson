@@ -2327,7 +2327,7 @@
       "type": "Feature",
       "properties": {
         "title": "<span style=\"display: none\"> SENAI Vila Alpina </span> ",
-        "description": "<center> <a target=\"_parent\"  http://www.arquivo.arq.br/senai-vila-alpina\">SENAI Vila Alpina</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/vilanova-artigas\">Vilanova Artigas</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/fabio-penteado\">Fábio Penteado</a> </center>",
+        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/senai-vila-alpina\">SENAI Vila Alpina</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/vilanova-artigas\">Vilanova Artigas</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/fabio-penteado\">Fábio Penteado</a> </center>",
         "marker-color": "#ff2121",
         "marker-size": "small"
       },
