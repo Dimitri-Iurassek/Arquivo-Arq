@@ -2326,6 +2326,23 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "<span style=\"display: none\"> SENAI Vila Alpina </span> ",
+        "description": "<center> <a target=\"_parent\"  http://www.arquivo.arq.br/senai-vila-alpina\">SENAI Vila Alpina</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/vilanova-artigas\">Vilanova Artigas</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/fabio-penteado\">Fábio Penteado</a> </center>",
+        "marker-color": "#ff2121",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.568062,
+          -23.585155
+        ],
+        "type": "Point"
+      },
+      "id": "4fda2aa9ea96440884aed667ff805ad8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "<span style=\"display: none\"> Residência Abram Jagle </span> ",
         "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/residencia-abram-jagle\">Residência Abram Jagle</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/joao-walter-toscano\">João Walter Toscano</a> </center>",
         "marker-color": "#ff2121",
