@@ -652,6 +652,23 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "<span style=\"display: none\"> Posto Assistencial do INPS </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/posto-assistencial-do-inps\">Posto Assistencial do INPS</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/eduardo-kneese-de-mello\">Eduardo Knesse de Mello</a> </center> <center>",
+        "marker-color": "#ff2121",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.625648,
+          -23.556369
+        ],
+        "type": "Point"
+      },
+      "id": "1e7552df90116f8fa167f2f4491d10a1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "ci2xqjzg702ura5qwm9ut46so",
         "title": "<span style=\"display: none\"> Residência Rosa Okubo </span> ",
         "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!residencia-rosa-okubo/c1trm\">Residência Rosa Okubo</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!ruy-ohtake/cjl7\">Ruy Ohtake</a> </center>",
@@ -1320,6 +1337,23 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "<span style=\"display: none\"> Edifício Ordem dos Advogados </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/edificio-ordem-dos-advogados\">Edifício Ordem dos Advogados</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/rino-levi\">Rino Levi</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/roberto-cerqueira-cesar\">Roberto Cerqueira César</a> </center>",
+        "marker-color": "#ff2121",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.634059,
+          -23.551531
+        ],
+        "type": "Point"
+      },
+      "id": "3175f2e11b87e1be78db3da23ea42a5f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "ci2xjasop02vkcdqw1h95z5z2",
         "title": "<span style=\"display: none\"> Ilha Musical </span>",
         "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!ilha-musical/c1stj\">Ilha Musical</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!decio-tozzi/c1h6c\">Decio Tozzi</a> </center>",
@@ -1335,6 +1369,23 @@
         "type": "Point"
       },
       "id": "31d8cc37a2ad758deeff5bc6015c2349"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "<span style=\"display: none\"> Corpo de Bombeiros e Batalhão </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/corpo-de-bombeiros-e-batalhao\">Corpo de Bombeiros e Batalhãoa</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/paulo-de-mello-bastos\">Paulo de Mello Bastos</a> </center> <center>",
+        "marker-color": "#ff2121",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.560549,
+          -23.688042
+        ],
+        "type": "Point"
+      },
+      "id": "3228f2b7f376309e545cd8d051cc5c94"
     },
     {
       "type": "Feature",
@@ -1544,6 +1595,23 @@
         "type": "Point"
       },
       "id": "3b09ddb82578be1c17e4364beb907f20"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "<span style=\"display: none\"> Edifício SESC - SENAC </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/edificio-sesc-senac-marlia\">Edifício SESC - SENAC</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/oswaldo-correa-goncalves\">Oswaldo Corrêa Gonçalves</a> </center> <center>",
+        "marker-color": "#ff2121",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          -49.946727,
+          -22.214235
+        ],
+        "type": "Point"
+      },
+      "id": "3c59d4b57a780e975d7725ebe35c489a"
     },
     {
       "type": "Feature",
@@ -7095,6 +7163,23 @@
         "type": "Point"
       },
       "id": "fb2df3eacd5e490aaa49b2a8c0bc7df7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "<span style=\"display: none\"> Cemitério Paulicéia </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/cemiterio-pauliceia\">Cemitério Paulicéia</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/eduardo-kneese-de-mello\">Eduardo Knesse de Mello</a> </center> <center>",
+        "marker-color": "#ff2121",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.594906,
+          -23.670105
+        ],
+        "type": "Point"
+      },
+      "id": "fb3b96eca9d2cee2b551a52bb12cb0e3"
     },
     {
       "type": "Feature",
