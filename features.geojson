@@ -3728,6 +3728,23 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "<span style=\"display: none\"> Residência Virgílio Frontini </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/residencia-virgilio-frontini\">Residência Virgílio Frontini</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/bernard-rudofsky\">Bernard Rudofsky</a> </center> <center>",
+        "marker-color": "#ff2121",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.67055,
+          -23.538393
+        ],
+        "type": "Point"
+      },
+      "id": "7fbcefd958edaaf091e22ad1e5f260fd"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "marker-itz2sgxn0",
         "title": "<span style=\"display: none\"> Residência Rodolpho Ortenblad Filho II </span> ",
         "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/residencia-rodolpho-ortenblad-filho-ii\">Residência Rodolpho Ortenblad Filho II</a> </center>  <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/rodolpho-ortenblad-filho\">Rodolpho Ortenblad Filho</a> </center>",
@@ -6028,6 +6045,23 @@
         "type": "Point"
       },
       "id": "d11661bae3421647327d5731577e0842"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "<span style=\"display: none\"> Edifício Carlos Ekman </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/edificio-carlos-ekman\">Edifício Carlos Ekman</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/sylvio-ekman\">Sylvio Ekman</a> </center> <center>",
+        "marker-color": "#ff2121",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.651647,
+          -23.543136
+        ],
+        "type": "Point"
+      },
+      "id": "d173fb4972ab0fbe5d12ae3786de4a50"
     },
     {
       "type": "Feature",
