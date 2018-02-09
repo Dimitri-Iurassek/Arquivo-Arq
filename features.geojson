@@ -3449,6 +3449,23 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "<span style=\"display: none\"> Residência João Arnstein </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/residencia-joao-arnstein\">Residência João Arnstein</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/bernard-rudofsky\">Bernard Rudofsky</a> </center> <center>",
+        "marker-color": "#ff2121",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.670369,
+          -23.574134
+        ],
+        "type": "Point"
+      },
+      "id": "77b6ca0af6a01dc9f3de2132f65862fe"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "marker-igkiyu4u0",
         "title": "<span style=\"display: none\"> Residência Costa Neto </span> ",
         "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!residencia-costa-neto/c11ne\">Residência Costa Neto</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!joaquim-guedes/cssc\">Joaquim Guedes</a> </center>",
