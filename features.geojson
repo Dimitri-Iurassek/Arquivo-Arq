@@ -2113,6 +2113,23 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "<span style=\"display: none\"> Paróquia São Domingos </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/paroquia-sao-domingos\">Paróquia São Domingos</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/franz-heep\">Franz Heep</a> </center> <center>",
+        "marker-color": "#ff2121",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.670076,
+          -23.541246
+        ],
+        "type": "Point"
+      },
+      "id": "4a404de2fd8a7690c654a8b2fdd538a0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "ci3m920cb01p8hrqqj6jbytt1",
         "title": "<span style=\"display: none\"> Residência Dino Zammataro </span>",
         "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!residencia-dino-zammataro/c19mw\">Residência Dino Zammataro</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!rodrigo-lefevre/c1fiz\">Rodrigo Lefèvre</a> </center>",
@@ -5472,6 +5489,23 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "<span style=\"display: none\"> Edifício Arlinda </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/edificio-arlinda\">Edifício Arlinda</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/franz-heep\">Franz Heep</a> </center> <center>",
+        "marker-color": "#ff2121",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.644776,
+          -23.540443
+        ],
+        "type": "Point"
+      },
+      "id": "bf0d5662580a87898bf4aefe6df3d9e3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "ci2wo9ris02fla5qw2q8mid39",
         "title": "<span style=\"display: none\"> Edifício Thomaz Edison </span> ",
         "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!edificio-thomaz-edison/c165s\">Edifício Thomaz Edison</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!lucjan-korngold/cvgb\">Lucjan Korngold</a> </center>",
@@ -6373,6 +6407,23 @@
         "type": "Point"
       },
       "id": "dd9f5a2570d7f24719f5db8cbc9e2607"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "<span style=\"display: none\"> Edifício Buriti </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/edificio-buriti\">Edifício Buriti</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/franz-heep\">Franz Heep</a> </center> <center>",
+        "marker-color": "#ff2121",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.651106,
+          -23.546503
+        ],
+        "type": "Point"
+      },
+      "id": "ddb6d068ec400a7483d4980ee25b51a1"
     },
     {
       "type": "Feature",
