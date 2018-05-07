@@ -22,25 +22,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "marker-ia1fqgy10",
-        "title": "<span style=\"display: none\"> Edifício Toscania </span> ",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!edificio-toscania/c21cb\">Edifício Toscania</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!telesforo-cristofani/c1dw6\">Telésforo Cristófani</a> </center>",
-        "marker-size": "small",
-        "marker-color": "#ff2121",
-        "marker-symbol": ""
-      },
-      "geometry": {
-        "coordinates": [
-          -46.653989,
-          -23.568559
-        ],
-        "type": "Point"
-      },
-      "id": "01009f0118d2e2b1768d5d36dbfb299f"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "ci7h16c0e0050hmkgmkdv421g",
         "title": "<span style=\"display: none\"> Pinacoteca de São Paulo </span> ",
         "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!pinacoteca-do-estado/c7t9\">Pinacoteca de São Paulo</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!ramos-de-azevedo/c1sor\">Ramos de Azevedo</a> </center>",
@@ -230,8 +211,8 @@
       "type": "Feature",
       "properties": {
         "id": "marker-iuov9dy61",
-        "title": "<span style=\"display: none\"> Residência Heitor de Almeida </span> ",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/residencia-heitor-de-almeida\">Residência Heitor de Almeida</a> </center>  <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!vilanova-artigas/cr6g\">Vilanova Artigas</a> </center>",
+        "title": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/paco-municipal-de-bauru\">Paço Municipal de Bauru</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/zenon-lotufo\">Zenon Lotufo</a> </center> <center>",
+        "description": "#ff2121",
         "marker-size": "small",
         "marker-color": "#ff2121",
         "marker-symbol": ""
@@ -568,8 +549,8 @@
       },
       "geometry": {
         "coordinates": [
-          -46.653989,
-          -23.568559
+          -46.654049,
+          -23.568469
         ],
         "type": "Point"
       },
@@ -648,6 +629,23 @@
         "type": "Point"
       },
       "id": "1d0c1c17f71b8637467f87d58b7e96ac"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "<span style=\"display: none\"> Departamento de Eletricidade USP  </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/departamento-de-eletricidade-usp\">Departamento de Eletricidade USP</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/ubirajara-ribeiro\">Ubirajara Ribeiro</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/zenon-lotufo\">Zenon Lotufo</a> </center>",
+        "marker-color": "#ff2121",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.730252,
+          -23.557163
+        ],
+        "type": "Point"
+      },
+      "id": "1d62d755f2c4895de82dd717e88d17f6"
     },
     {
       "type": "Feature",
@@ -2194,8 +2192,8 @@
       },
       "geometry": {
         "coordinates": [
-          -46.684636,
-          -23.548
+          -46.684863,
+          -23.547985
         ],
         "type": "Point"
       },
@@ -4775,8 +4773,8 @@
       },
       "geometry": {
         "coordinates": [
-          -46.679572,
-          -23.580763
+          -46.679583,
+          -23.580773
         ],
         "type": "Point"
       },
@@ -5559,6 +5557,23 @@
         "type": "Point"
       },
       "id": "c027749c1183ec24f12d2c65796f04db"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "<span style=\"display: none\"> Residência Leonardo Sacco  </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/residencia-leonardo-sacco\">Residência Leonardo Sacco</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/candido-malta-campos-filho\">Candido Malta Campos Filho</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/siegbert-zanettini\">Siegbert Zanettini </a> </center>",
+        "marker-color": "#ff2121",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.648357,
+          -23.613247
+        ],
+        "type": "Point"
+      },
+      "id": "c031d3425b1e71c2a947c660bbb326b2"
     },
     {
       "type": "Feature",
@@ -7130,6 +7145,23 @@
         "type": "Point"
       },
       "id": "f3bf9e3ba58b0e0dbc63cb525980949e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "<span style=\"display: none\"> Paço Municipal de Bauru  </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/paco-municipal-de-bauru\">Paço Municipal de Bauru</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/zenon-lotufo\">Zenon Lotufo</a> </center> <center>",
+        "marker-color": "#ff2121",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          -49.070153,
+          -22.330976
+        ],
+        "type": "Point"
+      },
+      "id": "f49a164afe03b818c46749cb1d002441"
     },
     {
       "type": "Feature",
