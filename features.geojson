@@ -1443,6 +1443,23 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "<span style=\"display: none\"> Cine Ipiranga e Hotel Excelsior  </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/cine-ipiranga-e-hotel-excelsior\">Cine Ipiranga e Hotel Excelsior</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/rino-levi\">Rino Levi</a> </center> <center>",
+        "marker-color": "#ff2121",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.640536,
+          -23.542844
+        ],
+        "type": "Point"
+      },
+      "id": "3374e69293caee4b512e2724b5e5c322"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "marker-ivbjoz1w0",
         "title": "<span style=\"display: none\"> Edifício João Ramalho </span> ",
         "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/edificio-joao-ramalho\">Edifício João Ramalho</a> <center> <a target=\"_parent\"  href=\"http://http://www.arquivo.arq.br/plinio-croce\">Plínio Croce</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!salvador-candia/c1pg0\">Salvador Candia</a> </center>",
