@@ -257,8 +257,8 @@
       },
       "geometry": {
         "coordinates": [
-          -46.641979,
-          -23.550987
+          -46.641975,
+          -23.550972
         ],
         "type": "Point"
       },
@@ -1551,25 +1551,6 @@
         "type": "Point"
       },
       "id": "38ce2ab3f56a297e63d18db69233f6ba"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "ci2xqjzgk02uya5qwod2j93kz",
-        "title": "<span style=\"display: none\"> Sede do Clube Harmonia </span> ",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!sede-do-clube-harmonia/c1a9c\">Sede do Clube Harmonia</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!alfredo-paesani/c1lep\">Alfredo Paesani</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!fabio-penteado/c1tfj\">Fábio Penteado</a> </center>",
-        "marker-size": "small",
-        "marker-color": "#ff2121",
-        "marker-symbol": ""
-      },
-      "geometry": {
-        "coordinates": [
-          -46.669396,
-          -23.573722
-        ],
-        "type": "Point"
-      },
-      "id": "39436b0864a2830bedc7ad11c0d13939"
     },
     {
       "type": "Feature",
@@ -3505,8 +3486,8 @@
       },
       "geometry": {
         "coordinates": [
-          -46.670369,
-          -23.574134
+          -46.670393,
+          -23.57414
         ],
         "type": "Point"
       },
@@ -5086,8 +5067,8 @@
       },
       "geometry": {
         "coordinates": [
-          -46.641463,
-          -23.551674
+          -46.641533,
+          -23.55176
         ],
         "type": "Point"
       },
@@ -5179,8 +5160,8 @@
       },
       "geometry": {
         "coordinates": [
-          -46.669396,
-          -23.573722
+          -46.669904,
+          -23.573859
         ],
         "type": "Point"
       },
@@ -5333,6 +5314,23 @@
         "type": "Point"
       },
       "id": "b8698a85c3f628c7bed5fdc28afd8d37"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "<span style=\"display: none\"> Edifício Gonçalves Biar  </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/edificio-goncalves-biar\">Edifício Gonçalves Biar</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/antonio-tadeu-giuzio\">Antonio Tadeu Giuzio</a> </center> <center>",
+        "marker-color": "#ff2121",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.64665,
+          -23.538571
+        ],
+        "type": "Point"
+      },
+      "id": "b8bff4401531b7269e63fb943254b302"
     },
     {
       "type": "Feature",
@@ -6238,6 +6236,23 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "<span style=\"display: none\"> Inca Hotel  </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/inca-hotel\">Inca Hotel</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/antonio-tadeu-giuzio\">Antonio Tadeu Giuzio</a> </center> <center>",
+        "marker-color": "#ff2121",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.640741,
+          -23.541703
+        ],
+        "type": "Point"
+      },
+      "id": "d4572e2c57485be1c54230b76e2382bb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "<span style=\"display: none\"> Edifício Olinda </span> ",
         "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/edificio-olinda\">Edifício Olinda</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/alfred-duntuch\">Alfred Düntuch</a> </center>",
         "marker-color": "#ff2121",
@@ -6245,31 +6260,12 @@
       },
       "geometry": {
         "coordinates": [
-          -46.647381,
-          -23.548884
+          -46.647349,
+          -23.548842
         ],
         "type": "Point"
       },
       "id": "d52c27ad97b9328be5d1690d5694817b"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "ci39lg5n906htblqty38h58lj",
-        "title": "<span style=\"display: none\"> Palácio Anchieta </span> ",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!palacio-anchieta/c1lol\">Palácio Anchieta</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!alfredo-mathias/cexr\">Alfredo Mathias</a> </center>",
-        "marker-size": "small",
-        "marker-color": "#ff2121",
-        "marker-symbol": ""
-      },
-      "geometry": {
-        "coordinates": [
-          -46.641066,
-          -23.550668
-        ],
-        "type": "Point"
-      },
-      "id": "d592885a742c458c236f15a91550c4f0"
     },
     {
       "type": "Feature",
