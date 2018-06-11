@@ -5299,6 +5299,23 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "<span style=\"display: none\"> Edifício Clipper  </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/edificio-clipper\">Edifício Clipper</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/sylvio-ekman\">Sylvio Ekman</a> </center> <center>",
+        "marker-color": "#ff2121",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.64931,
+          -23.539364
+        ],
+        "type": "Point"
+      },
+      "id": "b6fd8850d08291bdfa757eb0f1198f91"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "marker-ii3uyxar0",
         "title": "<span style=\"display: none\"> Agência Banco Safra </span> ",
         "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!agencia-do-banco-safra/cg7w\">Agência Banco Safra</a> </center>  <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!sidonio-porto/c16ua\">Sidonio Porto</a> </center>",
