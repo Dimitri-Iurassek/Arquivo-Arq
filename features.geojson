@@ -794,6 +794,23 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "<span style=\"display: none\"> Residência Arthur Ortenblad Neto </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/residencia-arthur-ortenblad-neto\">Residência Arthur Ortenblad Neto</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/rodolpho-ortenblad-filho\">Rodolpho Ortenblad Filho </a> </center> <center>",
+        "marker-color": "#ff2121",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.684472,
+          -23.572249
+        ],
+        "type": "Point"
+      },
+      "id": "227838d83bd73547fb0ebc61cad602b1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "marker-ihup05pz2",
         "title": "<span style=\"display: none\"> Edifício Wilton Paes de Almeida </span> ",
         "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!edifcio-wilton-paes-de-almeida/c8if\">Edifício Wilton Paes de Almeida</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!roger-zmekhol/c1kqc\">Roger Zmekhol</a> </center>",
@@ -6141,6 +6158,23 @@
         "type": "Point"
       },
       "id": "d09a10e604b6141244eba8774cd86337"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "<span style=\"display: none\"> Residência Fabio Lima V. Guimarães </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/residencia-fabio-lima-v-guimaraes\">Residência Fabio Lima V. Guimarães</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/rodolpho-ortenblad-filho\">Rodolpho Ortenblad Filho </a> </center> <center>",
+        "marker-color": "#ff2121",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.675735,
+          -23.567415
+        ],
+        "type": "Point"
+      },
+      "id": "d0de89f202e2e3ecdad7452ed34a3ed7"
     },
     {
       "type": "Feature",
