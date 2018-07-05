@@ -2107,6 +2107,23 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "<span style=\"display: none\"> Edifício Clube Comercial </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/edificio-clube-comercial\">Edifício Clube Comercial</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/felisberto-ranzini\">Felisberto Ranzini</a> </center> <center>",
+        "marker-color": "#ff2121",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.636243,
+          -23.54566
+        ],
+        "type": "Point"
+      },
+      "id": "49baff68e3da8bae31f144f326db1579"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "ci39lg5n706hsblqt1ptb85e6",
         "title": "<span style=\"display: none\"> Edifício Nicolau Schisser </span> ",
         "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!edificio-nicolau-schisser/c11aj\">Edifício Nicolau Schisser</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!rino-levi/cryc\">Rino Levi</a> </center>",
@@ -3268,6 +3285,23 @@
         "type": "Point"
       },
       "id": "6ce67ca7d82a57bdabbb2af38219c4e3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "<span style=\"display: none\"> Residência Paulo Suplicy </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/residencia-paulo-suplicy\">Residência Paulo Suplicy</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/jacques-pilon\">Jacques Pilon</a> </center> <center>",
+        "marker-color": "#ff2121",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.656501,
+          -23.562901
+        ],
+        "type": "Point"
+      },
+      "id": "6f4a69d626506eb09cfbd34a38b6e8f5"
     },
     {
       "type": "Feature",
@@ -5486,8 +5520,8 @@
       },
       "geometry": {
         "coordinates": [
-          -46.649783,
-          -23.56673
+          -46.649721,
+          -23.566723
         ],
         "type": "Point"
       },
@@ -6810,6 +6844,23 @@
         "type": "Point"
       },
       "id": "e6e63a756989ef4a6ee334afc18aa2be"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "<span style=\"display: none\"> Residência Ernesto Dias de Castro (Casa das Rosas) </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/residencia-ernesto-cias-de-castro\">Residência Ernesto Dias de Castro (Casa das Rosas)</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/felisberto-ranzini\">Felisberto Ranzini</a> </center> <center>",
+        "marker-color": "#ff2121",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.645176,
+          -23.571103
+        ],
+        "type": "Point"
+      },
+      "id": "e82b196c30ab0e7a08a80c27fa2252b7"
     },
     {
       "type": "Feature",
