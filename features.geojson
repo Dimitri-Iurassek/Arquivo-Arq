@@ -885,6 +885,23 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "<span style=\"display: none\"> Edifício Siriuba </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/edificio-siriuba\">Edifício Siriuba</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/oswaldo-bratke\">Oswaldo Bratke</a> </center> <center>",
+        "marker-color": "#ff2121",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.638113,
+          -23.54912
+        ],
+        "type": "Point"
+      },
+      "id": "23c483a2366e2e84c4b8d902be349b45"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "ci2wo9rig02fea5qwwpkxon9z",
         "title": "<span style=\"display: none\" Edifício Nações Unidas </span> ",
         "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!edificio-nacoes-unidas/c1u51\">Edifício Nações Unidas</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!abelardo-de-souza/cq3m\">Abelardo de Souza</a> </center>",
@@ -2782,6 +2799,23 @@
         "type": "Point"
       },
       "id": "5b679fa45ba9d064596c2f6c1f55c357"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "<span style=\"display: none\"> Residência Natan Faerman </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/residencia-natan-faermann\">Residência Natan Faerman</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/david-libeskind\">David Libeskind</a> </center> <center>",
+        "marker-color": "#ff2121",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.698481,
+          -23.55803
+        ],
+        "type": "Point"
+      },
+      "id": "5bc7996476a3891cfc7cd95745c5e10a"
     },
     {
       "type": "Feature",
@@ -6224,6 +6258,23 @@
         "type": "Point"
       },
       "id": "d0de89f202e2e3ecdad7452ed34a3ed7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "<span style=\"display: none\"> Edifício Renata Sampaio Ferreira </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/edificio-renata-sampaio-ferreira\">Edifício Renata Sampaio Ferreira</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/oswaldo-bratke\">Oswaldo Bratke</a> </center> <center>",
+        "marker-color": "#ff2121",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.644934,
+          -23.545603
+        ],
+        "type": "Point"
+      },
+      "id": "d0e2a163da0d76b20a7b973546dd1007"
     },
     {
       "type": "Feature",
