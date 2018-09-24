@@ -3539,25 +3539,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "marker-if4y82s50",
-        "title": "<span style=\"display: none\"> Residência J. M. Domingues Perez </span> ",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!residencia-j-m-domingues-perez/cqr8\">Residência J. M. Domingues Perez</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!david-libeskind/c1k84\">David Libeskind</a> </center>",
-        "marker-size": "small",
-        "marker-color": "#ff2121",
-        "marker-symbol": ""
-      },
-      "geometry": {
-        "coordinates": [
-          -46.669329,
-          -23.543144
-        ],
-        "type": "Point"
-      },
-      "id": "76ad3357ff9c4648e7cc4db8cd9e4f81"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "ci2wo9rip02fia5qwyedns8ax",
         "title": "<span style=\"display: none\"> Edifício Rossi-leste </span> ",
         "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!edificio-rossi-leste/c1wu3\">Edifício Rossi-leste</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!marcello-fragelli/c7c7\">Marcello Fragelli</a> </center>",
@@ -4780,6 +4761,23 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "<span style=\"display: none\"> Estação Ferroviária de Mairinque </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/estacao-ferroviaria-de-mairinque\">Estação Ferroviária de Mairinque</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/victor-dubugras\">Victor Dubugras</a> </center> <center>",
+        "marker-color": "#ff2121",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          -47.183329,
+          -23.544425
+        ],
+        "type": "Point"
+      },
+      "id": "a1759d5168d68d980adf0a7fcf637d64"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "marker-if4y82s50",
         "title": "<span style=\"display: none\"> Residência J. M. Domingues Perez </span> ",
         "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!residencia-j-m-domingues-perez/cqr8\">Residência J. M. Domingues Perez</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!david-libeskind/c1k84\">David Libeskind</a> </center>",
@@ -4789,8 +4787,8 @@
       },
       "geometry": {
         "coordinates": [
-          -46.669329,
-          -23.543144
+          -46.669297,
+          -23.543422
         ],
         "type": "Point"
       },
