@@ -3359,8 +3359,8 @@
       "properties": {
         "title": "<span style=\"display: none\"> Residência Spartaco Vial </span> ",
         "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/residencia-spartaco-vial\">Residência Spartaco Vial</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/david-libeskind\">David Libeskind</a> </center> <center>",
-        "id": "#ff2121",
-        "marker-size": "small"
+        "marker-size": "small",
+        "marker-color": "#ff2121"
       },
       "geometry": {
         "coordinates": [
