@@ -1551,6 +1551,23 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "<span style=\"display: none\"> Edifício Jardim Buenos Aires </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/edificio-jardim-buenos-aires\">Edifício Jardim Buenos Aires</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/david-libeskind\">David Libeskind</a> </center> <center>",
+        "marker-color": "#ff2121",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.658216,
+          -23.544943
+        ],
+        "type": "Point"
+      },
+      "id": "373f9a6d211927dd6f0cfdadfe0eae0e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "ci2wo9ric02faa5qwu95gs9qg",
         "title": "<span style=\"display: none\"> Edifício Lily </span> ",
         "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!edificio-lily/c16b9\">Edifício Lily</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!giancarlo-palanti/cjv9\">Giancarlo Palanti</a> </center>",
@@ -3340,6 +3357,23 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "<span style=\"display: none\"> Residência Spartaco Vial </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/residencia-spartaco-vial\">Residência Spartaco Vial</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/david-libeskind\">David Libeskind</a> </center> <center>",
+        "id": "#ff2121",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          -47.456607,
+          -23.508582
+        ],
+        "type": "Point"
+      },
+      "id": "7043a52f1ad11177ac884da102544365"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "<span style=\"display: none\"> Edifício Dona Amélia Pinto de Souza </span> ",
         "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/edificio-dona-amelia-pinto-de-souza\">Edifício Dona Amélia Pinto de Souza</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/jacques-pilon\">Jacques Pilon</a> </center> <center>",
         "marker-color": "#ff2121",
@@ -3617,25 +3651,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "ci2wo9rht02esa5qwno030yso",
-        "title": "<span style=\"display: none\"> Edifício Arabá </span> ",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!edificio-araba/cua4\">Edifício Arabá</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!david-libeskind/c1k84\">David Libeskind</a> </center>",
-        "marker-size": "small",
-        "marker-color": "#ff2121",
-        "marker-symbol": ""
-      },
-      "geometry": {
-        "coordinates": [
-          -46.659584,
-          -23.543077
-        ],
-        "type": "Point"
-      },
-      "id": "78d7516d8fe89824a776a06a6f4d8853"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "marker-iveeggfl0",
         "title": "<span style=\"display: none\"> Fábrica Rhodia </span> ",
         "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/fabrica-rhodia\">Fábrica Rhodia</a>  <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!jacques-pilon/c8h2\">Jacques Pilon</a> </center>",
@@ -3670,6 +3685,23 @@
         "type": "Point"
       },
       "id": "79cd173e3c54ab43d1b3ff1d8bb8ab05"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "<span style=\"display: none\"> Edifício Pernambuco </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/edificio-pernambuco\">Edifício Pernambuco</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/david-libeskind\">David Libeskind</a> </center> <center>",
+        "marker-size": "small",
+        "marker-color": "#ff2121"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.6607,
+          -23.543154
+        ],
+        "type": "Point"
+      },
+      "id": "7a00d95abc0a60339a7181547b226c88"
     },
     {
       "type": "Feature",
@@ -4683,8 +4715,8 @@
       },
       "geometry": {
         "coordinates": [
-          -46.659584,
-          -23.543077
+          -46.659529,
+          -23.543122
         ],
         "type": "Point"
       },
@@ -6519,8 +6551,8 @@
       },
       "geometry": {
         "coordinates": [
-          -46.660618,
-          -23.543603
+          -46.660607,
+          -23.543612
         ],
         "type": "Point"
       },
@@ -6798,8 +6830,8 @@
       },
       "geometry": {
         "coordinates": [
-          -46.659359,
-          -23.543309
+          -46.65939,
+          -23.543325
         ],
         "type": "Point"
       },
