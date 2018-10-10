@@ -4364,6 +4364,23 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "<span style=\"display: none\"> Edifício Lopes Chaves </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/edificio-lopes-chaves\">Edifício Lopes Chaves</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/bernardo-rzezak\">Bernardo Rzezak</a> </center> <center> ",
+        "marker-color": "#ff2121",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.65787,
+          -23.528524
+        ],
+        "type": "Point"
+      },
+      "id": "8cb6c1bcc44b555aa2ffd5cb67bcb199"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "ci2xjasor02vmcdqwek42j735",
         "title": "<span style=\"display: none\"> Museu de Arte de São Paulo - MASP </span> ",
         "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!museu-de-arte-de-sao-paulo---masp/c1lc9\">Museu de Arte de São Paulo - MASP</a> </center> \n<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!lina-bo-bardi/clkh\">Lina Bo Bardi</a> </center>",
@@ -6018,6 +6035,23 @@
         "type": "Point"
       },
       "id": "c34a5c3b50bc5e69cceced624c309e53"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "<span style=\"display: none\"> Hospital Municipal do Tatuapé </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/hospital-municipal-do-tatuape\">Hospital Municipal do Tatuapé</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/hoover-americo-sampaio\">Hoover Americo Sampaio</a> </center> <center> ",
+        "marker-color": "#ff2121",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.566458,
+          -23.533017
+        ],
+        "type": "Point"
+      },
+      "id": "c3c5607886eba77fccecb7e717493e41"
     },
     {
       "type": "Feature",
