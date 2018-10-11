@@ -811,6 +811,23 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "<span style=\"display: none\"> Edifício Cavarú </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/edificio-cavaru\">Edifício Cavarú</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/eduardo-kneese-de-mello\">Eduardo Knesse de Mello</a> </center> <center> ",
+        "marker-size": "small",
+        "marker-color": "#ff2121"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.638292,
+          -23.55214
+        ],
+        "type": "Point"
+      },
+      "id": "21cd560f2b2168467a5d36e9cfac4dc3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "<span style=\"display: none\"> Residência Arthur Ortenblad Neto </span> ",
         "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/residencia-arthur-ortenblad-neto\">Residência Arthur Ortenblad Neto</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/rodolpho-ortenblad-filho\">Rodolpho Ortenblad Filho </a> </center> <center>",
         "marker-color": "#ff2121",
@@ -1786,6 +1803,23 @@
         "type": "Point"
       },
       "id": "4058d36c47ec85c41f8a114652012309"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "<span style=\"display: none\"> Residência Edmundo Keddy </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/residencia-edmundo-keddy\">Residência Edmundo Keddy</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/miguel-badra-jr\">Miguel Badra Jr.</a> </center> <center> ",
+        "marker-color": "#ff2121",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.611096,
+          -23.585318
+        ],
+        "type": "Point"
+      },
+      "id": "40d1a282d22cedb102950ed12f67d1d8"
     },
     {
       "type": "Feature",
@@ -3791,6 +3825,23 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "<span style=\"display: none\"> Residência Hoover Americo Sampaio </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/residencia-hoover-americo-sampaio\">Residência Hoover Americo Sampaio</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/hoover-americo-sampaio\">Hoover Americo Sampaio</a> </center> <center> ",
+        "marker-color": "#ff2121",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.708995,
+          -23.584719
+        ],
+        "type": "Point"
+      },
+      "id": "7a732d4d4ceb6ad9e79a2f53f8a4053c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "ci2xqjzg302una5qwake06akk",
         "title": "<span style=\"display: none\"> Residência Flávio de Carvalho </span> ",
         "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!residencia-flavio-de-carvalho/c1v83\">Residência Flávio de Carvalho</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!flavio-de-carvalho/c1c1l\">Flávio de Carvalho</a> </center>",
@@ -4944,8 +4995,8 @@
       },
       "geometry": {
         "coordinates": [
-          -46.67145,
-          -23.530217
+          -46.671523,
+          -23.530792
         ],
         "type": "Point"
       },
@@ -5965,6 +6016,23 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "<span style=\"display: none\"> Edifício Luiza </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/edificio-luiza\">Edifício Luiza</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/plinio-croce\">Plínio Croce</a> </center> <center> ",
+        "marker-color": "#ff2121",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.640775,
+          -23.546852
+        ],
+        "type": "Point"
+      },
+      "id": "c14cf704402304b8ab7f7dbb3fa0e453"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "<span style=\"display: none\"> Catedral da Sé </span> ",
         "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/catedral-da-se\">Catedral da Sé</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/maximilian-hehl\">Maximilian Hehl</a> </center>",
         "marker-size": "small",
@@ -6069,6 +6137,23 @@
         "type": "Point"
       },
       "id": "c405bcb6410c434e48eb8780d9551f3f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "<span style=\"display: none\"> Edifício Souto de Oliveira </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/edificio-souto-de-oliveira\">Edifício Souto de Oliveira</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/icaro-de-castro-mello\">Icaro de Castro Mello</a> </center> <center> ",
+        "marker-color": "#ff2121",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.642671,
+          -23.548925
+        ],
+        "type": "Point"
+      },
+      "id": "c40d8d4f3b95fe1bae9f8aed6f7e1029"
     },
     {
       "type": "Feature",
@@ -7687,25 +7772,6 @@
         "type": "Point"
       },
       "id": "f79438b2ca34ac89f441c5f733748cf7"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "ci2xjasot02vocdqwiakpyhir",
-        "title": "<span style=\"display: none\"> Piscina Coberta </span> ",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!piscina-coberta/c1mbx\">Piscina Coberta</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!icaro-de-castro-mello/c1pdy\">Icaro de Castro Mello</a> </center>",
-        "marker-size": "small",
-        "marker-color": "#ff2121",
-        "marker-symbol": ""
-      },
-      "geometry": {
-        "coordinates": [
-          -46.67145,
-          -23.530217
-        ],
-        "type": "Point"
-      },
-      "id": "f8590cde386c33c31ee4b4860c724c2c"
     },
     {
       "type": "Feature",
