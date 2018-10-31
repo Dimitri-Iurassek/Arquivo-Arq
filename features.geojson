@@ -485,6 +485,23 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "<span style=\"display: none\"> Edifício Rangel Pestana </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/edificio-rangel-pestana\">Edifício Rangel Pestana</a> </center>   <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/carlos-lemos\">Carlos Lemos</a> </center> <center> ",
+        "marker-color": "#ff2121",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.631283,
+          -23.549829
+        ],
+        "type": "Point"
+      },
+      "id": "164fcdde5617d6fb67c1e693e088b8b5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "<span style=\"display: none\"> Quartel General </span> ",
         "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/quartel-general\">Quartel General</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/paulo-de-mello-bastos\">Paulo de Mello Bastos</a> </center>",
         "marker-size": "small",
@@ -1097,6 +1114,23 @@
         "type": "Point"
       },
       "id": "25453571f938699bd1051644f71eb8ce"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "<span style=\"display: none\"> Edifício Intercap </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/edificio-intercap\">Edifício Intercap</a> </center>   <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/lucjan-korngolds\">Lucjan Korngold</a> </center> <center> ",
+        "marker-color": "#ff2121",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.644111,
+          -23.544712
+        ],
+        "type": "Point"
+      },
+      "id": "2559fe0d28744e33a6bdef20a148072c"
     },
     {
       "type": "Feature",
@@ -2607,6 +2641,23 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "<span style=\"display: none\"> Residência Sylvio Suplicy </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/residencia-sylvio-suplicy\">Residência Sylvio Suplicy</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/eduardo-kneese-de-mello\">Eduardo Knesse de Mello</a> </center> <center> ",
+        "marker-color": "#ff2121",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.669525,
+          -23.577076
+        ],
+        "type": "Point"
+      },
+      "id": "4f4adeb93505677530f5d8305320da1b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "marker-i7v5zzm30",
         "title": "<span style=\"display: none\"> SENAI Escola Têxtil </span> ",
         "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!senai-escola-textil/cb8l\">SENAI Escola Têxtil</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!ernest-mange/c1n2e\">Ernest Mange</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!helio-duarte/c1yty\">Hélio Duarte</a> </center>",
@@ -3540,6 +3591,23 @@
         "type": "Point"
       },
       "id": "6f4a69d626506eb09cfbd34a38b6e8f5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "<span style=\"display: none\"> Edifício Banco Continental </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/edificio-banco-continental\">Edifício Banco Continental</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/francisco-beck\">Francisco Beck</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/lucjan-korngold\">Lucjan Korngold</a> </center> <center>",
+        "marker-color": "#ff2121",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.633211,
+          -23.547163
+        ],
+        "type": "Point"
+      },
+      "id": "6fc049e20be4b4fbe06ccfcd2f3ab6f5"
     },
     {
       "type": "Feature",
@@ -4847,6 +4915,23 @@
         "type": "Point"
       },
       "id": "96d9f8d3a25fc5f860585b871c70480a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "<span style=\"display: none\"> Residência Benedita Costa </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/residencia-benedita-costa\">Residência Benedita Costa</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/eduardo-kneese-de-mello\">Eduardo Knesse de Mello</a> </center> <center> ",
+        "marker-color": "#ff2121",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.663877,
+          -23.577879
+        ],
+        "type": "Point"
+      },
+      "id": "97739dd7c4f1f9580db54f2b8e5f3f46"
     },
     {
       "type": "Feature",
@@ -7411,6 +7496,23 @@
         "type": "Point"
       },
       "id": "eab1ce6eabb8fecfb53fb5fa83c02584"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "<span style=\"display: none\"> Residência na Av. Nove de Julho </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/residencia-na-av-nove-de-julho\">Residência na Av. Nove de Julho</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/oscar-americano\">Oscar Americano</a> </center> <center> ",
+        "marker-color": "#ff2121",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.667906,
+          -23.574873
+        ],
+        "type": "Point"
+      },
+      "id": "eb047e50620e3aa41aeb56cff6908785"
     },
     {
       "type": "Feature",
