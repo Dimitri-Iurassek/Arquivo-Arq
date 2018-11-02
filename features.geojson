@@ -206,6 +206,23 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "<span style=\"display: none\"> Largo da Memória </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/largo-da-memoria\">Largo da Memória</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/victor-dubugras\">Victor Dubugras</a> </center> <center> ",
+        "marker-color": "#ff2121",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.63978,
+          -23.547696
+        ],
+        "type": "Point"
+      },
+      "id": "0c3bd024db13bf765d6428c6fe9dbb34"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "marker-iv8z5ljr0",
         "title": "<span style=\"display: none\"> Edifício Pacaembu </span> ",
         "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/edificio-pacaembu\">Edifício Pacaembu</a> </center> <center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!artacho-jurado/c1p2g\">Artacho Jurado</a> </center>",
@@ -1592,6 +1609,23 @@
         "type": "Point"
       },
       "id": "3374e69293caee4b512e2724b5e5c322"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "<span style=\"display: none\"> Restaurante Vertical Fasano </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/restaurante-vertical-fasano\">Restaurante Vertical Fasano</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/telesforo-cristofani\">Telésforo Cristófani</a> </center> <center> ",
+        "marker-color": "#ff2121",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.6403,
+          -23.544209
+        ],
+        "type": "Point"
+      },
+      "id": "34b38539250239674e91d11289ab45c0"
     },
     {
       "type": "Feature",
@@ -6070,6 +6104,23 @@
         "type": "Point"
       },
       "id": "be88fb5fbefaf444f41ca3962a1645a1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "<span style=\"display: none\"> Centro Comercial Paulista </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/centro-comercial-paulista\">Centro Comercial Paulista</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/alberto-botti\">Alberto Botti</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/marc-rubin\">Marc Rubin</a> </center> <center>",
+        "marker-color": "#ff2121",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.648091,
+          -23.565857
+        ],
+        "type": "Point"
+      },
+      "id": "beff83bff285dca2e3d131c78576a3ed"
     },
     {
       "type": "Feature",
