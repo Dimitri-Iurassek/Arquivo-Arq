@@ -5577,6 +5577,23 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "<span style=\"display: none\"> Residência Ilda Zarzur </span> ",
+        "description": " <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/residencia-ilda-zarzur\">Residência Ilda Zarzur</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/rubens-carneiro-vianna\">Rubens Carneiro Vianna</a> </center> <center>",
+        "marker-color": "#ff2121",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.668771,
+          -23.570218
+        ],
+        "type": "Point"
+      },
+      "id": "adc99a35186cf5f40ae4371798f5de4a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "ci3i4qsgg0004f0qttm1nbi1s",
         "title": "<span style=\"display: none\"> Edifício Sede O Estado de S. Paulo </span> ",
         "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!edificio-o-estado-de-s-paulo/cffr\">Edifício Sede O Estado de S. Paulo</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!franz-heep/cb90\">Franz Heep</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!jacques-pilon/c8h2\">Jacques Pilon</a> </center>",
@@ -6923,6 +6940,23 @@
         "type": "Point"
       },
       "id": "d352de45828a16f844e7d7aba99bad12"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "<span style=\"display: none\"> Edifício Augusta </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/edificio-augusta\">Edifício Augusta</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/roger-zmekhol\">Roger Zmekhol</a> </center> <center> ",
+        "marker-size": "small",
+        "marker-color": "#ff2121"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.664318,
+          -23.562213
+        ],
+        "type": "Point"
+      },
+      "id": "d3977b97471824faae802c56220f6bec"
     },
     {
       "type": "Feature",
