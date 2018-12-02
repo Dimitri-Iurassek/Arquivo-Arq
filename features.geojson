@@ -1852,6 +1852,23 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "<span style=\"display: none\"> SENAI Bauru </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/senai-bauru\">SENAI Bauru</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/roberto-tibau\">Roberto Tibau </a> </center> <center> ",
+        "marker-color": "#ff2121",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          -49.07374,
+          -22.328498
+        ],
+        "type": "Point"
+      },
+      "id": "3caca3a49b986347f73746ed4a305adb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "<span style=\"display: none\"> Residência Telésforo Cristófani </span> ",
         "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/residencia-telesforo-cristofani\">Residência Telésforo Cristófani</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/telesforo-cristofani\">Telésforo Cristófani</a> </center>",
         "marker-size": "small",
@@ -5131,6 +5148,23 @@
         "type": "Point"
       },
       "id": "9f081d21347337c1c82115c569c01a0a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "<span style=\"display: none\"> Paróquia São Luís Gonzaga </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/paroquia-sao-luis-gonzaga\">Paróquia São Luís Gonzaga</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/luiz-ignacio-anhaia-mello\">Luiz Ignácio de Anhaia Mello</a> </center> <center> ",
+        "marker-color": "#ff2121",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.661623,
+          -23.556399
+        ],
+        "type": "Point"
+      },
+      "id": "a0342423a48961f61374aef0845b2603"
     },
     {
       "type": "Feature",
