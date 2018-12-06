@@ -6375,6 +6375,23 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "<span style=\"display: none\"> Edifício Piauí </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/edificio-piaui-luz-ar\">Edifício Piauí</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/alfred-duntuch\">Alfred Düntuch</a> </center> <center> ",
+        "marker-color": "#ff2121",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.662351,
+          -23.543516
+        ],
+        "type": "Point"
+      },
+      "id": "c221874b3c50622e743d34bbe6d5e1cf"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "marker-i9kqel5l0",
         "title": "<span style=\"display: none\"> Edifício Abaeté </span> ",
         "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!edificio-abaete/c17f1\">Edifício Abaeté</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!abrahao-sanovicz/c1bws\">Abrahão Sanovicz</a> </center>",
@@ -7302,6 +7319,23 @@
         "type": "Point"
       },
       "id": "e2c958b6549a65cad063f537eca189b5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "<span style=\"display: none\"> Edifício de Apartamentos </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/edificio-de-apartamentos-luz-ar\">Edifício de Apartamentos</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/alfred-duntuch\">Alfred Düntuch</a> </center> <center>",
+        "marker-color": "#ff2121",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.67121,
+          -23.529039
+        ],
+        "type": "Point"
+      },
+      "id": "e2ca438fe61f3255b2e3c747c2654a21"
     },
     {
       "type": "Feature",
