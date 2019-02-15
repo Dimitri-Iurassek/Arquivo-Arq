@@ -3166,6 +3166,23 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "<span style=\"display: none\"> Mercado Municipal de Pirituba </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/mercado-municipal-de-pirituba\">Mercado Municipal de Pirituba</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/abelardo-de-souza\">Abelardo de Souza</a> </center> <center> ",
+        "marker-color": "#ff2121",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.717283,
+          -23.491114
+        ],
+        "type": "Point"
+      },
+      "id": "5c9a1b7acb186e6e42de6e5984b1a196"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "marker-iv0fqjxg0",
         "title": "<span style=\"display: none\"> Residência Cis José Salmi </span> ",
         "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/residencia-cis-jose-salmi\">Residência Cis José Salmi</a> </center> <center>  <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!victor-reif/cqx3\">Victor Reif</a> </center>",
@@ -3200,6 +3217,23 @@
         "type": "Point"
       },
       "id": "5db32c294a30f7da48ec0e6299544647"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "<span style=\"display: none\"> Edifício Conceição </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/edificio-conceicao\">Edifício Conceição</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/abelardo-de-souza\">Abelardo de Souza</a> </center> <center> ",
+        "marker-color": "#ff2121",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.636155,
+          -23.538036
+        ],
+        "type": "Point"
+      },
+      "id": "5db4446546331dc227b1e3711d1d44f5"
     },
     {
       "type": "Feature",
@@ -5438,6 +5472,23 @@
         "type": "Point"
       },
       "id": "a5487c7ed9e9e3d41fb9f4f39aba569f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "<span style=\"display: none\"> Edifício Franco da Rocha e Minístro Godoy </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/edificio-franco-da-rocha-e-min-godoy\">Edifício Franco da Rocha e Minístro Godoy</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/abelardo-de-souza\">Abelardo de Souza</a> </center> <center> ",
+        "marker-color": "#ff2121",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.671538,
+          -23.535369
+        ],
+        "type": "Point"
+      },
+      "id": "a5818cc200ad8de8faf84268aacd51ca"
     },
     {
       "type": "Feature",
