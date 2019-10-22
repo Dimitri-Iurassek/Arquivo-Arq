@@ -1317,17 +1317,15 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "ci5righ4102t1jpm54geiokb3",
-        "title": "<span style=\"display: none\"> Edifício Helena Maria </span> ",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!edificio-helena-maria/cvff\">Edifício Helena Maria</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!oswaldo-bratke/crg7\">Oswaldo Bratke</a> </center>",
-        "marker-size": "small",
         "marker-color": "#ff2121",
-        "marker-symbol": ""
+        "marker-size": "small",
+        "title": "<span style=\"display: none\"> Edifício Helena Maria </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/edificio-helena-maria\">Edifício Helena Maria</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/oswaldo-bratke\">Oswaldo Bratke</a> </center> <center> "
       },
       "geometry": {
         "coordinates": [
-          -46.647712,
-          -23.551902
+          -46.647726,
+          -23.551905
         ],
         "type": "Point"
       },
@@ -1717,17 +1715,15 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "ci2wo9ric02faa5qwu95gs9qg",
-        "title": "<span style=\"display: none\"> Edifício Lily </span> ",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!edificio-lily/c16b9\">Edifício Lily</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!giancarlo-palanti/cjv9\">Giancarlo Palanti</a> </center>",
-        "marker-size": "small",
         "marker-color": "#ff2121",
-        "marker-symbol": ""
+        "marker-size": "small",
+        "title": "<span style=\"display: none\"> Edifício Lily </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/edificio-lily\">Edifício Lily</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/giancarlo-palanti\">Giancarlo Palanti</a> </center> <center> "
       },
       "geometry": {
         "coordinates": [
-          -46.65408,
-          -23.539069
+          -46.653981,
+          -23.539079
         ],
         "type": "Point"
       },
@@ -1770,25 +1766,6 @@
         "type": "Point"
       },
       "id": "3a1587e719c8807927ff3a92cd81467b"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "ci2wo9ric02faa5qwu95gs9qg",
-        "title": "<span style=\"display: none\"> Edifício Lily </span> ",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!edificio-lily/c16b9\">Edifício Lily</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!giancarlo-palanti/cjv9\">Giancarlo Palanti</a> </center>",
-        "marker-size": "small",
-        "marker-color": "#ff2121",
-        "marker-symbol": ""
-      },
-      "geometry": {
-        "coordinates": [
-          -46.65408,
-          -23.539069
-        ],
-        "type": "Point"
-      },
-      "id": "3aa33d0b51237929f3467ab8b0ea9a35"
     },
     {
       "type": "Feature",
@@ -4372,17 +4349,15 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "marker-itnui9910",
-        "title": "<span style=\"display: none\"> Cine Belas Artes (Cine Trianon) </span> ",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/cine-belas-artes\">Cine Belas Artes (Cine Trianon)</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/giancarlo-palanti\">Giancarlo Palanti</a> </center>",
         "marker-size": "small",
-        "marker-color": "#ff2121",
-        "marker-symbol": ""
+        "title": "<span style=\"display: none\"> Cine Belas Artes </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/cine-belas-artes\">Cine Belas Artes</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/giancarlo-palanti\">Giancarlo Palanti</a> </center> <center> ",
+        "marker-color": "#ff2121"
       },
       "geometry": {
         "coordinates": [
-          -46.662349,
-          -23.555463
+          -46.662446,
+          -23.555589
         ],
         "type": "Point"
       },
@@ -4468,7 +4443,7 @@
         "marker-color": "#ff2121",
         "marker-size": "small",
         "title": "<span style=\"display: none\"> Praça Franklin Roosevelt </span> ",
-        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/praca-roosevelt\">Praça Franklin Roosevelt</a> </center> <center> <a target=\"_parent\"  href=https://www.arquivo.arq.br/roberto-coelho-cardozo\">Roberto Coelho Cardozo</a> </center> <center> "
+        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/praca-roosevelt\">Praça Franklin Roosevelt</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/roberto-coelho-cardozo\">Roberto Coelho Cardozo</a> </center> <center> "
       },
       "geometry": {
         "coordinates": [
@@ -4776,12 +4751,10 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "marker-iu99aknv0",
-        "title": "<span style=\"display: none\"> Edifício Saldanha Marinho </span>",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/edificio-saldanha-marinho\">Edifício Saldanha Marinho</a> </center>  <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!elisiario-bahiana/c14w9\">Elisiário Bahiana</a> ",
         "marker-size": "small",
         "marker-color": "#ff2121",
-        "marker-symbol": ""
+        "title": "<span style=\"display: none\"> Edifício Saldanha Marinho </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/edificio-saldanha-marinho\">Edifício Saldanha Marinho</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/elisiario-bahiana\">Elisiário Bahiana</a> </center> <center> "
       },
       "geometry": {
         "coordinates": [
@@ -5523,17 +5496,15 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "ci2wo9rhz02eya5qwkm2duiub",
-        "title": "<span style=\"display: none\"> Edifício Chipre e Gibraltar </span> ",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!edificio-chipre-e-gibraltar/cple\">Edifício Chipre e Gibraltar</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!giancarlo-palanti/cjv9\">Giancarlo Palanti</a> </center>",
-        "marker-size": "small",
         "marker-color": "#ff2121",
-        "marker-symbol": ""
+        "title": "<span style=\"display: none\"> Edifício Chipre e Gibraltar </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/edificio-chipre-e-gibraltar\">Edifício Chipre e Gibraltar</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/giancarlo-palanti\">Giancarlo Palanti</a> </center> <center> ",
+        "marker-size": "small"
       },
       "geometry": {
         "coordinates": [
-          -46.662583,
-          -23.555667
+          -46.662434,
+          -23.55582
         ],
         "type": "Point"
       },
@@ -6926,15 +6897,15 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "<span style=\"display: none\"> Edifício Matarazzo </span> ",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/edificio-matarazzo\">Edifício Matarazzo</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!marcello-fragelli/c7c7\">Marcello Piacentini</a> </center>",
+        "marker-color": "#ff2121",
         "marker-size": "small",
-        "marker-color": "#ff2121"
+        "title": "<span style=\"display: none\"> Edifício Conde Luiz Eduardo Matarazzo </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/edificio-matarazzo\">Edifício Conde Luiz Eduardo Matarazzo</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/marcello-piacentini\">Marcello Piacentini</a> </center> <center> "
       },
       "geometry": {
         "coordinates": [
-          -46.637426,
-          -23.547612
+          -46.637388,
+          -23.547567
         ],
         "type": "Point"
       },
@@ -7813,12 +7784,27 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "marker-iu99c73i1",
-        "title": "<span style=\"display: none\"> Edifício João Brícola (Mappin) </span> ",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/edificio-joao-bricola\">Edifício João Brícola (Mappin)</a> </center>  <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!elisiario-bahiana/c14w9\">Elisiário Bahiana</a> ",
+        "title": "<span style=\"display: none\"> Viaduto do Chá </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/viaduto-do-cha\">Viaduto do Chá</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/elisiario-bahiana\">Elisiário Bahiana</a> </center> <center> ",
+        "marker-color": "#ff2121",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.637675,
+          -23.546747
+        ],
+        "type": "Point"
+      },
+      "id": "ec80c0240c2abdbcf3717e175df14f4b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "marker-size": "small",
         "marker-color": "#ff2121",
-        "marker-symbol": ""
+        "title": "<span style=\"display: none\"> Edifício João Brícola </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/edificio-joao-bricola\">Edifício João Brícola</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/elisiario-bahiana\">Elisiário Bahiana</a> </center> <center> "
       },
       "geometry": {
         "coordinates": [
