@@ -4465,17 +4465,15 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "marker-ihekus2z0",
-        "title": "<span style=\"display: none\"> Praça Franklin Roosevelt </span> ",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!praca-roosevelt/c1vys\">Praça Franklin Roosevelt</a> </center>  <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!roberto-coelho-cardozo/ck5r\">Roberto Coelho Cardozo</a> </center>",
-        "marker-size": "small",
         "marker-color": "#ff2121",
-        "marker-symbol": ""
+        "marker-size": "small",
+        "title": "<span style=\"display: none\"> Praça Franklin Roosevelt </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/praca-roosevelt\">Praça Franklin Roosevelt</a> </center> <center> <a target=\"_parent\"  href=https://www.arquivo.arq.br/roberto-coelho-cardozo\">Roberto Coelho Cardozo</a> </center> <center> "
       },
       "geometry": {
         "coordinates": [
-          -46.64671,
-          -23.548295
+          -46.646765,
+          -23.548316
         ],
         "type": "Point"
       },
@@ -5620,17 +5618,15 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "ci2wo9rib02f9a5qw7w8ys492",
-        "title": "<span style=\"display: none\"> Edifício Lausanne </span> ",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!edificio-lausanne/c216s\">Edifício Lausanne</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!franz-heep/cb90\">Franz Heep</a> </center>",
-        "marker-size": "small",
         "marker-color": "#ff2121",
-        "marker-symbol": ""
+        "marker-size": "small",
+        "title": "<span style=\"display: none\"> Edifício Lausanne </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/edificio-lausanne\">Edifício Lausanne</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/franz-heep\">Franz Heep</a> </center> <center> "
       },
       "geometry": {
         "coordinates": [
-          -46.65322,
-          -23.545181
+          -46.653229,
+          -23.545169
         ],
         "type": "Point"
       },
@@ -8153,17 +8149,15 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "ci2wo9ri602f4a5qwgmsw7hur",
-        "title": "<span style=\"display: none\"> Edifício Icaraí </span> ",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!edificio-icarai/cc2t\">Edifício Icaraí</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!franz-heep/cb90\">Franz Heep</a> </center>",
-        "marker-size": "small",
         "marker-color": "#ff2121",
-        "marker-symbol": ""
+        "marker-size": "small",
+        "title": "<span style=\"display: none\"> Edifício Icaraí </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/edificio-icarai\">Edifício Icaraí</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/franz-heep\">Franz Heep</a> </center> <center> "
       },
       "geometry": {
         "coordinates": [
-          -46.646023,
-          -23.548295
+          -46.646075,
+          -23.548408
         ],
         "type": "Point"
       },
