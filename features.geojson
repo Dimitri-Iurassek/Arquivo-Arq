@@ -148,7 +148,7 @@
       "type": "Feature",
       "properties": {
         "title": "<span style=\"display: none\"> Edifício Hecilda </span> ",
-        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/edificio-hecilda\">Edifício Hecilda</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/abelardo-de-souza\">Abelardo de Souza</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/helio-duarte\">Hélio Duarte</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/zenon-lotufo\">Zenon Lotufo</a> </center> <center>",
+        "description": "<span style=\"display: none\"> Edifício ABC </span> ",
         "marker-size": "small",
         "marker-color": "#ff2121"
       },
@@ -164,12 +164,10 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "ci3eohltm05slfcs2pb476vzb",
-        "title": "<span style=\"display: none\"> Edifício Seguradoras </span> ",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!edificio-seguradoras/clwz\">Edifício Seguradoras</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!oscar-niemeyer/cjkp\">Oscar Niemeyer</a> </center>",
         "marker-size": "small",
         "marker-color": "#ff2121",
-        "marker-symbol": ""
+        "title": "<span style=\"display: none\"> Edifício Seguradoras </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/edificio-seguradoras\">Edifício Seguradoras</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/oscar-niemeyer\">Oscar Niemeyer</a> </center>"
       },
       "geometry": {
         "coordinates": [
@@ -564,12 +562,10 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "marker-i9stqqop0",
-        "title": "<span style=\"display: none\"> Edifício Anhumas </span> ",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!edificio-anhumas/ccp2\">Edifício Anhumas</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!jacques-pilon/c8h2\">Jacques Pilon</a> </center>",
+        "title": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/edificio-jaragua-jacques-pilon\">Edifício Jaraguá</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/jacques-pilon\">Jacques Pilon</a> </center>",
+        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/edificio-anhumas\">Edifício Anhumas</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/jacques-pilon\">Jacques Pilon</a> </center>",
         "marker-size": "small",
-        "marker-color": "#ff2121",
-        "marker-symbol": ""
+        "marker-color": "#ff2121"
       },
       "geometry": {
         "coordinates": [
@@ -653,12 +649,10 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "ci7an7q6e01jshvkp2doj6gzs",
-        "title": "<span style=\"display: none\"> Edifício Leon Kasinsky </span> ",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!edificio-leon-kasinsky/c7bv\">Edifício Leon Kasinsky</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!henrique-mindlin/c12eu\">Henrique Mindlin</a> </center>",
         "marker-size": "small",
         "marker-color": "#ff2121",
-        "marker-symbol": ""
+        "title": "<span style=\"display: none\"> Edifício Leon Kasinsky (Edifício Três Leões) </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/edificio-leon-kasinsky\">Edifício Leon Kasinsky (Edifício Três Leões)</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/henrique-mindlin\">Henrique Mindlin</a> </center>"
       },
       "geometry": {
         "coordinates": [
@@ -977,7 +971,7 @@
       "properties": {
         "marker-size": "small",
         "marker-color": "#ff2121",
-        "title": "<span style=\"display: none\"> Edifício Itália (Circolo Italiano) </span> ",
+        "title": "<span style=\"display: none\"> Edifício São Luís </span> ",
         "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/edificio-italia\">Edifício Itália (Circolo Italiano)</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/franz-heep\">Franz Heep</a> </center> <center> "
       },
       "geometry": {
@@ -1140,15 +1134,15 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "<span style=\"display: none\"> Edifício Intercap </span> ",
-        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/edificio-intercap\">Edifício Intercap</a> </center>   <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/lucjan-korngolds\">Lucjan Korngold</a> </center> <center> ",
+        "title": "<span style=\"display: none\"> Edifício Jaraguá </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/edificio-anhumas\">Edifício Anhumas</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/jacques-pilon\">Jacques Pilon</a> </center>",
         "marker-color": "#ff2121",
         "marker-size": "small"
       },
       "geometry": {
         "coordinates": [
-          -46.644111,
-          -23.544712
+          -46.644115,
+          -23.54472
         ],
         "type": "Point"
       },
@@ -1504,17 +1498,15 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "marker-iam8ar180",
-        "title": "<span style=\"display: none\"> Garagem Alfredo Issa </span> ",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!garagem-alfredo-issa/c3fl\">Garagem Alfredo Issa</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!benno-perelmutter/c1i9p\">Benno Perelmutter</a> </center>",
-        "marker-size": "small",
         "marker-color": "#ff2121",
-        "marker-symbol": ""
+        "marker-size": "small",
+        "title": "<span style=\"display: none\"> Garagem Alfredo Issa  </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/garagem-alfredo-issa\">Garagem Alfredo Issa</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/benno-perelmutter\">Benno Perelmutter</a> </center>"
       },
       "geometry": {
         "coordinates": [
-          -46.636855,
-          -23.539138
+          -46.636772,
+          -23.539166
         ],
         "type": "Point"
       },
@@ -1614,15 +1606,15 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "<span style=\"display: none\"> Cine Ipiranga e Hotel Excelsior  </span> ",
+        "title": "marker-ia377n7s1",
         "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/cine-ipiranga-e-hotel-excelsior\">Cine Ipiranga e Hotel Excelsior</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/rino-levi\">Rino Levi</a> </center> <center>",
         "marker-color": "#ff2121",
         "marker-size": "small"
       },
       "geometry": {
         "coordinates": [
-          -46.640536,
-          -23.542844
+          -46.640525,
+          -23.542864
         ],
         "type": "Point"
       },
@@ -1631,8 +1623,8 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "<span style=\"display: none\"> Restaurante Vertical Fasano </span> ",
-        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/restaurante-vertical-fasano\">Restaurante Vertical Fasano</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/telesforo-cristofani\">Telésforo Cristófani</a> </center> <center> ",
+        "title": "<span style=\"display: none\"> Edifício Jaraguá </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/edificio-anhumas\">Edifício Anhumas</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/jacques-pilon\">Jacques Pilon</a> </center>",
         "marker-color": "#ff2121",
         "marker-size": "small"
       },
@@ -1684,12 +1676,10 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "marker-ieg9xoqe0",
-        "title": "<span style=\"display: none\"> Edifício dos Andradas </span> ",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!edifcio-dos-andradas/c1im\">Edifício dos Andradas</a> </center>  <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!henrique-mindlin/c12eu\">Henrique Mindlin</a> </center>",
         "marker-size": "small",
         "marker-color": "#ff2121",
-        "marker-symbol": ""
+        "title": "<span style=\"display: none\"> Edifício dos Andradas </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/edifcio-dos-andradas\">Edifício dos Andradas</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/henrique-mindlin\">Henrique Mindlin</a> </center>"
       },
       "geometry": {
         "coordinates": [
@@ -2467,7 +2457,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "<span style=\"display: none\"> Edifício Acádia </span> ",
+        "title": "marker-ia377n7s1",
         "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/edificio-acadia\">Edifício Acádia</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/jacques-pilon\">Jacques Pilon</a> </center>",
         "marker-color": "#ff2121",
         "marker-size": "small"
@@ -2668,12 +2658,10 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "marker-idthl05p0",
-        "title": "<span style=\"display: none\"> Edifício Juruá </span> ",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!edifcio-jurua/clq7\">Edifício Juruá</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!eduardo-kneese-de-mello/c118p\">Eduardo Knesse de Mello</a> </center>",
         "marker-size": "small",
         "marker-color": "#ff2121",
-        "marker-symbol": ""
+        "title": "<span style=\"display: none\"> Edifício Juruá  </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/edifcio-jurua\">Edifício Juruá</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/eduardo-kneese-de-mello\">Eduardo Knesse de Mello</a> </center>"
       },
       "geometry": {
         "coordinates": [
@@ -2916,17 +2904,15 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "ci310rei3023palqkkixkgt30",
-        "title": "<span style=\"display: none\"> Sede do IAB-SP </span> ",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!sede-do-iab-sp/c13h8\">Sede do IAB-SP</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!abelardo-de-souza/cq3m\">Abelardo de Souza</a> </center> \n<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!galiano-ciampaglia/c255g\">Galiano Ciampaglia</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!helio-duarte/c1yty\">Hélio Duarte</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!jacob-ruchti/cozl\">Jacob Ruchti</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!miguel-forte/c107k\">Miguel Forte</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!rino-levi/cryc\">Rino Levi</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!roberto-cerqueira-cesar/cqw5\">Roberto Cerqueira César</a> </center> \n<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!zenon-lotufo/ctp3\">Zenon Lotufo</a> </center>",
-        "marker-size": "small",
+        "title": "<span style=\"display: none\"> Sede do IAB-SP  </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/sede-do-iab-sp\">Sede do IAB-SP</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/abelardo-de-souza\">Abelardo de Souza</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/galiano-ciampaglia\">Galiano Ciampaglia</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/helio-duarte\">Hélio Duarte</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/jacob-ruchti\">Jacob Ruchti</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/miguel-forte\">Miguel Forte</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/rino-levi\">Rino Levi</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/roberto-cerqueira-cesar\">Roberto Cerqueira César</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/zenon-lotufo\">Zenon Lotufo</a> </center> <center>",
         "marker-color": "#ff2121",
-        "marker-symbol": ""
+        "marker-size": "small"
       },
       "geometry": {
         "coordinates": [
-          -46.645721,
-          -23.544611
+          -46.645718,
+          -23.544616
         ],
         "type": "Point"
       },
@@ -3064,17 +3050,15 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "marker-ia377n7s1",
-        "title": "<span style=\"display: none\"> Palácio do Comércio </span>",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!palacio-do-comercio/czc3\">Palácio do Comércio</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!lucjan-korngold/cvgb\">Lucjan Korngold</a> </center>",
-        "marker-size": "small",
         "marker-color": "#ff2121",
-        "marker-symbol": ""
+        "marker-size": "small",
+        "title": "<span style=\"display: none\"> Palácio do Comércio </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/palacio-do-comercio\">Palácio do Comércio</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/lucjan-korngold\">Lucjan Korngold</a> </center>"
       },
       "geometry": {
         "coordinates": [
-          -46.639156,
-          -23.5449
+          -46.639191,
+          -23.544917
         ],
         "type": "Point"
       },
@@ -3301,7 +3285,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "<span style=\"display: none\"> Cine Art-Palácio (Cine UFA Palácio) </span> ",
+        "title": "marker-ia377n7s1",
         "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/cine-art-palacio\">Cine Art-Palácio (Cine UFA Palácio)</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/rino-levi\">Rino Levi</a> </center>",
         "marker-size": "small",
         "marker-color": "#ff2121"
@@ -3411,17 +3395,15 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "ci2wo9ri202f1a5qw8rpbartl",
-        "title": "<span style=\"display: none\"> Edifício Eiffel </span> ",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!edificio-eiffel/c1wdj\">Edifício Eiffel</a> </center> \n<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!oscar-niemeyer/cjkp\">Oscar Niemeyer</a> </center>",
-        "marker-size": "small",
         "marker-color": "#ff2121",
-        "marker-symbol": ""
+        "marker-size": "small",
+        "title": "<span style=\"display: none\"> Edifício Eiffel </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/edificio-eiffel\">Edifício Eiffel</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/oscar-niemeyer\">Oscar Niemeyer</a> </center>"
       },
       "geometry": {
         "coordinates": [
-          -46.644751,
-          -23.544231
+          -46.644742,
+          -23.544235
         ],
         "type": "Point"
       },
@@ -3523,7 +3505,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "<span style=\"display: none\"> Edifício Lorenzo Sarti </span> ",
+        "title": "marker-ia377n7s1",
         "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/edificio-lorenzo-sarti\">Edifício Lorenzo Sarti</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/rino-levi\">Rino Levi</a> </center>",
         "marker-size": "small",
         "marker-color": "#ff2121"
@@ -3682,7 +3664,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "<span style=\"display: none\"> Edifício Dona Amélia Pinto de Souza </span> ",
+        "title": "marker-ia377n7s1",
         "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/edificio-dona-amelia-pinto-de-souza\">Edifício Dona Amélia Pinto de Souza</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/jacques-pilon\">Jacques Pilon</a> </center> <center>",
         "marker-color": "#ff2121",
         "marker-size": "small"
@@ -3718,12 +3700,10 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "ci2wo9riq02fja5qwjwqe285h",
-        "title": "<span style=\"display: none\"> Edifício São Luís </span> ",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!edifcio-so-luis/ctgm\">Edifício São Luís</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!jacques-pilon/c8h2\">Jacques Pilon</a> </center>",
         "marker-size": "small",
         "marker-color": "#ff2121",
-        "marker-symbol": ""
+        "title": "<span style=\"display: none\"> Edifício São Luís </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/edificio-sao-luis\">Edifício São Luís</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/jacques-pilon\">Jacques Pilon</a> </center>"
       },
       "geometry": {
         "coordinates": [
@@ -3790,17 +3770,15 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "marker-ift6iel80",
-        "title": "<span style=\"display: none\"> Edifício para consultórios </span> ",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!edificio-palmela/clk6\">Edifício Palmela</a> </center>  <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!francisco-beck/c1uk6\">Francisco Beck</a> </center>",
-        "marker-size": "small",
         "marker-color": "#ff2121",
-        "marker-symbol": ""
+        "marker-size": "small",
+        "title": "<span style=\"display: none\"> Edifício Palmela </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/edificio-palmela\">Edifício Palmela</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/francisco-beck\">Francisco Beck</a> </center>"
       },
       "geometry": {
         "coordinates": [
-          -46.644483,
-          -23.541325
+          -46.64452,
+          -23.541357
         ],
         "type": "Point"
       },
@@ -4101,7 +4079,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "<span style=\"display: none\"> Edifício General Jardim </span> ",
+        "title": "ci2wo9rhr02eqa5qw5q188b8t",
         "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/edificio-general-jardim\">Edifício General Jardim</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/oswaldo-bratke\">Oswaldo Bratke</a> </center> <center>",
         "marker-color": "#ff2121",
         "marker-size": "small"
@@ -4539,10 +4517,10 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "<span style=\"display: none\"> Edifício Santarem </span> ",
-        "description": " <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/edificio-santarem\">Edifício Santarem</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/henrique-mindlin\">Henrique Mindlin</a> </center> <center>",
         "marker-color": "#ff2121",
-        "marker-size": "small"
+        "marker-size": "small",
+        "title": "<span style=\"display: none\"> Edifício Santarem </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/edificio-santarem\">Edifício Santarem</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/henrique-mindlin\">Henrique Mindlin</a> </center>"
       },
       "geometry": {
         "coordinates": [
@@ -4664,12 +4642,10 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "ci2wo9ri802f6a5qwwyws847k",
-        "title": "<span style=\"display: none\"> Edifício Jaçatuba </span> ",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!edificio-jacatuba/clw9\">Edifício Jaçatuba</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!oswaldo-bratke/crg7\">Oswaldo Bratke</a> </center>",
         "marker-size": "small",
         "marker-color": "#ff2121",
-        "marker-symbol": ""
+        "title": "<span style=\"display: none\"> Edifício Jaçatuba  </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/edificio-jacatuba\">Edifício Jaçatuba</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/oswaldo-bratke\">Oswaldo Bratke</a> </center>"
       },
       "geometry": {
         "coordinates": [
@@ -5210,17 +5186,15 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "marker-itmb0zpf0",
-        "title": "<span style=\"display: none\"> Edifício Araraúnas </span> ",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/edifcio-araraunas\">Edifício Araraúnas</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!franz-heep/cb90\">Franz Heep</a> </center>",
-        "marker-size": "small",
         "marker-color": "#ff2121",
-        "marker-symbol": ""
+        "marker-size": "small",
+        "title": "<span style=\"display: none\"> Edifício Araraúnas  </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/edifcio-araraunas\">Edifício Araraúnas</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/franz-heep\">Franz Heep</a> </center>"
       },
       "geometry": {
         "coordinates": [
-          -46.650288,
-          -23.536999
+          -46.650253,
+          -23.536995
         ],
         "type": "Point"
       },
@@ -5265,7 +5239,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "<span style=\"display: none\"> Edifício Paissandu </span> ",
+        "title": "marker-ia377n7s1",
         "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/edificio-paissandu\">Edifício Paissandu</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/jacques-pilon\">Jacques Pilon</a> </center> <center>",
         "marker-color": "#ff2121",
         "marker-size": "small"
@@ -5917,7 +5891,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "<span style=\"display: none\"> Edifício Gonçalves Biar  </span> ",
+        "title": "<span style=\"display: none\"> Edifício Leon Kasinsky (Edifício Três Leões) </span> ",
         "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/edificio-goncalves-biar\">Edifício Gonçalves Biar</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/antonio-tadeu-giuzio\">Antonio Tadeu Giuzio</a> </center> <center>",
         "marker-color": "#ff2121",
         "marker-size": "small"
@@ -6152,7 +6126,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "<span style=\"display: none\"> Edifício Arlinda </span> ",
+        "title": "marker-ia377n7s1",
         "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/edificio-arlinda\">Edifício Arlinda</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/franz-heep\">Franz Heep</a> </center> <center>",
         "marker-color": "#ff2121",
         "marker-size": "small"
@@ -6671,17 +6645,15 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "marker-ikvms5ck0",
-        "title": "<span style=\"display: none\"> Cine Regina </span> ",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!cine-regina/c4ay\">Cine Regina</a> </center>  <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!miguel-juliano/ciy9\">Miguel Juliano</a> </center>",
-        "marker-size": "small",
         "marker-color": "#ff2121",
-        "marker-symbol": ""
+        "marker-size": "small",
+        "title": "<span style=\"display: none\"> Cine Regina </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/cine-regina\">Cine Regina</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/miguel-juliano\">Miguel Juliano</a> </center>"
       },
       "geometry": {
         "coordinates": [
-          -46.644296,
-          -23.539918
+          -46.644289,
+          -23.539892
         ],
         "type": "Point"
       },
@@ -6893,7 +6865,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "<span style=\"display: none\"> Edifício Renata Sampaio Ferreira </span> ",
+        "title": "<span style=\"display: none\"> Edifício Leon Kasinsky (Edifício Três Leões) </span> ",
         "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/edificio-renata-sampaio-ferreira\">Edifício Renata Sampaio Ferreira</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/oswaldo-bratke\">Oswaldo Bratke</a> </center> <center>",
         "marker-color": "#ff2121",
         "marker-size": "small"
@@ -6927,12 +6899,10 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "ci5oo6upd003tjvnsy2exk0lp",
-        "title": "<span style=\"display: none\"> Edifício Duque de Caxias </span> ",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!edificio-duque-de-caxias/cqyo\">Edifício Duque de Caxias</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!artacho-jurado/c1p2g\">Artacho Jurado</a> </center>",
         "marker-size": "small",
         "marker-color": "#ff2121",
-        "marker-symbol": ""
+        "title": "<span style=\"display: none\"> Edifício Duque de Caxias  </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/edificio-duque-de-caxias\">Edifício Duque de Caxias </a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/artacho-jurado\">Artacho Jurado</a> </center>"
       },
       "geometry": {
         "coordinates": [
@@ -7052,7 +7022,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "<span style=\"display: none\"> Inca Hotel  </span> ",
+        "title": "marker-ia377n7s1",
         "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/inca-hotel\">Inca Hotel</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/antonio-tadeu-giuzio\">Antonio Tadeu Giuzio</a> </center> <center>",
         "marker-color": "#ff2121",
         "marker-size": "small"
@@ -7814,15 +7784,15 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "<span style=\"display: none\"> Edifício Racy </span> ",
+        "title": "<span style=\"display: none\"> Edifício Leon Kasinsky (Edifício Três Leões) </span> ",
         "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/edificio-racy\">Edifício Racy</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/aron-kogan\">Aron Kogan</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/waldomiro-zarzur\">Waldomiro Zarzur</a> </center>",
         "marker-color": "#ff2121",
         "marker-size": "small"
       },
       "geometry": {
         "coordinates": [
-          -46.64799,
-          -23.537722
+          -46.648005,
+          -23.537717
         ],
         "type": "Point"
       },
@@ -7935,12 +7905,10 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "ci2wo9rhr02eqa5qw5q188b8t",
-        "title": "<span style=\"display: none\"> Edifício ABC </span> ",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!edifcio-abc/cugw\">Edifício ABC</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!oswaldo-bratke/crg7\">Oswaldo Bratke</a> </center>",
         "marker-size": "small",
         "marker-color": "#ff2121",
-        "marker-symbol": ""
+        "title": "<span style=\"display: none\"> Edifício ABC (Gibraltar)  </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/edifcio-abc\">Edifício ABC (Gibraltar)</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/oswaldo-bratke\">Oswaldo Bratke</a> </center>"
       },
       "geometry": {
         "coordinates": [
@@ -8106,12 +8074,10 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "marker-itwaj20o0",
-        "title": "<span style=\"display: none\"> Edificio Andraus </span> ",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/edificio-andraus\">Edificio Andraus</a> </center>  <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/majer-botkowski\">Majer Botkowski</a> </center>",
         "marker-size": "small",
         "marker-color": "#ff2121",
-        "marker-symbol": ""
+        "title": "<span style=\"display: none\"> Edificio Andraus </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/edificio-andraus\">Edificio Andraus</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/majer-botkowski\">Majer Botkowski</a> </center>"
       },
       "geometry": {
         "coordinates": [
