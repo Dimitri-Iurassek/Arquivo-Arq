@@ -460,16 +460,14 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "marker-iv3ez7c90",
-        "title": "<span style=\"display: none\"> Edifício Girassol </span> ",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/edificio-girassol\">Edifício Girassol</a> </center> <center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!francisco-beck/c1uk6\">Francisco Beck</a> </center>",
-        "marker-size": "small",
         "marker-color": "#ff2121",
-        "marker-symbol": ""
+        "marker-size": "small",
+        "title": "<span style=\"display: none\"> Edifício Girassol </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/edificio-girassol\">Edifício Girassol</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/francisco-beck\">Francisco Beck</a> </center> <center> "
       },
       "geometry": {
         "coordinates": [
-          -46.644899,
+          -46.644885,
           -23.551224
         ],
         "type": "Point"
@@ -1415,17 +1413,15 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "marker-i9sw48361",
-        "title": "<span style=\"display: none\"> Edifício Normandie </span> ",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!edificio-normandie/c1lcd\">Edifício Normandie</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!franz-heep/cb90\">Franz Heep</a> </center>",
-        "marker-size": "small",
         "marker-color": "#ff2121",
-        "marker-symbol": ""
+        "marker-size": "small",
+        "title": "<span style=\"display: none\"> Edifício Normandie </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/edificio-normandie\">Edifício Normandie</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/franz-heep\">Franz Heep</a> </center> <center> "
       },
       "geometry": {
         "coordinates": [
-          -46.644796,
-          -23.550548
+          -46.644801,
+          -23.550565
         ],
         "type": "Point"
       },
@@ -2423,8 +2419,8 @@
       },
       "geometry": {
         "coordinates": [
-          -46.670076,
-          -23.541246
+          -46.670061,
+          -23.541311
         ],
         "type": "Point"
       },
@@ -2814,17 +2810,15 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "ci3erwge704nkecpbq8j1umza",
-        "title": "<span style=\"display: none\"> Edifício e Galeria Califórnia </span> ",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!edificio-e-galeria-california/cerx\">Edifício e Galeria Califórnia</a> </center> \n<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!oscar-niemeyer/cjkp\">Oscar Niemeyer</a> </center>",
-        "marker-size": "small",
         "marker-color": "#ff2121",
-        "marker-symbol": ""
+        "marker-size": "small",
+        "title": "<span style=\"display: none\"> Edifício e Galeria Califórnia </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/edificio-e-galeria-california\">Edifício e Galeria Califórnia</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/oscar-niemeyer\">Oscar Niemeyer</a> </center> <center> "
       },
       "geometry": {
         "coordinates": [
-          -46.641238,
-          -23.544469
+          -46.641399,
+          -23.544273
         ],
         "type": "Point"
       },
@@ -4981,25 +4975,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "ci3erwge704nkecpbq8j1umza",
-        "title": "<span style=\"display: none\"> Edifício e Galeria Califórnia </span> ",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!edificio-e-galeria-california/cerx\">Edifício e Galeria Califórnia</a> </center> \n<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!oscar-niemeyer/cjkp\">Oscar Niemeyer</a> </center>",
-        "marker-size": "small",
-        "marker-color": "#ff2121",
-        "marker-symbol": ""
-      },
-      "geometry": {
-        "coordinates": [
-          -46.641238,
-          -23.544469
-        ],
-        "type": "Point"
-      },
-      "id": "9812e5fcd7905f4911cf4f3ee9975169"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "ci2wo9rir02fka5qwt4jnsbo1",
         "title": "<span style=\"display: none\"> Edifício São Vicente de Paula </span> ",
         "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!edificio-sao-vicente-de-paula/c9gc\">Edifício São Vicente de Paula</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!lucjan-korngold/cvgb\">Lucjan Korngold</a> </center>",
@@ -5447,6 +5422,23 @@
         "type": "Point"
       },
       "id": "a5a7c3e94af17e7915d07ac40787e8b8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "<span style=\"display: none\"> Edifício Anhangüera </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/edificio-anhanguera\">Edifício Anhangüera</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/alfredo-ernesto-becker\">Alfredo Ernesto Becker</a> </center> <center> ",
+        "marker-color": "#ff2121",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.640643,
+          -23.544831
+        ],
+        "type": "Point"
+      },
+      "id": "a69f82e383f183503d44e4a3804563b7"
     },
     {
       "type": "Feature",
@@ -6626,16 +6618,14 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "ci2wo9ri402f2a5qwxcj3jlqv",
-        "title": "<span style=\"display: none\"> Edifício Esther </span> ",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!edificio-esther/ch7r\">Edifício Esther</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!alvaro-vital-brazil/c1cws\">Álvaro Vital Brazil</a> </center>",
-        "marker-size": "small",
         "marker-color": "#ff2121",
-        "marker-symbol": ""
+        "marker-size": "small",
+        "title": "<span style=\"display: none\"> Edifício Esther </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/edificio-esther\">Edifício Esther</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/alvaro-vital-brazil\">Álvaro Vital Brazil</a> </center> <center> "
       },
       "geometry": {
         "coordinates": [
-          -46.642676,
+          -46.642668,
           -23.544632
         ],
         "type": "Point"
@@ -7928,17 +7918,15 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "marker-ig37oqch0",
-        "title": "<span style=\"display: none\"> Edifício Lealdade </span> ",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!edificio-lealdade/c20qt\">Edifício Lealdade</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!francisco-beck/c1uk6\">Francisco Beck</a> </center>",
-        "marker-size": "small",
         "marker-color": "#ff2121",
-        "marker-symbol": ""
+        "marker-size": "small",
+        "title": "<span style=\"display: none\"> Edifício Lealdade </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/edificio-lealdade\">Edifício Lealdade</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/francisco-beck\">Francisco Beck</a> </center> <center> "
       },
       "geometry": {
         "coordinates": [
-          -46.645341,
-          -23.550767
+          -46.64532,
+          -23.550806
         ],
         "type": "Point"
       },
