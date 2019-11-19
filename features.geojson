@@ -130,12 +130,10 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "marker-ihugaeo60",
-        "title": "<span style=\"display: none\"> Residência Roger Zmekhol </span> ",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!residencia-roger-zmekhol/c1ei2\">Residência Roger Zmekhol</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!roger-zmekhol/c1kqc\">Roger Zmekhol</a> </center>",
         "marker-size": "small",
         "marker-color": "#ff2121",
-        "marker-symbol": ""
+        "title": "<span style=\"display: none\"> Residência Roger Zmekhol </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/residencia-roger-zmekhol\">Residência Roger Zmekhol</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/roger-zmekhol\">Roger Zmekhol</a> </center> <center>"
       },
       "geometry": {
         "coordinates": [
@@ -496,6 +494,23 @@
         "type": "Point"
       },
       "id": "11cb6800ec64ae0ffeda4266733ea189"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "<span style=\"display: none\"> Edifício Novo Mundo (Edifício Dorival Rodrigues Alves) </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/edificio-novo-mundo\">Edifício Novo Mundo (Edifício Dorival Rodrigues Alves)</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/arnaldo-maia-lello\">Arnaldo Maia Lello</a> </center> <center> ",
+        "marker-color": "#ff2121",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.634066,
+          -23.545416
+        ],
+        "type": "Point"
+      },
+      "id": "12c971d5d0e0ea2f1311012f21076c7d"
     },
     {
       "type": "Feature",
@@ -909,17 +924,15 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "marker-ihup05pz2",
         "title": "<span style=\"display: none\"> Edifício Wilton Paes de Almeida </span> ",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!edifcio-wilton-paes-de-almeida/c8if\">Edifício Wilton Paes de Almeida</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!roger-zmekhol/c1kqc\">Roger Zmekhol</a> </center>",
-        "marker-size": "small",
+        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/edifcio-wilton-paes-de-almeida\">Edifício Wilton Paes de Almeida</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/roger-zmekhol\">Roger Zmekhol</a> </center> <center> ",
         "marker-color": "#ff2121",
-        "marker-symbol": ""
+        "marker-size": "small"
       },
       "geometry": {
         "coordinates": [
-          -46.637891,
-          -23.542227
+          -46.637898,
+          -23.542228
         ],
         "type": "Point"
       },
@@ -1347,6 +1360,23 @@
         "type": "Point"
       },
       "id": "2d2a1482b6a6a516aaae1c2f503f1917"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "<span style=\"display: none\"> Residência Oswaldo Bratke II </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/residencia-oswaldo-bratke-ii\">Residência Oswaldo Bratke II</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/oswaldo-bratke\">Oswaldo Bratke</a> </center> <center> ",
+        "marker-color": "#ff2121",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.701173,
+          -23.584033
+        ],
+        "type": "Point"
+      },
+      "id": "2da820917fb1d379260dd36f1d8fff90"
     },
     {
       "type": "Feature",
@@ -2767,17 +2797,15 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "marker-ihuoxn0i1",
-        "title": "<span style=\"display: none\"> Residência Salomão Charach </span> ",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!residencia-salomao-charach/cqyv\">Residência Salomão Charach</a> </center>  <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!roger-zmekhol/c1kqc\">Roger Zmekhol</a> </center>",
-        "marker-size": "small",
         "marker-color": "#ff2121",
-        "marker-symbol": ""
+        "marker-size": "small",
+        "title": "<span style=\"display: none\"> Residência Salomão Charach </span>",
+        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/residencia-salomao-charach\">Residência Salomão Charach</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/roger-zmekhol\">Roger Zmekhol</a> </center> <center>"
       },
       "geometry": {
         "coordinates": [
-          -46.683917,
-          -23.569267
+          -46.683556,
+          -23.569204
         ],
         "type": "Point"
       },
@@ -3224,17 +3252,15 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "ci2xqjzg602uqa5qwnukaisqm",
-        "title": "<span style=\"display: none\"> Residência Romeu del Negro </span> ",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!residencia-romeu-del-negro/c1mre\">Residência Romeu del Negro</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!decio-tozzi/c1h6c\">Decio Tozzi</a> </center>",
-        "marker-size": "small",
         "marker-color": "#ff2121",
-        "marker-symbol": ""
+        "marker-size": "small",
+        "title": "<span style=\"display: none\"> Residência Romeu del Negro </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/residencia-romeu-del-negro\">Residência Romeu del Negro</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/decio-tozzi\">Decio Tozzi</a> </center> <center> "
       },
       "geometry": {
         "coordinates": [
-          -46.674618,
-          -23.546222
+          -46.674437,
+          -23.546239
         ],
         "type": "Point"
       },
@@ -3336,17 +3362,15 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "marker-in5bzoh10",
-        "title": "<span style=\"display: none\"> Edifício Sampaio Moreira </span> ",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!edificio-sampaio-moreira/cqdm\">Edifício Sampaio Moreira</a> </center>  <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!cristiano-stockler-das-neves/c1z4h\">Cristiano Stockler das Neves</a> </center>",
-        "marker-size": "small",
         "marker-color": "#ff2121",
-        "marker-symbol": ""
+        "marker-size": "small",
+        "title": "<span style=\"display: none\"> Edifício Sampaio Moreira </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/edificio-sampaio-moreira\">Edifício Sampaio Moreira</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/cristiano-stockler-das-neves\">Cristiano Stockler das Neves</a> </center> <center> "
       },
       "geometry": {
         "coordinates": [
-          -46.636149,
-          -23.546722
+          -46.636201,
+          -23.546694
         ],
         "type": "Point"
       },
@@ -3484,25 +3508,6 @@
         "type": "Point"
       },
       "id": "6692ff71b83f17af29b2eae1f09c1172"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "ci2wo9riy02fra5qw2wppmnad",
-        "title": "<span style=\"display: none\"> Estação RIo Pequeno (Armênia) </span> ",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!estacao-amenia/cuaw\">Estação RIo Pequeno (Armênia)</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!marcello-fragelli/c7c7\">Marcello Fragelli</a> </center>",
-        "marker-size": "small",
-        "marker-color": "#ff2121",
-        "marker-symbol": ""
-      },
-      "geometry": {
-        "coordinates": [
-          -46.629538,
-          -23.525293
-        ],
-        "type": "Point"
-      },
-      "id": "6733d5ca5ab726a8341c44df5f55238e"
     },
     {
       "type": "Feature",
@@ -3848,17 +3853,15 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "ci2wo9rip02fia5qwyedns8ax",
-        "title": "<span style=\"display: none\"> Edifício Rossi-leste </span> ",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!edificio-rossi-leste/c1wu3\">Edifício Rossi-leste</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!marcello-fragelli/c7c7\">Marcello Fragelli</a> </center>",
-        "marker-size": "small",
         "marker-color": "#ff2121",
-        "marker-symbol": ""
+        "title": "<span style=\"display: none\"> Edifício Rossi-leste </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/edificio-rossi-leste\">Edifício Rossi-leste</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/marcello-fragelli\">Marcello Fragelli</a> </center> <center>",
+        "marker-size": "small"
       },
       "geometry": {
         "coordinates": [
-          -46.549866,
-          -23.521747
+          -46.549862,
+          -23.521802
         ],
         "type": "Point"
       },
@@ -4595,25 +4598,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "ci2wo9rip02fia5qwyedns8ax",
-        "title": "<span style=\"display: none\"> Edifício Rossi-leste </span> ",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!edificio-rossi-leste/c1wu3\">Edifício Rossi-leste</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!marcello-fragelli/c7c7\">Marcello Fragelli</a> </center>",
-        "marker-size": "small",
-        "marker-color": "#ff2121",
-        "marker-symbol": ""
-      },
-      "geometry": {
-        "coordinates": [
-          -46.549866,
-          -23.521747
-        ],
-        "type": "Point"
-      },
-      "id": "8aa239c7358a68f61f4da8013f5fd8f4"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "<span style=\"display: none\"> Edifício Saint Honoré </span> ",
         "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/edificio-saint-honore\">Edifício Saint Honoré</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/artacho-jurado\">Artacho Jurado</a> </center>",
         "marker-size": "small",
@@ -4925,6 +4909,23 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "<span style=\"display: none\"> Edifício Elza </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/edificio-elza\">Edifício Elza</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/arnaldo-maia-lello\">Arnaldo Maia Lello</a> </center> <center> ",
+        "marker-color": "#ff2121",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.645294,
+          -23.544069
+        ],
+        "type": "Point"
+      },
+      "id": "963aa41c1f3f383dece44242c28c1497"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "marker-ii5edcxw1",
         "title": "<span style=\"display: none\"> Hipódromo do Jockey Club </span> ",
         "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!hipodromo-do-jockey-club/ckwa\">Hipódromo do Jockey Club</a> </center>  <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!elisiario-bahiana/c14w9\">Elisiário Bahiana</a>  <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!henri-sajous/cym\">Henri Sajous</a> </center>",
@@ -5122,25 +5123,6 @@
         "type": "Point"
       },
       "id": "9deaaf07b69c5ec0c32c65866344c971"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "ci2xqjzg602uqa5qwnukaisqm",
-        "title": "<span style=\"display: none\"> Residência Romeu del Negro </span> ",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!residencia-romeu-del-negro/c1mre\">Residência Romeu del Negro</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!decio-tozzi/c1h6c\">Decio Tozzi</a> </center>",
-        "marker-size": "small",
-        "marker-color": "#ff2121",
-        "marker-symbol": ""
-      },
-      "geometry": {
-        "coordinates": [
-          -46.674618,
-          -23.546222
-        ],
-        "type": "Point"
-      },
-      "id": "9f081d21347337c1c82115c569c01a0a"
     },
     {
       "type": "Feature",
@@ -5416,17 +5398,15 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "ci2wo9riy02fra5qw2wppmnad",
-        "title": "<span style=\"display: none\"> Estação RIo Pequeno (Armênia) </span> ",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!estacao-amenia/cuaw\">Estação RIo Pequeno (Armênia)</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!marcello-fragelli/c7c7\">Marcello Fragelli</a> </center>",
-        "marker-size": "small",
         "marker-color": "#ff2121",
-        "marker-symbol": ""
+        "marker-size": "small",
+        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/estacao-armenia\">Estação Ponte Pequena (Estação Armênia)</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/marcello-fragelli\">Marcello Fragelli</a> </center> <center>",
+        "title": "<span style=\"display: none\"> Estação Ponte Pequena (Estação Armênia) </span> "
       },
       "geometry": {
         "coordinates": [
-          -46.629538,
-          -23.525293
+          -46.629324,
+          -23.525447
         ],
         "type": "Point"
       },
@@ -6536,6 +6516,23 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "<span style=\"display: none\"> Residência Nicolau Filizola </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/residencia-nicolau-filizola\">Residência Nicolau Filizola</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/alfredo-ernesto-becker\">Alfredo Ernesto Becker</a> </center> <center> ",
+        "marker-color": "#ff2121",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.650849,
+          -23.552706
+        ],
+        "type": "Point"
+      },
+      "id": "c4d73168b7a08a9a342d714947d34f61"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "ci2w75ng502fmc3pav638bvmq",
         "title": "<span style=\"display: none\"> Casa Modernista </span> ",
         "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!casa-modernista/c9y5\">Casa Modernista</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!gregori-warchavchik/c1u5o\">Gregori Warchavchik</a> </center>",
@@ -6817,17 +6814,15 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "ci2xqjzfx02uia5qwwg5eyza5",
-        "title": "<span style=\"display: none\"> Residência Marcos Acayaba </span> ",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!residencia-marcos-acayaba/cg01\">Residência Marcos Acayaba</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!marcos-acayaba/cwta\">Marcos Acayaba</a> </center>",
-        "marker-size": "small",
         "marker-color": "#ff2121",
-        "marker-symbol": ""
+        "marker-size": "small",
+        "title": "<span style=\"display: none\"> Residência Marcos Acayaba </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/residencia-marcos-acayaba\">Residência Marcos Acayaba</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/marcos-acayaba\">Marcos Acayaba</a> </center> <center> "
       },
       "geometry": {
         "coordinates": [
-          -46.697304,
-          -23.587491
+          -46.697261,
+          -23.587552
         ],
         "type": "Point"
       },
@@ -7228,6 +7223,23 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "<span style=\"display: none\"> Palacete Riachuelo </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/palacete-riachuelo\">Palacete Riachuelo</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/cristiano-stockler-das-neves\">Cristiano Stockler das Neves</a> </center> <center> ",
+        "marker-color": "#ff2121",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.638254,
+          -23.548531
+        ],
+        "type": "Point"
+      },
+      "id": "dc0a97916ddbfb01d0fdeec2c049ba4a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "ci2wo9rii02fga5qw79lull1i",
         "title": "<span style=\"display: none\"> Edifício Planalto </span> ",
         "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!edificio-planalto/c1nk7\">Edifício Planalto</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!artacho-jurado/c1p2g\">Artacho Jurado</a> </center>",
@@ -7281,6 +7293,23 @@
         "type": "Point"
       },
       "id": "dcd48529b01b4a700f548fc6eb1b47ae"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "<span style=\"display: none\"> Residência Armando Santamaria </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/residencia-armando-santamaria\">Residência Armando Santamaria</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/roger-zmekhol\">Roger Zmekhol</a> </center> <center> ",
+        "marker-size": "small",
+        "marker-color": "#ff2121"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.674838,
+          -23.54627
+        ],
+        "type": "Point"
+      },
+      "id": "dd22c7960e819ee0adebee6783645648"
     },
     {
       "type": "Feature",
@@ -7878,6 +7907,23 @@
         "type": "Point"
       },
       "id": "ed2278cadf3a6d54c7ba76309dcbbfd8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "<span style=\"display: none\"> Estação Júlio Prestes </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/estacao-julio-prestes\">Estação Júlio Prestes</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/cristiano-stockler-das-neves\">Cristiano Stockler das Neves</a> </center> <center> ",
+        "marker-color": "#ff2121",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.640043,
+          -23.533926
+        ],
+        "type": "Point"
+      },
+      "id": "ed816bae0732e6e614aa14c71d5fc216"
     },
     {
       "type": "Feature",
