@@ -90,17 +90,15 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "ci2xjasoo02vjcdqwgbqxsc0t",
-        "title": "<span style=\"display: none\"> Igreja da Vila Madalena </span> ",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!igreja-da-vila-madalena/c1e4m\">Igreja da Vila Madalena</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!joaquim-guedes/cssc\">Joaquim Guedes</a> </center>",
-        "marker-size": "small",
         "marker-color": "#ff2121",
-        "marker-symbol": ""
+        "marker-size": "small",
+        "title": "<span style=\"display: none\"> Igreja de Santa Maria Madalena </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/igreja-da-vila-madalena\">Igreja de Santa Maria Madalena</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/joaquim-guedes\">Joaquim Guedes</a> </center>"
       },
       "geometry": {
         "coordinates": [
-          -46.691441,
-          -23.552768
+          -46.691623,
+          -23.552731
         ],
         "type": "Point"
       },
@@ -213,12 +211,10 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "marker-iv8z5ljr0",
-        "title": "<span style=\"display: none\"> Edifício Pacaembu </span> ",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/edificio-pacaembu\">Edifício Pacaembu</a> </center> <center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!artacho-jurado/c1p2g\">Artacho Jurado</a> </center>",
         "marker-size": "small",
         "marker-color": "#ff2121",
-        "marker-symbol": ""
+        "title": "<span style=\"display: none\"> Edifício Pacaembu </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/edificio-pacaembu\">Edifício Pacaembu</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/artacho-jurado\">Artacho Jurado</a> </center>"
       },
       "geometry": {
         "coordinates": [
@@ -741,17 +737,15 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "ci39lg5na06hublqtzlkptha6",
-        "title": "<span style=\"display: none\"> Residência Marietta e Ruth Vampré </span> ",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!residencia-marietta-e-ruth-vampre/c1gp6\">Residência Marietta e Ruth Vampré</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!rodrigo-lefevre/c1fiz\">Rodrigo Lefèvre</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!sergio-ferro/c226b\">Sérgio Ferro</a> </center>",
-        "marker-size": "small",
         "marker-color": "#ff2121",
-        "marker-symbol": ""
+        "marker-size": "small",
+        "title": "<span style=\"display: none\"> Residência Marietta e Ruth Vampré </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/residencia-marietta-e-ruth-vampre\">Residência Marietta e Ruth Vampré</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/rodrigo-lefevre\">Rodrigo Lefèvre</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/sergio-ferro\">Sérgio Ferro</a> </center>"
       },
       "geometry": {
         "coordinates": [
-          -46.688147,
-          -23.548327
+          -46.688008,
+          -23.548453
         ],
         "type": "Point"
       },
@@ -1072,12 +1066,10 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "ci2xjasoy02vtcdqwx8f5rzmc",
-        "title": "<span style=\"display: none\"> Residência Eduardo de Almeida </span> ",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!residencia-eduardo-de-almeida/cte9\">Residência Eduardo de Almeida</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!eduardo-de-almeida/c1g31\">Eduardo de Almeida</a> </center>",
         "marker-size": "small",
         "marker-color": "#ff2121",
-        "marker-symbol": ""
+        "title": "<span style=\"display: none\"> Residência Eduardo de Almeida </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/residencia-eduardo-de-almeida\">Residência Eduardo de Almeida</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/eduardo-de-almeida\">Eduardo de Almeida</a> </center>"
       },
       "geometry": {
         "coordinates": [
@@ -1473,17 +1465,15 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "marker-ivbjoz1w0",
-        "title": "<span style=\"display: none\"> Edifício João Ramalho </span> ",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/edificio-joao-ramalho\">Edifício João Ramalho</a> <center> <a target=\"_parent\"  href=\"http://http://www.arquivo.arq.br/plinio-croce\">Plínio Croce</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!salvador-candia/c1pg0\">Salvador Candia</a> </center>",
-        "marker-size": "small",
         "marker-color": "#ff2121",
-        "marker-symbol": ""
+        "marker-size": "small",
+        "title": "<span style=\"display: none\"> Edifício João Ramalho </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/edificio-joao-ramalho\">Edifício João Ramalho</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/plinio-croce\">Plínio Croce</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/salvador-candia\">Salvador Candia</a> </center>"
       },
       "geometry": {
         "coordinates": [
-          -46.671359,
-          -23.536635
+          -46.671402,
+          -23.536555
         ],
         "type": "Point"
       },
@@ -1683,17 +1673,15 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "marker-iuapwaxr0",
-        "title": "<span style=\"display: none\"> Edifício Washington </span> ",
-        "description": "#ff2121",
-        "marker-size": "small",
         "marker-color": "#ff2121",
-        "marker-symbol": ""
+        "marker-size": "small",
+        "title": "<span style=\"display: none\"> Edifício Washington </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/edificio-washington\">Edifício Washington</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/bernardo-rzezak\">Bernardo Rzezak</a> </center>"
       },
       "geometry": {
         "coordinates": [
-          -46.660453,
-          -23.532181
+          -46.66045,
+          -23.532146
         ],
         "type": "Point"
       },
@@ -1806,15 +1794,15 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/edificio-cicero-prado\">Edifício Cícero Prado</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/gregori-warchavchik\">Gregori Warchavchik</a> </center>",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/edificio-cicero-prado\">Edifício Cícero Prado</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/gregori-warchavchik\">Gregori Warchavchik</a> </center>",
+        "marker-color": "#ff2121",
+        "description": "<span style=\"display: none\"> Edifício Albina </span> ",
         "marker-size": "small",
-        "marker-color": "#ff2121"
+        "title": "<span style=\"display: none\"> Edifício Cícero Prado </span> "
       },
       "geometry": {
         "coordinates": [
-          -46.64751,
-          -23.530133
+          -46.647517,
+          -23.530139
         ],
         "type": "Point"
       },
@@ -1840,17 +1828,15 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "marker-iuou24cv0",
-        "title": "<span style=\"display: none\"> Residência Rubens de Mendonça </span> ",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/residencia-rubens-de-mendonca\">Residência Rubens de Mendonça</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!vilanova-artigas/cr6g\">Vilanova Artigas</a> </center>",
-        "marker-size": "small",
         "marker-color": "#ff2121",
-        "marker-symbol": ""
+        "marker-size": "small",
+        "title": "<span style=\"display: none\"> Residência Rubens de Mendonça (Casa dos triângulos) </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/residencia-rubens-de-mendonca\">Residência Rubens de Mendonça (Casa dos triângulos)</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/vilanova-artigas\">Vilanova Artigas</a> </center>"
       },
       "geometry": {
         "coordinates": [
-          -46.685304,
-          -23.546299
+          -46.685268,
+          -23.546306
         ],
         "type": "Point"
       },
@@ -1876,17 +1862,15 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "ci57n7bt30c7hl0pkpjyvx6ro",
-        "title": "<span style=\"display: none\"> Palácio de Exposições do Parque Anhembi </span> ",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!palacio-de-exposicoes-do-parque-anhembi/cxrk\">Palácio de Exposições do Parque Anhembi</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!jorge-wilheim/c1jax\">Jorge Wilheim</a> </center>",
-        "marker-size": "small",
         "marker-color": "#ff2121",
-        "marker-symbol": ""
+        "marker-size": "small",
+        "title": "<span style=\"display: none\"> Palácio de Exposições do Parque Anhembi </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/palacio-de-exposicoes-do-parque-anhembi\">Palácio de Exposições do Parque Anhembi</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/jorge-wilheim\">Jorge Wilheim</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/miguel-juliano\">Miguel Juliano</a> </center>"
       },
       "geometry": {
         "coordinates": [
-          -46.636061,
-          -23.51703
+          -46.636095,
+          -23.516893
         ],
         "type": "Point"
       },
@@ -2222,12 +2206,10 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "ci2zknz6t00sqazqk7ana7qdj",
-        "title": "<span style=\"display: none\"> Residência Taques Bittencourt II </span> ",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!residencia-taques-bittencourt-ii/c1ddx\">Residência Taques Bittencourt II</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!vilanova-artigas/cr6g\">Vilanova Artigas</a> </center>",
         "marker-size": "small",
         "marker-color": "#ff2121",
-        "marker-symbol": ""
+        "title": "<span style=\"display: none\"> Residência José Mário Taques Bittencourt II </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/residencia-taques-bittencourt-ii\">Residência José Mário Taques Bittencourt II</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/vilanova-artigas\">Vilanova Artigas</a> </center>"
       },
       "geometry": {
         "coordinates": [
@@ -2309,12 +2291,10 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "marker-if4tsbib1",
-        "title": "<span style=\"display: none\"> Edifício Albina </span> ",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!edificio-albina/c47n\">Edifício Albina</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!alberto-botti/c208j\">Alberto Botti</a> </center>",
         "marker-size": "small",
         "marker-color": "#ff2121",
-        "marker-symbol": ""
+        "title": "<span style=\"display: none\"> Edifício Albina </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/edificio-albina\">Edifício Albina</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/alberto-botti\">Alberto Botti</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/marc-rubin\">Marc Rubin</a> </center>"
       },
       "geometry": {
         "coordinates": [
@@ -2345,17 +2325,15 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "ci2xjasou02vpcdqwe8kwpo8w",
-        "title": "<span style=\"display: none\"> Residência Antônio Cunha Lima </span> ",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!residencia-antonio-cunha-lima/c1hu9\">Residência Antônio Cunha Lima</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!joaquim-guedes/cssc\">Joaquim Guedes</a> </center>",
-        "marker-size": "small",
         "marker-color": "#ff2121",
-        "marker-symbol": ""
+        "marker-size": "small",
+        "title": "<span style=\"display: none\"> Residência Antônio Cunha Lima </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/residencia-antonio-cunha-lima\">Residência Antônio Cunha Lima</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/joaquim-guedes\">Joaquim Guedes</a> </center>"
       },
       "geometry": {
         "coordinates": [
-          -46.669114,
-          -23.54847
+          -46.669391,
+          -23.548533
         ],
         "type": "Point"
       },
@@ -2562,8 +2540,8 @@
       },
       "geometry": {
         "coordinates": [
-          -46.731001,
-          -23.581809
+          -46.731024,
+          -23.581849
         ],
         "type": "Point"
       },
@@ -3444,17 +3422,15 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "ci2xqjzgm02v0a5qwktyklu8o",
-        "title": "<span style=\"display: none\"> SESC Pompéia </span> ",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!sesc-pompia/c1buy\">SESC Pompéia</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!lina-bo-bardi/clkh\">Lina Bo Bardi</a> </center>",
-        "marker-size": "small",
         "marker-color": "#ff2121",
-        "marker-symbol": ""
+        "marker-size": "small",
+        "title": "<span style=\"display: none\"> SESC Pompéia </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/sesc-pompeia\">SESC Pompéia</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/lina-bo-bardi\">Lina Bo Bardi</a> </center>"
       },
       "geometry": {
         "coordinates": [
-          -46.683499,
-          -23.526105
+          -46.683653,
+          -23.526038
         ],
         "type": "Point"
       },
@@ -3480,17 +3456,15 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "ci2xjasov02vqcdqw8f5l5eqt",
-        "title": "<span style=\"display: none\"> Residência Antonio D'Elboux </span> ",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!residencia-antonio-delboux/c1kww\">Residência Antonio D'Elboux</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!carlo-barjas-millan/c1yfy\">Carlos Barjas Millan</a> </center>",
-        "marker-size": "small",
         "marker-color": "#ff2121",
-        "marker-symbol": ""
+        "marker-size": "small",
+        "title": "<span style=\"display: none\"> Residência Antonio D'Elboux </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/residencia-antonio-delboux\">Residência Antonio D'Elboux</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/carlo-barjas-millan\">Carlos Barjas Millan</a> </center>"
       },
       "geometry": {
         "coordinates": [
-          -46.675482,
-          -23.54218
+          -46.675512,
+          -23.542144
         ],
         "type": "Point"
       },
@@ -3535,17 +3509,15 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "marker-igkiyu4u0",
-        "title": "<span style=\"display: none\"> Residência Costa Neto </span> ",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!residencia-costa-neto/c11ne\">Residência Costa Neto</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!joaquim-guedes/cssc\">Joaquim Guedes</a> </center>",
         "marker-size": "small",
         "marker-color": "#ff2121",
-        "marker-symbol": ""
+        "title": "<span style=\"display: none\"> Residência Costa Neto </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/residencia-costa-neto\">Residência Costa Neto</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/joaquim-guedes\">Joaquim Guedes</a> </center>"
       },
       "geometry": {
         "coordinates": [
-          -46.670764,
-          -23.548566
+          -46.670785,
+          -23.54856
         ],
         "type": "Point"
       },
@@ -3573,16 +3545,14 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "marker-ib30mx1q0",
-        "title": "<span style=\"display: none\"> Residência Sergio Ferreira Leite </span> ",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!residencia-sergio-ferreira-leite/c193q\">Residência Sergio Ferreira Leite</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!joaquim-guedes/cssc\">Joaquim Guedes</a> </center>",
-        "marker-size": "small",
         "marker-color": "#ff2121",
-        "marker-symbol": ""
+        "marker-size": "small",
+        "title": "<span style=\"display: none\"> Residência Sergio Ferreira Leite </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/residencia-sergio-ferreira-leite\">Residência Sergio Ferreira Leite</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/joaquim-guedes\">Joaquim Guedes</a> </center>"
       },
       "geometry": {
         "coordinates": [
-          -46.711501,
+          -46.711512,
           -23.523316
         ],
         "type": "Point"
@@ -4301,17 +4271,15 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "marker-ib1mwv8o1",
-        "title": "<span style=\"display: none\"> Residência Waldo Perseu Pereira </span> ",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!residencia-waldo-perseu-pereira/cjny\">Residência Waldo Perseu Pereira</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!joaquim-guedes/cssc\">Joaquim Guedes</a> </center>",
-        "marker-size": "small",
         "marker-color": "#ff2121",
-        "marker-symbol": ""
+        "marker-size": "small",
+        "title": "<span style=\"display: none\"> Residência Waldo Perseu Pereira </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/residencia-waldo-perseu-pereira\">Residência Waldo Perseu Pereira</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/joaquim-guedes\">Joaquim Guedes</a> </center>"
       },
       "geometry": {
         "coordinates": [
-          -46.71016,
-          -23.582112
+          -46.710198,
+          -23.58216
         ],
         "type": "Point"
       },
@@ -4390,17 +4358,15 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "ci2xqjzgh02uwa5qw8ih07eei",
-        "title": "<span style=\"display: none\"> Sede das Indústrias Romi </span> ",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!sede-das-industrias-romi/c8qr\">Sede das Indústrias Romi</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!helio-duarte/c1yty\">Hélio Duarte</a> </center>",
-        "marker-size": "small",
         "marker-color": "#ff2121",
-        "marker-symbol": ""
+        "marker-size": "small",
+        "title": "<span style=\"display: none\"> Sede das Indústrias Romi </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/sede-das-industrias-romi\">Sede das Indústrias Romi</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/helio-duarte\">Hélio Duarte</a> </center>"
       },
       "geometry": {
         "coordinates": [
-          -46.692275,
-          -23.525854
+          -46.692312,
+          -23.52581
         ],
         "type": "Point"
       },
@@ -4638,17 +4604,15 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "ci2xjasot02vocdqwiakpyhir",
-        "title": "<span style=\"display: none\"> Piscina Coberta </span> ",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!piscina-coberta/c1mbx\">Piscina Coberta</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!icaro-de-castro-mello/c1pdy\">Icaro de Castro Mello</a> </center>",
-        "marker-size": "small",
         "marker-color": "#ff2121",
-        "marker-symbol": ""
+        "marker-size": "small",
+        "title": "<span style=\"display: none\"> Piscina Coberta </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/piscina-coberta\">Piscina Coberta</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/icaro-de-castro-mello\">Icaro de Castro Mello</a> </center>"
       },
       "geometry": {
         "coordinates": [
-          -46.671523,
-          -23.530792
+          -46.671529,
+          -23.530821
         ],
         "type": "Point"
       },
@@ -4899,12 +4863,10 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "ci2wo9rhw02eva5qwjn2c9kk2",
-        "title": "<span style=\"display: none\"> Edifício Pacaembu </span> ",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!edificio-bretagne/c21l6\">Edifício Bretagne</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!artacho-jurado/c1p2g\">Artacho Jurado</a> </center>",
         "marker-size": "small",
         "marker-color": "#ff2121",
-        "marker-symbol": ""
+        "title": "<span style=\"display: none\"> Edifício Bretagne </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/edificio-bretagne\">Edifício Bretagne</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/artacho-jurado\">Artacho Jurado</a> </center>"
       },
       "geometry": {
         "coordinates": [
@@ -5077,17 +5039,15 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "marker-ib1jnwgg0",
-        "title": "<span style=\"display: none\"> Residência Icaro de Castro Mello </span> ",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!residencia-icaro-de-castro-mello/cxv7\">Residência Icaro de Castro Mello</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!icaro-de-castro-mello/c1pdy\">Icaro de Castro Mello</a> </center>",
-        "marker-size": "small",
         "marker-color": "#ff2121",
-        "marker-symbol": ""
+        "marker-size": "small",
+        "title": "<span style=\"display: none\"> Residência Icaro de Castro Mello </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/residencia-icaro-de-castro-mello\">Residência Icaro de Castro Mello</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/icaro-de-castro-mello\">Icaro de Castro Mello</a> </center>"
       },
       "geometry": {
         "coordinates": [
-          -46.684333,
-          -23.544656
+          -46.684362,
+          -23.544658
         ],
         "type": "Point"
       },
@@ -5306,17 +5266,15 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "ci2xjason02vicdqw5yb3tipb",
-        "title": "<span style=\"display: none\"> Hospital Escola Júlio de Mesquita Filho </span> ",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!hospital-escola-julio/clgu\">Hospital Escola Júlio de Mesquita Filho</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!fabio-penteado/c1tfj\">Fábio Penteado</a> </center>",
-        "marker-size": "small",
         "marker-color": "#ff2121",
-        "marker-symbol": ""
+        "marker-size": "small",
+        "title": "<span style=\"display: none\"> Hospital Escola Júlio de Mesquita Filho </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/hospital-escola-julio\">Hospital Escola Júlio de Mesquita Filho</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/fabio-penteado\">Fábio Penteado</a> </center>"
       },
       "geometry": {
         "coordinates": [
-          -46.660083,
-          -23.519804
+          -46.660077,
+          -23.519771
         ],
         "type": "Point"
       },
@@ -5431,17 +5389,15 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "marker-ivad8a9y0",
-        "title": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/residencia-arthur-affonso-de-souza\">Residência Arthur Affonso de Souza</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/paulo-de-mello-bastos\">Paulo de Mello Bastos</a> </center>",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/edificio-jaragua\">Edifício Jaraguá</a> </center> <center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/paulo-mendes-da-rocha\">Paulo Mendes da Rocha</a> </center>",
-        "marker-size": "small",
         "marker-color": "#ff2121",
-        "marker-symbol": ""
+        "marker-size": "small",
+        "title": "<span style=\"display: none\"> Edifício Jaraguá </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/edificio-jaragua\">Edifício Jaraguá</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/paulo-mendes-da-rocha\">Paulo Mendes da Rocha</a> </center>"
       },
       "geometry": {
         "coordinates": [
-          -46.689324,
-          -23.543382
+          -46.689425,
+          -23.543254
         ],
         "type": "Point"
       },
@@ -5624,23 +5580,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "<span style=\"display: none\"> Edifício Buenos Aires </span> ",
-        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/edificio-buenos-aires-2\">Edifício Buenos Aires</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/adolpho-lindenberg\">Adolpho Lindenberg</a> </center> <center>",
-        "marker-color": "#ff2121",
-        "marker-size": "small"
-      },
-      "geometry": {
-        "coordinates": [
-          -46.660359,
-          -23.545371
-        ],
-        "type": "Point"
-      },
-      "id": "c030b008f36998e160942e25148f5c3d"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "<span style=\"display: none\"> Residência Leonardo Sacco  </span> ",
         "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/residencia-leonardo-sacco\">Residência Leonardo Sacco</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/candido-malta-campos-filho\">Candido Malta Campos Filho</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/siegbert-zanettini\">Siegbert Zanettini </a> </center>",
         "marker-color": "#ff2121",
@@ -5671,25 +5610,6 @@
         "type": "Point"
       },
       "id": "c06338d2a7544e65c661975cb5cb52a5"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "ci2xjasou02vpcdqwe8kwpo8w",
-        "title": "<span style=\"display: none\"> Residência Antônio Cunha Lima </span> ",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!residencia-antonio-cunha-lima/c1hu9\">Residência Antônio Cunha Lima</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!joaquim-guedes/cssc\">Joaquim Guedes</a> </center>",
-        "marker-size": "small",
-        "marker-color": "#ff2121",
-        "marker-symbol": ""
-      },
-      "geometry": {
-        "coordinates": [
-          -46.669114,
-          -23.54847
-        ],
-        "type": "Point"
-      },
-      "id": "c0a4a026ec2fe0b7d3f8d1c2d2df1c1d"
     },
     {
       "type": "Feature",
@@ -5923,25 +5843,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "ci39lg5na06hublqtzlkptha6",
-        "title": "<span style=\"display: none\"> Residência Marietta e Ruth Vampré </span> ",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!residencia-marietta-e-ruth-vampre/c1gp6\">Residência Marietta e Ruth Vampré</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!rodrigo-lefevre/c1fiz\">Rodrigo Lefèvre</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!sergio-ferro/c226b\">Sérgio Ferro</a> </center>",
-        "marker-size": "small",
-        "marker-color": "#ff2121",
-        "marker-symbol": ""
-      },
-      "geometry": {
-        "coordinates": [
-          -46.688147,
-          -23.548327
-        ],
-        "type": "Point"
-      },
-      "id": "c5d94fa6496d091f742fcbcc628af51c"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "marker-size": "small",
         "marker-color": "#ff2121",
         "title": "<span style=\"display: none\"> Piscina do Esporte Clube Sírio </span> ",
@@ -5989,25 +5890,6 @@
         "type": "Point"
       },
       "id": "c9b4f93aa80fba0901e1bd95dd605596"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "ci2wo9rhp02eoa5qwfyj474fu",
-        "title": "<span style=\"display: none\"> Abadia de Santa Maria </span> ",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!abadia-de-santa-maria/c1ddr\">Abadia de Santa Maria</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!hans-broos/c9kq\">Hans Broos</a> </center>",
-        "marker-size": "small",
-        "marker-color": "#ff2121",
-        "marker-symbol": ""
-      },
-      "geometry": {
-        "coordinates": [
-          -46.596096,
-          -23.444791
-        ],
-        "type": "Point"
-      },
-      "id": "c9e1a7598d0c21c79c18585f6b57bc24"
     },
     {
       "type": "Feature",
@@ -6504,25 +6386,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "ci2xqjzgm02v0a5qwktyklu8o",
-        "title": "<span style=\"display: none\"> SESC Pompéia </span> ",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!sesc-pompia/c1buy\">SESC Pompéia</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!lina-bo-bardi/clkh\">Lina Bo Bardi</a> </center>",
-        "marker-size": "small",
-        "marker-color": "#ff2121",
-        "marker-symbol": ""
-      },
-      "geometry": {
-        "coordinates": [
-          -46.683499,
-          -23.526105
-        ],
-        "type": "Point"
-      },
-      "id": "dbacfa00d55ef74e09338a9d40f725dc"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "<span style=\"display: none\"> Palacete Riachuelo </span> ",
         "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/palacete-riachuelo\">Palacete Riachuelo</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/cristiano-stockler-das-neves\">Cristiano Stockler das Neves</a> </center> <center> ",
         "marker-color": "#ff2121",
@@ -6693,17 +6556,15 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "ci2xjasoj02vecdqwcp0sdgpo",
-        "title": "<span style=\"display: none\"> Faculdade de Arquitetura e Urbanismo Farias Brito </span> ",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!faculdade-de-arquitetura-e-urbanismo-far/c19f9\">Faculdade de Arquitetura e Urbanismo Farias Brito</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!eduardo-kneese-de-mello/c118p\">Eduardo Knesse de Mello</a> </center>",
-        "marker-size": "small",
         "marker-color": "#ff2121",
-        "marker-symbol": ""
+        "marker-size": "small",
+        "title": "<span style=\"display: none\"> Faculdade de Arquitetura e Urbanismo Farias Brito (UNG) </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/faculdade-de-arquitetura-e-urbanismo-far\">Faculdade de Arquitetura e Urbanismo Farias Brito (UNG)</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/eduardo-kneese-de-mello\">Eduardo Knesse de Mello</a> </center>"
       },
       "geometry": {
         "coordinates": [
-          -46.53388,
-          -23.470661
+          -46.533892,
+          -23.470655
         ],
         "type": "Point"
       },
@@ -7128,25 +6989,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "ci2xjasov02vqcdqw8f5l5eqt",
-        "title": "<span style=\"display: none\"> Residência Antonio D'Elboux </span> ",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!residencia-antonio-delboux/c1kww\">Residência Antonio D'Elboux</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!carlo-barjas-millan/c1yfy\">Carlos Barjas Millan</a> </center>",
-        "marker-size": "small",
-        "marker-color": "#ff2121",
-        "marker-symbol": ""
-      },
-      "geometry": {
-        "coordinates": [
-          -46.675482,
-          -23.54218
-        ],
-        "type": "Point"
-      },
-      "id": "ed03447187ad09d85457474cde8cb63d"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "<span style=\"display: none\"> Edifício Alcatrazes </span> ",
         "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/edificio-alcatrazes\">Edifício Alcatrazes</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/fabio-penteado\">Fábio Penteado</a> </center>",
         "marker-size": "small",
@@ -7234,40 +7076,19 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "ci2xqjzgn02v1a5qwxikre4za",
-        "title": "<span style=\"display: none\"> SESI Vila Leopoldina </span>",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!sesi-vila-leopoldina/c1gzt\">SESI Vila Leopoldina</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!jorge-wilheim/c1jax\">Jorge Wilheim</a> </center>",
-        "marker-size": "small",
         "marker-color": "#ff2121",
-        "marker-symbol": ""
+        "marker-size": "small",
+        "title": "<span style=\"display: none\"> SESI Vila Leopoldina </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/sesi-vila-leopoldina\">SESI Vila Leopoldina</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/jorge-wilheim\">Jorge Wilheim</a> </center>"
       },
       "geometry": {
         "coordinates": [
-          -46.729756,
-          -23.528082
+          -46.729828,
+          -23.528062
         ],
         "type": "Point"
       },
       "id": "f073c606072b625704eadc5a98f0f8a0"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "marker-is6zssdp0",
-        "title": "<span style=\"display: none\"> Residência Gabriel Oliva Feitosa </span> ",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!residencia-gabriel-oliva-feitosa/cp0y\">Residência Gabriel Oliva Feitosa</a> </center> <center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!carlo-barjas-millan/c1yfy\">Carlos Barjas Millan</a> </center>",
-        "marker-size": "small",
-        "marker-color": "#ff2121",
-        "marker-symbol": ""
-      },
-      "geometry": {
-        "coordinates": [
-          -46.67756,
-          -23.527231
-        ],
-        "type": "Point"
-      },
-      "id": "f0beb931287799679b3d258f868f04b7"
     },
     {
       "type": "Feature",
@@ -7308,17 +7129,15 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "marker-is6zssdp0",
-        "title": "<span style=\"display: none\"> Residência Gabriel Oliva Feitosa </span> ",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!residencia-gabriel-oliva-feitosa/cp0y\">Residência Gabriel Oliva Feitosa</a> </center> <center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!carlo-barjas-millan/c1yfy\">Carlos Barjas Millan</a> </center>",
-        "marker-size": "small",
         "marker-color": "#ff2121",
-        "marker-symbol": ""
+        "marker-size": "small",
+        "title": "<span style=\"display: none\"> Residência Gabriel Oliva Feitosa </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/residencia-gabriel-oliva-feitosa\">Residência Gabriel Oliva Feitosa</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/carlo-barjas-millan\">Carlos Barjas Millan</a> </center>"
       },
       "geometry": {
         "coordinates": [
-          -46.67756,
-          -23.527231
+          -46.677476,
+          -23.527227
         ],
         "type": "Point"
       },
@@ -7541,17 +7360,15 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "ci2wo9rhp02eoa5qwfyj474fu",
-        "title": "<span style=\"display: none\"> Abadia de Santa Maria </span> ",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!abadia-de-santa-maria/c1ddr\">Abadia de Santa Maria</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!hans-broos/c9kq\">Hans Broos</a> </center>",
-        "marker-size": "small",
         "marker-color": "#ff2121",
-        "marker-symbol": ""
+        "marker-size": "small",
+        "title": "<span style=\"display: none\"> Abadia de Santa Maria </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/abadia-de-santa-maria\">Abadia de Santa Maria</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/hans-broos\">Hans Broos</a> </center>"
       },
       "geometry": {
         "coordinates": [
-          -46.596096,
-          -23.444791
+          -46.595598,
+          -23.444546
         ],
         "type": "Point"
       },
@@ -7613,17 +7430,15 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "marker-io3uevlx1",
-        "title": "<span style=\"display: none\"> Sede da Soc. Algodoeiro do Nordeste </span> ",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!sede-da-soc-algodoeiro-do-nordeste/c1kjb\">Sede da Soc. Algodoeiro do Nordeste</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!hoover-americo-sampaio/c1ahv\">Hoover Americo Sampaio</a> </center>",
-        "marker-size": "small",
         "marker-color": "#ff2121",
-        "marker-symbol": ""
+        "marker-size": "small",
+        "title": "<span style=\"display: none\"> Sede da Soc. Algodoeiro do Nordeste </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/sede-da-soc-algodoeiro-do-nordeste\">Sede da Soc. Algodoeiro do Nordeste</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/hoover-americo-sampaio\">Hoover Americo Sampaio</a> </center>"
       },
       "geometry": {
         "coordinates": [
-          -46.751997,
-          -23.539241
+          -46.751892,
+          -23.539193
         ],
         "type": "Point"
       },
