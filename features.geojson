@@ -921,17 +921,15 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "marker-ifpkffwv0",
-        "title": "<span style=\"display: none\"> Edifício Jane Rose </span> ",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!edificio-jane-rose/c1of1\">Edifício Jane Rose</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!jorge-wilheim/c1jax\">Jorge Wilheim</a> </center>",
-        "marker-size": "small",
         "marker-color": "#ff2121",
-        "marker-symbol": ""
+        "marker-size": "small",
+        "title": "<span style=\"display: none\"> Edifício Jane Rose </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/edificio-jane-rose\">Edifício Jane Rose</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/jorge-wilheim\">Jorge Wilheim</a> </center>"
       },
       "geometry": {
         "coordinates": [
-          -46.658007,
-          -23.55784
+          -46.658216,
+          -23.557838
         ],
         "type": "Point"
       },
@@ -1623,25 +1621,6 @@
         "type": "Point"
       },
       "id": "3700b9f77f44c9d9d2d0825304e35bf0"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "marker-ifpkffwv0",
-        "title": "<span style=\"display: none\"> Edifício Jane Rose </span> ",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!edificio-jane-rose/c1of1\">Edifício Jane Rose</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!jorge-wilheim/c1jax\">Jorge Wilheim</a> </center>",
-        "marker-size": "small",
-        "marker-color": "#ff2121",
-        "marker-symbol": ""
-      },
-      "geometry": {
-        "coordinates": [
-          -46.658007,
-          -23.55784
-        ],
-        "type": "Point"
-      },
-      "id": "370eec61f9c3056ed623909355b9bbeb"
     },
     {
       "type": "Feature",
@@ -2530,17 +2509,15 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "ci2wo9ri502f3a5qwb40obn4p",
-        "title": "<span style=\"display: none\"> Edifício Pedra Azul </span> ",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!edificio-guaimbe/c8dk\">Edifício Guaimbê</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!paulo-mendes-da-rocha/c109j\">Paulo Mendes da Rocha</a> </center>",
-        "marker-size": "small",
         "marker-color": "#ff2121",
-        "marker-symbol": ""
+        "marker-size": "small",
+        "title": "<span style=\"display: none\"> Edifício Guaimbê </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/edificio-guaimbe\">Edifício Guaimbê</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/paulo-mendes-da-rocha\">Paulo Mendes da Rocha</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/joao-de-gennaro\">João de Gennaro</a> </center>"
       },
       "geometry": {
         "coordinates": [
-          -46.667357,
-          -23.56366
+          -46.667369,
+          -23.563651
         ],
         "type": "Point"
       },
@@ -3980,17 +3957,15 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "ci2wo9rit02fma5qw6muscwl3",
-        "title": "<span style=\"display: none\"> Edifício Torre do Espigão </span> ",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!edificio-torre-do-espigao/clb3\">Edifício Torre do Espigão</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!jorge-wilheim/c1jax\">Jorge Wilheim</a> </center>",
-        "marker-size": "small",
         "marker-color": "#ff2121",
-        "marker-symbol": ""
+        "marker-size": "small",
+        "title": "<span style=\"display: none\"> Edifício Torre do Espigão </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/edificio-torre-do-espigao\">Edifício Torre do Espigão</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/jorge-wilheim\">Jorge Wilheim</a> </center>"
       },
       "geometry": {
         "coordinates": [
-          -46.656599,
-          -23.559026
+          -46.656634,
+          -23.559039
         ],
         "type": "Point"
       },
@@ -5689,7 +5664,7 @@
       },
       "geometry": {
         "coordinates": [
-          -46.656813,
+          -46.656824,
           -23.559319
         ],
         "type": "Point"
@@ -7063,7 +7038,7 @@
         "marker-size": "small",
         "marker-color": "#ff2121",
         "title": "<span style=\"display: none\"> Edifício São Félix </span> ",
-        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/edificio-sao-felix\">Edifício São Félix</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/alberto-botti\">Alberto Botti</a> </center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/marc-rubin\">Marc Rubin</a> </center>"
+        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/edificio-sao-felix\">Edifício São Félix</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/alberto-botti\">Alberto Botti</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/marc-rubin\">Marc Rubin</a> </center>"
       },
       "geometry": {
         "coordinates": [
