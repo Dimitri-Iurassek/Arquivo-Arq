@@ -465,25 +465,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "marker-iopmuuyo2",
-        "title": "<span style=\"display: none\"> Residência  FTD </span> ",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!residencia-ftd/c5or\">Residência  FTD</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!eduardo-longo/ci8y\">Eduardo Longo</a> </center>",
-        "marker-size": "small",
-        "marker-color": "#ff2121",
-        "marker-symbol": ""
-      },
-      "geometry": {
-        "coordinates": [
-          -46.708492,
-          -23.597802
-        ],
-        "type": "Point"
-      },
-      "id": "11cb6800ec64ae0ffeda4266733ea189"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "<span style=\"display: none\"> Edifício Novo Mundo (Edifício Dorival Rodrigues Alves) </span> ",
         "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/edificio-novo-mundo\">Edifício Novo Mundo (Edifício Dorival Rodrigues Alves)</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/arnaldo-maia-lello\">Arnaldo Maia Lello</a> </center> <center> ",
         "marker-color": "#ff2121",
@@ -673,40 +654,19 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "marker-io3uu1em4",
-        "title": "<span style=\"display: none\"> Residência Cincinato Cajado Braga </span> ",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!residencia-cincinato-cajado-braga/co8r\">Residência Cincinato Cajado Braga</a> </center>  <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!sergio-bernardes/c19eu\">Sergio Bernardes</a> </center>",
-        "marker-size": "small",
         "marker-color": "#ff2121",
-        "marker-symbol": ""
+        "marker-size": "small",
+        "title": "<span style=\"display: none\"> Residência Cincinato Cajado Braga </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/residencia-cincinato-cajado-braga\">Residência Cincinato Cajado Braga</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/sergio-bernardes\">Sergio Bernardes</a> </center>"
       },
       "geometry": {
         "coordinates": [
-          -46.702097,
-          -23.585084
+          -46.702088,
+          -23.585131
         ],
         "type": "Point"
       },
       "id": "1c865caccbbec661ea5f04c412dc4da0"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "marker-io3uu1em4",
-        "title": "<span style=\"display: none\"> Residência Cincinato Cajado Braga </span> ",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!residencia-cincinato-cajado-braga/co8r\">Residência Cincinato Cajado Braga</a> </center>  <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!sergio-bernardes/c19eu\">Sergio Bernardes</a> </center>",
-        "marker-size": "small",
-        "marker-color": "#ff2121",
-        "marker-symbol": ""
-      },
-      "geometry": {
-        "coordinates": [
-          -46.702097,
-          -23.585084
-        ],
-        "type": "Point"
-      },
-      "id": "1d0c1c17f71b8637467f87d58b7e96ac"
     },
     {
       "type": "Feature",
@@ -1636,17 +1596,15 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "ci2xjasp002vucdqwsi80rxm4",
-        "title": "<span style=\"display: none\"> Residência Hans Broos </span> ",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!residencia-hans-broos/c1tx3\">Residência Hans Broos</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!hans-broos/c9kq\">Hans Broos</a> </center>",
-        "marker-size": "small",
         "marker-color": "#ff2121",
-        "marker-symbol": ""
+        "marker-size": "small",
+        "title": "<span style=\"display: none\"> Residência Hans Broos </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/residencia-hans-broos\">Residência Hans Broos</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/hans-broos\">Hans Broos</a> </center>"
       },
       "geometry": {
         "coordinates": [
-          -46.718743,
-          -23.613834
+          -46.718703,
+          -23.613823
         ],
         "type": "Point"
       },
@@ -2041,17 +1999,15 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "marker-iopmuuyo2",
-        "title": "<span style=\"display: none\"> Residência  FTD </span> ",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!residencia-ftd/c5or\">Residência  FTD</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!eduardo-longo/ci8y\">Eduardo Longo</a> </center>",
-        "marker-size": "small",
         "marker-color": "#ff2121",
-        "marker-symbol": ""
+        "marker-size": "small",
+        "title": "<span style=\"display: none\"> Residência  FTD </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/residencia-ftd\">Residência  FTD</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/eduardo-longo\">Eduardo Longo</a> </center>"
       },
       "geometry": {
         "coordinates": [
-          -46.708492,
-          -23.597802
+          -46.708546,
+          -23.597823
         ],
         "type": "Point"
       },
@@ -2232,16 +2188,14 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "ci2xqjzfy02uja5qwl3geigy4",
-        "title": "<span style=\"display: none\"> Residência Max Define </span> ",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!residencia-max-define/chr4\">Residência Max Define</a> </center>  <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!eduardo-de-almeida/c1g31\">Eduardo de Almeida</a> </center>",
-        "marker-size": "small",
         "marker-color": "#ff2121",
-        "marker-symbol": ""
+        "marker-size": "small",
+        "title": "<span style=\"display: none\"> Residência Max Define </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/residencia-max-define\">Residência Max Define</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/eduardo-de-almeida\">Eduardo de Almeida</a> </center>"
       },
       "geometry": {
         "coordinates": [
-          -46.696089,
+          -46.696045,
           -23.592328
         ],
         "type": "Point"
@@ -2845,17 +2799,15 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "marker-inew2i6f0",
-        "title": "<span style=\"display: none\"> Residência Vera Amaral </span> ",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!residencia-vera-amaral/c3ls\">Residência Vera Amaral</a> </center>  <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!roberto-tibau/c13ga\">Roberto Tibau</a> </center>",
-        "marker-size": "small",
         "marker-color": "#ff2121",
-        "marker-symbol": ""
+        "marker-size": "small",
+        "title": "<span style=\"display: none\"> Residência Vera Amaral </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/residencia-vera-amaral\">Residência Vera Amaral</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/roberto-tibau\">Roberto Tibau</a> </center>"
       },
       "geometry": {
         "coordinates": [
-          -46.716463,
-          -23.602064
+          -46.716452,
+          -23.602134
         ],
         "type": "Point"
       },
@@ -3108,25 +3060,6 @@
         "type": "Point"
       },
       "id": "634788030555e0e692ab70c372802d2d"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "ci2xqjzfz02uka5qwa1ll7lvv",
-        "title": "<span style=\"display: none\"> Residência Nadir Zacarias </span> ",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!residencia-nadir-zacarias/c197z\">Residência Nadir Zacarias</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!ruy-ohtake/cjl7\">Ruy Ohtake</a> </center>",
-        "marker-size": "small",
-        "marker-color": "#ff2121",
-        "marker-symbol": ""
-      },
-      "geometry": {
-        "coordinates": [
-          -46.711539,
-          -23.585736
-        ],
-        "type": "Point"
-      },
-      "id": "6541542cce092611b270997bdebcb20a"
     },
     {
       "type": "Feature",
@@ -3937,17 +3870,15 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "ci2xjasp202vwcdqw9yiziqae",
-        "title": "<span style=\"display: none\"> Residência Joaquim Guedes e Liliana Guedes </span> ",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!residencia-joaquim-guedes/c143r\">Residência Joaquim Guedes e Liliana Guedes</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!joaquim-guedes/cssc\">Joaquim Guedes</a> </center>",
-        "marker-size": "small",
         "marker-color": "#ff2121",
-        "marker-symbol": ""
+        "marker-size": "small",
+        "title": "<span style=\"display: none\"> Residência Joaquim Guedes e Liliana Guedes </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/residencia-joaquim-guedes\">Residência Joaquim Guedes e Liliana Guedes</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/joaquim-guedes\">Joaquim Guedes</a> </center>"
       },
       "geometry": {
         "coordinates": [
-          -46.716168,
-          -23.610219
+          -46.716164,
+          -23.610245
         ],
         "type": "Point"
       },
@@ -4917,17 +4848,15 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "marker-ig783sm91",
-        "title": "<span style=\"display: none\"> Residência Zélia Deri Twiaschor </span> ",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!residencia-zelia-deri-twiaschor/c5x8\">Residência Zélia Deri Twiaschor</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!abrahao-sanovicz/c1bws\">Abrahão Sanovicz</a> </center>",
-        "marker-size": "small",
         "marker-color": "#ff2121",
-        "marker-symbol": ""
+        "marker-size": "small",
+        "title": "<span style=\"display: none\"> Residência Zélia Deri Twiaschor </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/residencia-zelia-deri-twiaschor\">Residência Zélia Deri Twiaschor</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/abrahao-sanovicz\">Abrahão Sanovicz</a> </center>"
       },
       "geometry": {
         "coordinates": [
-          -46.715455,
-          -23.608567
+          -46.715442,
+          -23.608593
         ],
         "type": "Point"
       },
@@ -6730,12 +6659,10 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "marker-i9m6clz00",
-        "title": "<span style=\"display: none\"> Residência Oswaldo Bratke </span> ",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!residencia-oswaldo-bratke/c1fza\">Residência Oswaldo Bratke</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!oswaldo-bratke/crg7\">Oswaldo Bratke</a> </center>",
         "marker-size": "small",
         "marker-color": "#ff2121",
-        "marker-symbol": ""
+        "title": "<span style=\"display: none\"> Residência Oswaldo Bratke </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/residencia-oswaldo-bratke\">Residência Oswaldo Bratke</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/oswaldo-bratke\">Oswaldo Bratke</a> </center>"
       },
       "geometry": {
         "coordinates": [
@@ -6804,17 +6731,15 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "marker-irpsig8z0",
-        "title": "<span style=\"display: none\"> Clube Paineiras </span> ",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!clube-paineiras/cu6k\">Clube Paineiras</a> </center>  <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!carlo-barjas-millan/c1yfy\">Carlos Barjas Millan</a> </center>",
-        "marker-size": "small",
         "marker-color": "#ff2121",
-        "marker-symbol": ""
+        "marker-size": "small",
+        "title": "<span style=\"display: none\"> Clube Paineiras </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/clube-paineiras\">Clube Paineiras</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/carlo-barjas-millan\">Carlos Barjas Millan</a> </center>"
       },
       "geometry": {
         "coordinates": [
-          -46.70567,
-          -23.598893
+          -46.705573,
+          -23.598964
         ],
         "type": "Point"
       },
@@ -6946,17 +6871,15 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "ci2xqjzg002ula5qw8aqirgqk",
-        "title": "<span style=\"display: none\"> Residência Nadyr de Oliveira </span> ",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!residencia-nadyr-de-oliveira/c17kq\">Residência Nadyr de Oliveira</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!carlo-barjas-millan/c1yfy\">Carlos Barjas Millan</a> </center>",
-        "marker-size": "small",
         "marker-color": "#ff2121",
-        "marker-symbol": ""
+        "marker-size": "small",
+        "title": "<span style=\"display: none\"> Residência Nadyr de Oliveira </span>",
+        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/residencia-nadyr-de-oliveira\">Residência Nadyr de Oliveira</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/carlo-barjas-millan\">Carlos Barjas Millan</a> </center>"
       },
       "geometry": {
         "coordinates": [
           -46.69971,
-          -23.589587
+          -23.589625
         ],
         "type": "Point"
       },
@@ -7016,12 +6939,10 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "ci2xqjzfz02uka5qwa1ll7lvv",
-        "title": "<span style=\"display: none\"> Residência Nadir Zacarias </span> ",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!residencia-nadir-zacarias/c197z\">Residência Nadir Zacarias</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!ruy-ohtake/cjl7\">Ruy Ohtake</a> </center>",
         "marker-size": "small",
         "marker-color": "#ff2121",
-        "marker-symbol": ""
+        "title": "<span style=\"display: none\"> Residência Nadir Zacarias </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/residencia-nadir-zacarias\">Residência Nadir Zacarias</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/ruy-ohtake\">Ruy Ohtake</a> </center>"
       },
       "geometry": {
         "coordinates": [
