@@ -2497,17 +2497,15 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "ci2xjasp102vvcdqw6bso5gtk",
-        "title": "<span style=\"display: none\"> Residência Jacob Kipnis </span>",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!residencia-jacob-kipnis/c1o2h\">Residência Jacob Kipnis</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!eduardo-de-almeida/c1g31\">Eduardo de Almeida</a> </center>",
-        "marker-size": "small",
         "marker-color": "#ff2121",
-        "marker-symbol": ""
+        "marker-size": "small",
+        "title": "<span style=\"display: none\"> Residência Jacob Kipnis </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/residencia-jacob-kipnis\">Residência Jacob Kipnis</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/eduardo-de-almeida\">Eduardo de Almeida</a> </center>"
       },
       "geometry": {
         "coordinates": [
-          -46.720494,
-          -23.541376
+          -46.720456,
+          -23.541403
         ],
         "type": "Point"
       },
@@ -5437,17 +5435,15 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "ci2xqjzg502upa5qwldxpc3m4",
-        "title": "<span style=\"display: none\"> Residência Roberto Millan </span> ",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!residencia-roberto-millan/crk4\">Residência Roberto Millan</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/#!carlo-barjas-millan/c1yfy\">Carlos Barjas Millan</a> </center>",
-        "marker-size": "small",
         "marker-color": "#ff2121",
-        "marker-symbol": ""
+        "marker-size": "small",
+        "title": "<span style=\"display: none\"> Residência Roberto Millan </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/residencia-roberto-millan\">Residência Roberto Millan</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/carlo-barjas-millan\">Carlos Barjas Millan</a> </center>"
       },
       "geometry": {
         "coordinates": [
-          -46.703937,
-          -23.555148
+          -46.70388,
+          -23.555165
         ],
         "type": "Point"
       },
