@@ -532,6 +532,23 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "<span style=\"display: none\"> Residência Francisco Malta Cardoso </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/residencia-francisco-malta-cardoso\">Residência Francisco Malta Cardoso</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/paulo-mendes-da-rocha\">Paulo Mendes da Rocha</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/joao-de-gennaro\">João de Gennaro</a> </center>",
+        "marker-color": "#ff2121",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.703422,
+          -23.579153
+        ],
+        "type": "Point"
+      },
+      "id": "199fcd751f66861db2107839f6254986"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "#ff2121",
         "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/igreja-da-consolacao\">Igreja da Consolação</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/maximilian-hehl\">Maximilian Hehl</a> </center>",
         "marker-size": "small",
@@ -1212,6 +1229,23 @@
         "type": "Point"
       },
       "id": "2e27e7ab2936aa3124ac342d3fa09342"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "<span style=\"display: none\"> Residência Gaetano Miani </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/residencia-gaetano-miani\">Residência Gaetano Miani</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/paulo-mendes-da-rocha\">Paulo Mendes da Rocha</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/joao-de-gennaro\">João de Gennaro</a> </center>",
+        "marker-size": "small",
+        "marker-color": "#ff2121"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.700755,
+          -23.638246
+        ],
+        "type": "Point"
+      },
+      "id": "2e5cdc40921337491d2c5179f170dc2f"
     },
     {
       "type": "Feature",
@@ -2253,6 +2287,23 @@
         "type": "Point"
       },
       "id": "4cd724b7d92d3e16a6162ef1e0e7d566"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "<span style=\"display: none\"> Edifício Albatroz </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/edificio-albatroz\">Edifício Albatroz</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/joao-kon\">João Kon</a> </center>",
+        "marker-color": "#ff2121",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.651988,
+          -23.544233
+        ],
+        "type": "Point"
+      },
+      "id": "4d799ea426d3fae21fe4c7120f2d31fd"
     },
     {
       "type": "Feature",
@@ -4749,6 +4800,23 @@
         "type": "Point"
       },
       "id": "a8df4bb3f6e6ca6fbf9d2f8c33e29e48"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "<span style=\"display: none\"> Residência Celso Silveira Mello </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/residencia-celso-silveira-mello\">Residência Celso Silveira Mello</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/paulo-mendes-da-rocha\">Paulo Mendes da Rocha</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/joao-de-gennaro\">João de Gennaro</a> </center>",
+        "marker-color": "#ff2121",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          -47.642516,
+          -22.719863
+        ],
+        "type": "Point"
+      },
+      "id": "a90e990d87de38fba8bce8becba9495e"
     },
     {
       "type": "Feature",
