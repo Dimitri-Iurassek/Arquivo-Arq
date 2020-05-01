@@ -190,6 +190,23 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "<span style=\"display: none\"> Edifício Carina </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/edificio-carina\">Edifício Carina</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/israel-galman\">Israel Galman</a> </center>",
+        "marker-color": "#ff2121",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.656426,
+          -23.542669
+        ],
+        "type": "Point"
+      },
+      "id": "0709aab6113e2fa5003698f1b5283515"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "ci2wo9rif02fda5qw9jfn9zsm",
         "description": "<span style=\"display: none\"> Edifício Montreal </span> ",
         "marker-color": "#ff2121",
@@ -407,6 +424,23 @@
         "type": "Point"
       },
       "id": "1082832e20b2e9c6f06bd5385376701a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "<span style=\"display: none\"> Edifício Marina Mendes Margarido </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/edificio-marina-mendes-margarido\">Edifício Marina Mendes Margarido</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/julio-de-abreu-junior\">Júlio de Abreu Júnior</a> </center>",
+        "marker-color": "#ff2121",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.653792,
+          -23.53438
+        ],
+        "type": "Point"
+      },
+      "id": "10d4763ee215aa5732a1cc7e080e8beb"
     },
     {
       "type": "Feature",
@@ -1044,6 +1078,23 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "<span style=\"display: none\"> Residência Magdalena Lima Nogueira </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/residencia-magdalena-lima-nogueira\">Residência Magdalena Lima Nogueira</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/alfredo-ernesto-becker\">Alfredo Ernesto Becker</a> </center>",
+        "marker-color": "#ff2121",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.648239,
+          -23.552543
+        ],
+        "type": "Point"
+      },
+      "id": "2544a3280e42654a0280769c90c1d8d6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "<span style=\"display: none\"> Edifício Jaraguá </span> ",
         "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/edificio-anhumas\">Edifício Anhumas</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/jacques-pilon\">Jacques Pilon</a> </center>",
         "marker-color": "#ff2121",
@@ -1291,8 +1342,8 @@
       },
       "geometry": {
         "coordinates": [
-          -46.668452,
-          -23.568663
+          -46.668367,
+          -23.56872
         ],
         "type": "Point"
       },
@@ -1518,6 +1569,23 @@
         "type": "Point"
       },
       "id": "3700b9f77f44c9d9d2d0825304e35bf0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "<span style=\"display: none\"> Biblioteca Adelpha Figueiredo </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/biblioteca-do-caninde\">Biblioteca Adelpha Figueiredo</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/antonio-carlos-pitombo\">Antonio Carlos Pitombo</a> </center>",
+        "marker-color": "#ff2121",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.610569,
+          -23.526399
+        ],
+        "type": "Point"
+      },
+      "id": "372764f44c9aa6de57d38fc84a994fbc"
     },
     {
       "type": "Feature",
@@ -2009,8 +2077,8 @@
       },
       "geometry": {
         "coordinates": [
-          -46.668129,
-          -23.573429
+          -46.668141,
+          -23.57343
         ],
         "type": "Point"
       },
@@ -2606,8 +2674,8 @@
       },
       "geometry": {
         "coordinates": [
-          -46.645718,
-          -23.544616
+          -46.645722,
+          -23.544613
         ],
         "type": "Point"
       },
@@ -2835,6 +2903,23 @@
         "type": "Point"
       },
       "id": "5cb862503bcc32d08f6e2949711ece87"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "<span style=\"display: none\"> Posto de Serviços </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/posto-de-servicos\">Posto de Serviços</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/helio-duarte\">Hélio Duarte</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/roberto-tibau\">Roberto Tibau</a> </center> <center>",
+        "marker-size": "small",
+        "marker-color": "#ff2121"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.746805,
+          -23.563167
+        ],
+        "type": "Point"
+      },
+      "id": "5daa065844eba33dfe0aebd477749611"
     },
     {
       "type": "Feature",
@@ -3455,15 +3540,15 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "ci2xqjzgk02uya5qwod2j93kz",
-        "description": "<span style=\"display: none\"> Sede do Clube Harmonia </span> ",
+        "title": "<span style=\"display: none\"> Residência João Arnstein </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/residencia-joao-arnstein\">Residência João Arnstein</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/bernard-rudofsky\">Bernard Rudofsky</a> </center>",
         "marker-color": "#ff2121",
         "marker-size": "small"
       },
       "geometry": {
         "coordinates": [
-          -46.670393,
-          -23.57414
+          -46.670388,
+          -23.574147
         ],
         "type": "Point"
       },
@@ -3657,6 +3742,23 @@
         "type": "Point"
       },
       "id": "7d65601ac3536139b2cbdd320e4d2add"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "<span style=\"display: none\"> Residência Paulo Guilherme Ferraz </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/residencia-paulo-guilherme-ferraz\">Residência Paulo Guilherme Ferraz</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/alfredo-ernesto-becker\">Alfredo Ernesto Becker</a> </center>",
+        "marker-color": "#ff2121",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.661765,
+          -23.543785
+        ],
+        "type": "Point"
+      },
+      "id": "7dccceddc5519e28d2dbf958ddd3e2cc"
     },
     {
       "type": "Feature",
@@ -4617,6 +4719,23 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "<span style=\"display: none\"> Delegacia do IAPETC </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/delegacia-do-iapetc\">Delegacia do IAPETC</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/jayme-fonseca-rodrigues\">Jayme Fonseca Rodrigues</a> </center>",
+        "marker-color": "#ff2121",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.644067,
+          -23.550281
+        ],
+        "type": "Point"
+      },
+      "id": "a36a42ffb46b04ad4a61119a25486e46"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "marker-color": "#ff2121",
         "marker-size": "small",
         "title": "<span style=\"display: none\"> Central do Banco do Brasil </span> ",
@@ -4898,8 +5017,8 @@
       },
       "geometry": {
         "coordinates": [
-          -46.668764,
-          -23.570228
+          -46.668774,
+          -23.570225
         ],
         "type": "Point"
       },
@@ -5012,8 +5131,8 @@
       "properties": {
         "marker-color": "#ff2121",
         "marker-size": "small",
-        "title": "<span style=\"display: none\"> Sede do Clube Harmonia </span> ",
-        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/sede-do-clube-harmonia\">Sede do Clube Harmonia</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/alfredo-paesani\">Alfredo Paesani</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/fabio-penteado\">Fábio Penteado</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/teru-tamaki\">Teru Tamaki</a> </center> "
+        "title": "small",
+        "description": "#ff2121"
       },
       "geometry": {
         "coordinates": [
@@ -5130,14 +5249,14 @@
       "type": "Feature",
       "properties": {
         "title": "<span style=\"display: none\"> Residência José Perez Moral </span> ",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/residencia-jose-perez-moral\">Residência José Perez Moral</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/gregori-warchavchik\">Gregori Warchavchik</a> </center> <center>",
-        "marker-size": "small",
-        "marker-color": "#ff2121"
+        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/residencia-jose-perez-moral\">Residência João Arnstein</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/gregori-warchavchik\">Gregori Warchavchik</a> </center>",
+        "marker-color": "#ff2121",
+        "marker-size": "small"
       },
       "geometry": {
         "coordinates": [
-          -46.670462,
-          -23.575649
+          -46.670503,
+          -23.575319
         ],
         "type": "Point"
       },
@@ -5227,6 +5346,23 @@
         "type": "Point"
       },
       "id": "bac0b9ff0345a575bb9198571355c7b6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "<span style=\"display: none\"> Edifício Brigadeiro Galvão </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/edificio-brigadeiro-galvao\">Edifício Brigadeiro Galvão</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/dacio-aguiar-de-moraes\">Dacio Aguiar de Moraes</a> </center>",
+        "marker-color": "#ff2121",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.654557,
+          -23.532791
+        ],
+        "type": "Point"
+      },
+      "id": "bb29be564bdd7db4c8ca98c0b61f8f8e"
     },
     {
       "type": "Feature",
@@ -6293,6 +6429,23 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "<span style=\"display: none\"> Residência Mario Guastini </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/residencia-mario-guastini\">Residência Mario Guastini</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/oscar-americano\">Oscar Americano</a> </center>",
+        "marker-color": "#ff2121",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.666406,
+          -23.569563
+        ],
+        "type": "Point"
+      },
+      "id": "dd1408657c024c07ecf117e58b9aaa11"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "<span style=\"display: none\"> Residência Armando Santamaria </span> ",
         "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/residencia-armando-santamaria\">Residência Armando Santamaria</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/roger-zmekhol\">Roger Zmekhol</a> </center> <center> ",
         "marker-size": "small",
@@ -6487,8 +6640,8 @@
       },
       "geometry": {
         "coordinates": [
-          -46.666703,
-          -23.566974
+          -46.666712,
+          -23.566972
         ],
         "type": "Point"
       },
@@ -7075,6 +7228,23 @@
         "type": "Point"
       },
       "id": "f79438b2ca34ac89f441c5f733748cf7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "<span style=\"display: none\"> Hotel São Paulo </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/hotel-sao-paulo\">Hotel São Paulo</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/dacio-aguiar-de-moraes\">Dacio Aguiar de Moraes</a> </center>",
+        "marker-size": "small",
+        "marker-color": "#ff2121"
+      },
+      "geometry": {
+        "coordinates": [
+          -46.638492,
+          -23.548792
+        ],
+        "type": "Point"
+      },
+      "id": "fa3bb75b646e2d9e5653205b31b45bfb"
     },
     {
       "type": "Feature",
