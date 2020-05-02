@@ -207,10 +207,10 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "ci2wo9rif02fda5qw9jfn9zsm",
-        "description": "<span style=\"display: none\"> Edifício Montreal </span> ",
         "marker-color": "#ff2121",
-        "marker-size": "small"
+        "marker-size": "small",
+        "title": "<span style=\"display: none\"> Largo da Memória </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/largo-da-memoria\">Largo da Memória</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/victor-dubugras\">Victor Dubugras</a> </center>"
       },
       "geometry": {
         "coordinates": [
@@ -1848,9 +1848,9 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#ff2121",
-        "description": "<span style=\"display: none\"> Edifício Albina </span> ",
         "marker-size": "small",
-        "title": "<span style=\"display: none\"> Edifício Cícero Prado </span> "
+        "title": "<span style=\"display: none\"> Edifício Cícero Prado </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/edificio-cicero-prado\">Edifício Cícero Prado</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/gregori-warchavchik\">Gregori Warchavchik</a> </center>"
       },
       "geometry": {
         "coordinates": [
