@@ -140,9 +140,9 @@
       "type": "Feature",
       "properties": {
         "title": "<span style=\"display: none\"> Edifício Hecilda </span> ",
-        "description": "<span style=\"display: none\"> Edifício ABC </span> ",
-        "marker-size": "small",
-        "marker-color": "#ff2121"
+        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/edificio-hecilda\">Edifício Hecilda</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/abelardo-de-souza\">Abelardo de Souza</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/helio-duarte\">Hélio Duarte</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/zenon-lotufo\">Zenon Lotufo</a> </center> <center> ",
+        "marker-color": "#ff2121",
+        "marker-size": "small"
       },
       "geometry": {
         "coordinates": [
@@ -3763,8 +3763,8 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "ci2wo9rhr02eqa5qw5q188b8t",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/edificio-general-jardim\">Edifício General Jardim</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/oswaldo-bratke\">Oswaldo Bratke</a> </center> <center>",
+        "title": "<span style=\"display: none\"> Edifício General Jardim (Escola da Cidade) </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/edificio-general-jardim\">Edifício General Jardim (Escola da Cidade)</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/oswaldo-bratke\">Oswaldo Bratke </a> </center>",
         "marker-color": "#ff2121",
         "marker-size": "small"
       },
@@ -5845,15 +5845,15 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "marker-i9tepsk70",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/edificio-souto-de-oliveira\">Edifício Souto de Oliveira</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/icaro-de-castro-mello\">Icaro de Castro Mello</a> </center> <center> ",
+        "title": "<span style=\"display: none\"> Edifício Souto de Oliveira </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/edificio-souto-de-oliveira\">Edifício Souto de Oliveira</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/icaro-de-castro-mello\">Icaro de Castro Mello </a> </center>",
         "marker-color": "#ff2121",
         "marker-size": "small"
       },
       "geometry": {
         "coordinates": [
-          -46.642671,
-          -23.548925
+          -46.642681,
+          -23.548924
         ],
         "type": "Point"
       },
@@ -6325,7 +6325,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "#ff2121",
+        "title": "<span style=\"display: none\"> Edifício Olinda </span> ",
         "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/edificio-olinda\">Edifício Olinda</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/alfred-duntuch\">Alfred Düntuch</a> </center>",
         "marker-color": "#ff2121",
         "marker-size": "small"
