@@ -3060,15 +3060,13 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "marker-ia377n7s1",
-        "description": "<center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/cine-art-palacio\">Cine Art-Palácio (Cine UFA Palácio)</a> </center> <center> <a target=\"_parent\"  href=\"http://www.arquivo.arq.br/rino-levi\">Rino Levi</a> </center>",
-        "marker-size": "small",
-        "marker-color": "#ff2121"
+        "title": "<span style=\"display: none\"> Cine Art-Palácio (Cine UFA Palácio) </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/cine-art-palacio\">Cine Art-Palácio (Cine UFA Palácio)</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/rino-levi\">Rino Levi </a> </center>"
       },
       "geometry": {
         "coordinates": [
-          -46.638423,
-          -23.543654
+          -46.638416,
+          -23.543653
         ],
         "type": "Point"
       },
@@ -5625,12 +5623,12 @@
         "marker-color": "#ff2121",
         "marker-size": "small",
         "title": "<span style=\"display: none\"> Edifício Thomaz Edison </span> ",
-        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/edificio-thomaz-edison\">Edifício Thomaz Edison</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/francisco-beck\">Francisco Beck</a> </center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/lucjan-korngold\">Lucjan Korngold</a> </center>"
+        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/edificio-thomaz-edison\">Edifício Thomaz Edison</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/francisco-beck\">Francisco Beck</a> </center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/lucjan-korngold\">Lucjan Korngold</a> </center> <center> "
       },
       "geometry": {
         "coordinates": [
-          -46.641737,
-          -23.546369
+          -46.641733,
+          -23.546376
         ],
         "type": "Point"
       },
