@@ -241,15 +241,15 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#ff2121",
-        "marker-size": "small",
         "title": "<span style=\"display: none\"> Planetário do Ibirapuera </span> ",
-        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/planetario-do-ibirapuera\">Planetário do Ibirapuera</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/eduardo-corona\">Eduardo Corona</a> </center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/roberto-tibau\">Roberto Tibau</a> </center>"
+        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/planetario-do-ibirapuera\">Planetário do Ibirapuera</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/antonio-carlos-pitombo\">Antonio Carlos Pitombo</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/eduardo-corona\">Eduardo Corona</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/roberto-tibau\">Roberto Tibau</a> </center> <center> ",
+        "marker-color": "#ff2121",
+        "marker-size": "small"
       },
       "geometry": {
         "coordinates": [
-          -46.660888,
-          -23.58451
+          -46.660893,
+          -23.584504
         ],
         "type": "Point"
       },
@@ -5452,10 +5452,10 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "<span style=\"display: none\"> Edifício 5ª Avenida </span> ",
+        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/edificio-5-avenida\">Edifício 5ª Avenida</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/pedro-paulo-de-melo-saraiva\">Pedro Paulo de Melo Saraiva</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/miguel-juliano\">Miguel Juliano</a> </center> <center>",
         "marker-color": "#ff2121",
-        "marker-size": "small",
-        "title": "#ff2121",
-        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/edificio-5-avenida\">Edifício 5ª Avenida</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/pedro-paulo-de-melo-saraiva\">Pedro Paulo de Melo Saraiva</a> </center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/miguel-juliano\">Miguel Juliano</a> </center> <center> "
+        "marker-size": "small"
       },
       "geometry": {
         "coordinates": [
