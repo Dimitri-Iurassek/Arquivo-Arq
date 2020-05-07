@@ -3061,7 +3061,9 @@
       "type": "Feature",
       "properties": {
         "title": "<span style=\"display: none\"> Cine Art-Palácio (Cine UFA Palácio) </span> ",
-        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/cine-art-palacio\">Cine Art-Palácio (Cine UFA Palácio)</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/rino-levi\">Rino Levi </a> </center>"
+        "description": "<center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/cine-art-palacio\">Cine Art-Palácio (Cine UFA Palácio)</a> </center> <center> <a target=\"_parent\"  href=\"https://www.arquivo.arq.br/rino-levi\">Rino Levi </a> </center>",
+        "marker-color": "#ff2121",
+        "marker-size": "small"
       },
       "geometry": {
         "coordinates": [
